@@ -1,0 +1,4046 @@
+{
+ "177098842a179728e68543fbe3469affe4eba1e0": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es una IdeaPad Slim 3 con Snapdragon X, sin GPU dedicada y con pantalla de 15.3\"; es de otro segmento y precio muy inferior al de la LOQ gamer con i7-13650HX y RTX 5060.",
+  "confianza": 0.97
+ },
+ "02d955780f9ed213e69fc6aa0d163bbee5c004e4": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es una Nitro V 15 gamer con RTX 5050 dedicada, de otro segmento y mucho más cara (Q11,719 vs Q6,220), aunque comparte CPU, RAM y SSD",
+  "confianza": 0.85
+ },
+ "92846dd486ab7f3f5afed53380fb4e4cf0cead46": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "El candidato tiene 512GB SSD en lugar de 1TB y no incluye el mouse M100 RGB, lo que justifica un precio menor.",
+  "confianza": 0.85
+ },
+ "c3032e7691a97aa58c71b90dc6d357bfb2866026": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "El candidato es la OmniBook 3 de 14\" (14-hy0050la) con 512GB SSD frente a 256GB y pantalla de 16\" táctil en Imeqmo; el mayor almacenamiento justifica en parte su precio más alto.",
+  "confianza": 0.55
+ },
+ "b491d3c2a485cb1b696b0d0999b7f69db00b059a": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es una IdeaPad Slim 3 con Snapdragon X, sin GPU dedicada y con pantalla de 15.3\", de un segmento muy inferior a la LOQ gamer con RTX 5050.",
+  "confianza": 0.97
+ },
+ "2752c145b4ce6e26d44085bd41aff2e8c7f46a31": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo PV15250 con misma RAM y SSD, pero el candidato trae Core i7-1355U en lugar de i5-1334U, lo que justifica un precio mayor.",
+  "confianza": 0.72
+ },
+ "7370944434b08a3c14f4c641df50587d318db6b8": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "El candidato es un Dell 15 (DC15250) de consumo con 8GB de RAM en lugar de 16GB y pantalla táctil, frente al Pro Essential empresarial con W11 Pro; por menos RAM debería costar menos.",
+  "confianza": 0.55
+ },
+ "ef8882ffec2a9bb83f7c73a5982a6a7440752a5d": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo modelo C2RMTG-406 con igual configuración, Intelaf Q1,100 más caro",
+  "confianza": 0.9
+ },
+ "7b34e9df9d52f61aab777b82c08c5e90d0adb90b": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo DC15250 con i7-1355U y 512GB, pero el de Intelaf trae 16GB de RAM vs 8GB y no indica pantalla táctil, lo que justifica parte de su mayor precio.",
+  "confianza": 0.8
+ },
+ "5b303927c04e030f1a069d064704254edf880326": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "El candidato tiene 16GB de RAM (vs 8GB) y pantalla 2K sin indicar si es táctil, y el modelo no se especifica (probablemente un Dell 15 similar); su precio debería ser algo mayor.",
+  "confianza": 0.5
+ },
+ "eb1f300b8ee07cd99f68739e9e0c9f1870bc693e": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo DC15250 e i7-1355U, pero el candidato tiene 16GB de RAM (vs 8GB) y no indica pantalla táctil; debería costar algo más.",
+  "confianza": 0.7
+ },
+ "72cf4dcacb707d120e1e07363e06ff2ff8d72e0e": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto: OmniBook 5 Flip convertible con pantalla táctil vs OmniBook 3 clamshell no táctil; mismas CPU, RAM y SSD, segmento algo superior.",
+  "confianza": 0.6
+ },
+ "48d709339d0a2d2c412fc8f95631eeb87e6a12f3": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es el mismo modelo Dell 15 DC15250 pero con i7-1355U y 16GB RAM (vs i5-1334U y 8GB), una configuración superior y mucho más cara (Q8,946 vs Q5,183).",
+  "confianza": 0.8
+ },
+ "5ed3bd4c25e90446e4d6994c50d3f1f5968626fa": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es Dell Pro 15 Essential (segmento empresarial) con 16GB RAM, W11 Pro y sin pantalla táctil, frente a Dell 15 de consumo con 8GB; precio casi el doble, no comparable",
+  "confianza": 0.7
+ },
+ "6033a4c45463ccd03c8504461cf11f21415ce17c": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Misma configuración (N150, 4GB, 128GB UFS, 14\"); solo cambia el color (Willow Green vs Azul Cielo) y sufijo de modelo DQ6103DX vs DQ6102dx, precio Q57 mayor",
+  "confianza": 0.8
+ },
+ "32e2ab5f6cf517481429b788ac366da94cc498da": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Misma configuración (N150, 4GB, 128GB UFS, 14\"); solo cambia el color (Willow Green vs Plateado) y el sufijo de modelo DQ6103dx vs DQ6101dx; MacroSistemas cobra Q57 más.",
+  "confianza": 0.8
+ },
+ "d42aa19e99f11033742f43c5f6d2770d0a1664af": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (HP 15-fd2350la vs OmniBook 3 16) con misma CPU, RAM y SSD, pero pantalla de 15.6\" en lugar de 16\" y probablemente teclado en español.",
+  "confianza": 0.7
+ },
+ "2764034936047bc433237b55bf38c83de1f5562e": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (HP 15-fd2050wm de 15.6\" vs OmniBook 3 de 16\"), misma CPU, RAM y SSD; segmento de consumo similar, precio notablemente menor",
+  "confianza": 0.6
+ },
+ "0337ff2ff026cd954b6026bf00cd120d598982a5": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo OmniBook 3 16 y specs (Ultra 5 225U, 8GB, 512GB), pero número de parte distinto (bu0305dx) con pantalla 2K táctil, posiblemente superior a la del bu0150wm.",
+  "confianza": 0.8
+ },
+ "b842d08bc82affd05a2e58c1b6773d9f4e251eb4": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Variante regional distinta (15-fd2350la vs 15-fd2050wm) con mismas specs; probablemente teclado en español y posible diferencia de color.",
+  "confianza": 0.8
+ },
+ "6dc630294e15081b4dfb8644e6146906de21aeea": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (OmniBook 3 vs HP 15), pantalla de 16\" 2K táctil frente a 15.6\"; misma CPU, RAM y SSD, precio Q104 mayor.",
+  "confianza": 0.6
+ },
+ "b6b9577b6c725cdad3c088d2691e01f6e1467c2d": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (OmniBook 5 16-ag1051la) con pantalla de 16\" en vez de 15.6\"; misma CPU, RAM y SSD; incluye mochila y Eset gratis.",
+  "confianza": 0.7
+ },
+ "02b4e348e356ccd23a15c2ef343c12a8fd50b43f": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (OmniBook X Flip 16 convertible táctil de 16\" vs OmniBook 3 de 15.6\"), misma CPU, RAM y SSD; el Flip suele ser de gama superior.",
+  "confianza": 0.6
+ },
+ "dd7b0ffa679d70a480eefb46bc3e81faab1bf13d": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato duplica la RAM (32GB vs 16GB) y trae RTX 5070 en lugar de RTX 5050, con un precio mucho mayor; no es comparable.",
+  "confianza": 0.8
+ },
+ "0e49e9aa43106ccbae7616f9088cc7b3bb5b2f70": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo PC14250 pero con Intel Core Ultra 7 255U en lugar de Ultra 5 225U (CPU superior, precio más alto); color gris metálico vs negro.",
+  "confianza": 0.75
+ },
+ "fa405908f56c886e7fd3ec33b4befb148d0069f8": {
+  "candidato": 3,
+  "nivel": "equivalente",
+  "diferencias": "El candidato es la Dell 15 DC15250 de consumo con la misma CPU, RAM, SSD y pantalla, pero es un modelo distinto al Dell Pro PV15250 (línea empresarial con W11 Pro), lo que explica su menor precio.",
+  "confianza": 0.6
+ },
+ "7545182747801b9e5491434bc2a1e474db308fdd": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es una IdeaPad Slim 3 con Snapdragon X (ARM) y pantalla de 15.3\", segmento y CPU distintos al i7-13620H, por lo que no es comparable en precio.",
+  "confianza": 0.93
+ },
+ "a5c7c928fd79eca0c6843a2a0a8f20defa21005d": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo PC14250 pero con Core Ultra 7 255U en lugar de Ultra 5 235U (CPU superior, precio más alto); color gris metálico",
+  "confianza": 0.72
+ },
+ "3108e3fbbf610780b4835a3d9dc496e042fb1736": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "El candidato tiene pantalla de 16\" (probablemente Dell Pro 16) frente a 14\" de Imeqmo, con UPC distinto; CPU, RAM y almacenamiento son iguales.",
+  "confianza": 0.7
+ },
+ "147b58761637aa17920b286d10166ed9a2bd4bdb": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (IdeaPad Slim 3 vs V15 G5), pantalla de 15.3\" en lugar de 15.6\" y Windows 11 Home en vez de Pro; misma CPU, RAM y SSD.",
+  "confianza": 0.7
+ },
+ "c328c627460f81e10aecd43391ab3ba0d8662546": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (IdeaPad Slim 3 vs V15 G5, segmento consumo vs negocios) con pantalla 15.3\" WUXGA en lugar de 15.6\" y Windows 11 posiblemente Home en vez de Pro; misma CPU, RAM y SSD.",
+  "confianza": 0.6
+ },
+ "00aa66099d1f083f62f8f6531e13bddb170d3103": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo Alienware 16 Aurora AC16250 con 16GB/1TB y 16\", pero el candidato trae Intel Core 7 240H (no Core Ultra 7 240H) y RTX 5050 en lugar de RTX 5060, por lo que debería costar menos.",
+  "confianza": 0.6
+ },
+ "3ea32ecb69cfb92e1befbb3efdabdcbf7483c09a": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato tiene la mitad de almacenamiento (512GB vs 1TB), GPU inferior (RTX 4050 vs RTX 5060), pantalla de 15.3\" y un CPU distinto (Core 7 240H vs Core Ultra 7 240H); no es comparable en precio",
+  "confianza": 0.8
+ },
+ "f0f8f2ac9b2a34e00326403ef73443b78bef2f6a": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo Aurora AC16250 y CPU, pero el candidato tiene 512GB SSD en vez de 1TB y RTX 5050 en vez de RTX 5060 (config. inferior, precio menor).",
+  "confianza": 0.6
+ },
+ "45a420fc59cb68aa31ac02270551489e5b1d80b5": {
+  "candidato": 3,
+  "nivel": "equivalente",
+  "diferencias": "Candidato 3 es otro submodelo (FA2082WM) con GPU superior RTX 4050 en lugar de RTX 3050; misma CPU, RAM y SSD, color plata mica igual.",
+  "confianza": 0.6
+ },
+ "1bec6ec12c2f76a64e4c3c2b20a631109572b151": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Candidato es Dell Pro 14 (PC14250) de 14\" en lugar de 16\" (PC16250); misma CPU Ultra 7 255U, 16GB y 512GB, color gris vs plateada",
+  "confianza": 0.7
+ },
+ "e2e7d0fd47376f636f918daea7766d7162209acf": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "El candidato es Dell 16 (DC16251) de consumo con 8GB RAM en vez de 16GB, pantalla táctil y Windows Home probable, frente al Dell Pro PC16250 empresarial con W11 Pro; segmento y RAM distintos explican el precio mucho menor.",
+  "confianza": 0.35
+ },
+ "e5b6d3b5c3979e178d6ea6d95a19f2b6cf685c41": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo HP 15-fc0 con igual CPU, RAM y SSD, pero el candidato es variante canadiense (027CA) con pantalla táctil y probablemente teclado en inglés/francés, frente a la versión latinoamericana en azul con teclado español.",
+  "confianza": 0.8
+ },
+ "34f514a9d28e44c13aff31f52eea519e4ed4c4cf": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto de la misma serie HP 15-fc (0353la vs 0250la), CPU Ryzen 5 sin modelo exacto especificado, color plata vs azul, y el de Imeqmo incluye mochila gratis",
+  "confianza": 0.6
+ },
+ "97ca977f3734b31acfaaf046a9a0dd0677641604": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato comparable: el V14 G5 tiene menos RAM (8GB), SSD de 256GB y pantalla de 14\" en un segmento más económico; el IdeaPad Slim 3 usa Ryzen 7 7730U, pantalla de 15.6\" y es de gama de consumo.",
+  "confianza": 0.85
+ },
+ "21509fa78a8a00bbeea0a4fe7001c1fc362bd7e2": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una IdeaPad Slim 3 con Snapdragon X y sin GPU dedicada, muy inferior a la LOQ con i7-13650HX y RTX 5060; no es comparable en precio.",
+  "confianza": 0.97
+ },
+ "26ef18ef3d0a347b62cb0e57fea8022d8b72ca0d": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una Nitro V 15 gamer con RTX 5050 dedicada y pantalla de 165Hz, de un segmento superior (Q11,719 vs Q6,599), por lo que no es comparable con la Aspire Lite de gráficos integrados.",
+  "confianza": 0.9
+ },
+ "e255478621fc7bb00eda7e9f42b4f98362c40b70": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una IdeaPad Slim 3 con Snapdragon X, sin GPU dedicada y pantalla de 15.3\", mientras que el producto es una LOQ gamer con Ryzen 7 170 y RTX 5050; segmento y precio muy distintos.",
+  "confianza": 0.97
+ },
+ "02f80b4fc554b1f6c7444f83b3a0c28e8869f790": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo DC15250 y CPU i7-1355U, pero el candidato trae 16GB de RAM vs 8GB (justifica mayor precio); no se confirma pantalla táctil.",
+  "confianza": 0.8
+ },
+ "fbf037df8e06996d542d6ab245129539b02e5051": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo Dell 15 DC15250 con i7-1355U y 512GB, pero el candidato tiene 16GB de RAM frente a 8GB, no indica pantalla táctil y trae teclado en español (LA); justifica un precio mayor.",
+  "confianza": 0.8
+ },
+ "2c0389290a1445d3204aac72d33cff9fdda834aa": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo DC15250 e i7-1355U, pero el candidato trae 16GB de RAM (vs 8GB) y no indica pantalla táctil, lo que eleva su precio",
+  "confianza": 0.7
+ },
+ "2cb522cb522390033f6dce84d98f4c0dfdb075cf": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto: el Envy x360 es convertible táctil con lector de huella, de segmento superior al OmniBook 3; misma CPU, RAM y SSD, pero su precio es Q2,900 mayor.",
+  "confianza": 0.55
+ },
+ "122e1a493e467e531c1440844f540f7e0fd6237a": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo Dell 15 DC15250 con i5-1334U y 512GB, pero el de Intelaf trae 16GB RAM (vs 8GB) y no indica pantalla táctil; color plateado vs negro.",
+  "confianza": 0.8
+ },
+ "6a8ed580e5902320de836a162b35d21ff7b29a0b": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato 1 es el mismo modelo Dell 15 DC15250 pero con i7-1355U y 16GB (vs i5-1334U y 8GB), y el 2 es otro modelo (Pro 15 Essential) con 16GB y W11 Pro; ambos con precio muy superior.",
+  "confianza": 0.7
+ },
+ "d28eeda0b5786bd4e6fcefd49b8a04a32f1576be": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo base (14-dq6xxx) con N150/4GB/128GB UFS/14\"; solo cambia el color (Willow Green vs Plateado) y el sufijo de modelo/UPC; precio Q88 más alto en MacroSistemas.",
+  "confianza": 0.8
+ },
+ "6fbc2517ef9f0150258384b385bb7fc2146b3668": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (HP 15-FD2050WM de consumo vs OmniBook 3 16\") con pantalla de 15.6\" en lugar de 16\"; misma CPU, RAM y SSD.",
+  "confianza": 0.6
+ },
+ "4ef9be22a415607339663d5b869b8aac8e38711f": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato tiene 32GB de RAM y RTX 5070 en lugar de 16GB y RTX 5050, configuración superior y más cara (Q15,589 vs Q11,395).",
+  "confianza": 0.8
+ },
+ "185538008e11f612088a6c25531c783310a8a92c": {
+  "candidato": 3,
+  "nivel": "equivalente",
+  "diferencias": "Dell 15 DC15250 (línea consumo) en vez de Dell Pro PV15250 con W11 Pro; mismas specs, pero el modelo Pro suele costar más",
+  "confianza": 0.6
+ },
+ "6860ada46adba64495d6cf5ac3fcf31fdde9bc1e": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo Dell Pro 14 PC14250 pero con Core Ultra 7 255U en vez de Ultra 5 235U (CPU superior, precio mayor); color gris vs plateada.",
+  "confianza": 0.68
+ },
+ "12b73d55603279b60defea4a67dc3d7b8828afd2": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Candidato es Dell Pro de 16\" (probable PC16250) vs 14\" de Imeqmo; mismos CPU, RAM y SSD, teclado LA, 3 años de garantía",
+  "confianza": 0.55
+ },
+ "be2a819d494455182c6a88911e61437a6b6a8ffe": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Candidato 1 tiene CPU superior (U7 270HX) y 32GB RAM a casi el doble de precio; candidato 2 es otro modelo con 512GB, RTX 4050 y pantalla 15.3\"",
+  "confianza": 0.8
+ },
+ "4928a88e4184cc49735662ec6751b98c52a2426b": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo Aurora AC16250 y CPU 240H, pero el candidato tiene 512GB SSD en vez de 1TB y RTX 5050 en vez de RTX 5060, lo que justifica un precio menor.",
+  "confianza": 0.6
+ },
+ "a403d8432834eaf938d3264a1a4a547ed0fa1f1c": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo Victus 15-FA2 con i5-13420H y RTX 3050, pero el candidato tiene 8GB RAM vs 16GB (variante FA2013DX), lo que explica parte del menor precio.",
+  "confianza": 0.6
+ },
+ "4643f3b2e89848c312731736e32fc94307fbcca7": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "El candidato es un Dell 16 (DC16251) de línea consumo con 8GB de RAM en lugar de 16GB, pantalla táctil, color plata y W11 Home probable, frente al Pro PC16250 con 16GB y W11 Pro; su precio es bastante menor.",
+  "confianza": 0.45
+ },
+ "5a1fd0d5861dd5d158aae063fe5e2404ac079d44": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Variante distinta (15-fc0146dx vs 15-fc0250la): el candidato tiene pantalla táctil, color plateado y probablemente teclado en inglés (modelo DX de EE. UU.), y no incluye mochila de regalo.",
+  "confianza": 0.8
+ },
+ "e08f0c85d6d580bfb491711accae296c78fadd44": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es comparable: el V14 G5 tiene la misma CPU pero solo 8GB/256GB y pantalla de 14\"; el IdeaPad Slim 3 tiene 16GB/512GB pero usa Ryzen 7 7730U y es de un segmento de consumo más económico.",
+  "confianza": 0.8
+ },
+ "55a07663a4d637092ffecf4b57f3a63f584e5c75": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es otra marca (HP OmniBook 5), reacondicionado, sin GPU dedicada RTX 5070 y de segmento de oficina, no comparable en precio con la Gigabyte AERO X16 gamer/creadora.",
+  "confianza": 0.9
+ },
+ "1ea0145ab17928934a0f539e0bd6f780c85e79e1": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es una IdeaPad Slim 3 con Snapdragon X y sin GPU dedicada, de un segmento muy inferior a la LOQ gamer con i7-13650HX y RTX 5060.",
+  "confianza": 0.97
+ },
+ "7312ade335b68f094573111300597ded4a4ebb38": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son laptops gamer con GPU dedicada RTX (Nitro V 15 de Acer y Victus de HP, otra marca), de segmento y precio muy superior a la Aspire Lite con gráficos integrados.",
+  "confianza": 0.85
+ },
+ "0c37a7b672512336801acfb65383fd5d42abfe9e": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es de otra marca (MSI Thin A15), tiene 512GB SSD en lugar de 1TB y teclado en inglés, por lo que no es comparable en precio",
+  "confianza": 0.75
+ },
+ "e21935a8eff80c2da9c14fd16dc964ddf62520f4": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo OmniBook 3 y CPU Ryzen 5 40 con 8GB, pero el candidato tiene 512GB SSD (vs 256GB) y pantalla de 14\" sin táctil (vs 16\" táctil), lo que explica su precio mayor",
+  "confianza": 0.5
+ },
+ "db92d654ae90f9a8f026ab3f8994467f0b25e2b3": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son ASUS Vivobook (otra marca) de oficina sin GPU dedicada; el Lenovo LOQ es gaming con RTX 5050 8GB, segmento y precio distintos",
+  "confianza": 0.8
+ },
+ "bfe954d3b5cfbbe6da59250e5c1dd7b7d178e3cf": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es una IdeaPad Slim 3 con Snapdragon X sin GPU dedicada, de un segmento muy inferior a la LOQ gamer con Ryzen 7 170 y RTX 5050; no es comparable en precio.",
+  "confianza": 0.95
+ },
+ "d69f104d248fad622bb02d076a1e7645f93b2a47": {
+  "candidato": 1,
+  "nivel": "distinto",
+  "diferencias": "El más cercano es el Dell 15 DC15250 (línea de consumo, no Pro Essential), con la mitad de RAM (8GB vs 16GB), pantalla táctil y Windows 11 Home, de color negro. No es comparable en precio.",
+  "confianza": 0.6
+ },
+ "e695aa38eaa43f23de49a056bb4f1f9dcb757f2c": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo DC15250 con i7-1355U y 512GB, pero el de Intelaf tiene 16GB de RAM (vs 8GB) y no indica pantalla táctil, lo que explica su mayor precio",
+  "confianza": 0.8
+ },
+ "8743a0173049269f31ac9af95f619f2d604e02a5": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo Dell 15 DC15250 con i7-1355U y 512GB, pero el candidato trae 16GB de RAM (vs 8GB), teclado en español LA y no indica pantalla táctil, lo que justifica parte de su mayor precio",
+  "confianza": 0.8
+ },
+ "16b0cc592bd1cc9ce918259ccb403cc9fdbf5953": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo DC15250 con i7-1355U y 512GB, pero el candidato trae 16GB de RAM (vs 8GB) y no indica pantalla táctil; debería valer algo más.",
+  "confianza": 0.7
+ },
+ "6f4ff2253d9342eeb32c892cac6a2da0ff705039": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto de HP (Envy x360 convertible táctil con lector de huella, gama superior a OmniBook 3), mismas CPU, RAM y almacenamiento; precio notablemente mayor",
+  "confianza": 0.6
+ },
+ "8666d05bd0b92054952838516dbc956865fd67f0": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo Dell 15 DC15250 con i5-1334U y 512GB, pero con 16GB de RAM en vez de 8GB, sin indicar pantalla táctil y color plateado; justifica un precio mayor.",
+  "confianza": 0.8
+ },
+ "e5773e312418e26bff7b8c314dbc4a0390cdc551": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (HP 15-fd0250la) con la misma CPU i5-1334U, 8GB RAM y 512GB SSD; no indica pantalla táctil y tiene teclado en español",
+  "confianza": 0.7
+ },
+ "5a23a9388ba58699592c9e767e0fba314952e971": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo HP 14-dq6xxx con N150, 4GB, 128GB UFS y 14\"; solo cambia el color (Willow Green vs Plateado), con sufijo de modelo y UPC distintos por color.",
+  "confianza": 0.8
+ },
+ "fe17a1eb5086538117ab878743c33e4ea04175ed": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto de HP (15-fd2350la vs OmniBook 3 16-bu0150wm) con misma CPU, RAM y SSD, pero pantalla de 15.6\" en vez de 16\" y probablemente teclado en español; precio menor",
+  "confianza": 0.8
+ },
+ "a82cd4277fbaf4e06fa948145d5abc3e01aaad8e": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto de HP (Laptop 15-FD2050WM, línea de entrada inferior a OmniBook 3) con pantalla de 15.6\" en vez de 16\"; misma CPU, RAM y SSD, precio menor.",
+  "confianza": 0.6
+ },
+ "d64dc44d124679813ab19ec71eb9f8e51b59c3e8": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo OmniBook 3 16 con igual CPU, RAM y SSD, pero distinto número de parte (16-bu0305dx vs 16-bu0150wm); el candidato tiene pantalla 2K táctil, posiblemente superior a la de Imeqmo, y cuesta Q1,451 menos.",
+  "confianza": 0.8
+ },
+ "91114b815cee5b97ae43f915e3a6c6344fa15766": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo base HP 15-fd2 con iguales specs (Ultra 5 225U, 8GB, 512GB, 15.6\"), pero es la variante 15-FD2350LA para Latinoamérica (probable teclado en español) en lugar de la 15-fd2050wm de Imeqmo con teclado en inglés; el candidato cuesta Q485 más",
+  "confianza": 0.8
+ },
+ "22dac63885aa91297a2b3c0081df3bc0c7ca1dc4": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (HP OmniBook 3 16\"), misma CPU, RAM y SSD, pero pantalla de 16\" 2K táctil frente a 15.6\" del 15-fd2050wm, lo que suele justificar un precio algo mayor",
+  "confianza": 0.72
+ },
+ "685d2886c48bd3faf6755ab01c5448136c2419b2": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto de HP (OmniBook 16-ag1051la vs OmniBook 3 15-fn0051la) con pantalla de 16\" en lugar de 15.6\"; misma CPU, RAM y SSD; incluye mochila y Eset de regalo",
+  "confianza": 0.8
+ },
+ "607304b1c928919bc4da37999ad8be8bb0f5a966": {
+  "candidato": 1,
+  "nivel": "distinto",
+  "diferencias": "El candidato tiene 32GB de RAM (vs 16GB) y RTX 5070 (vs RTX 5050), una configuración superior y más cara (Q14,499), por lo que no es comparable en precio.",
+  "confianza": 0.7
+ },
+ "d99ff7b25fdf3146cc4095d1e7d7371331b73577": {
+  "candidato": 3,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto de Dell (Dell 15 DC15250 de consumo vs Dell Pro PV15250 empresarial) con mismas specs; posiblemente Windows Home en lugar de Pro y sin especificar color ni teclado.",
+  "confianza": 0.68
+ },
+ "d125ad1fd8a758c35f3a2841a187e272819e4f50": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo Dell Pro 14 PC14250 pero con Core Ultra 7 255U en lugar de Ultra 5 235U (CPU superior, precio mayor); color gris metálico vs plateada.",
+  "confianza": 0.7
+ },
+ "2457c1e4e47aa5c023f161c4a569ce7432ceff0b": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo CPU, RAM y SSD pero pantalla de 16\" (probablemente Dell Pro 16) en vez de 14\"; teclado LA y 3 años de garantía",
+  "confianza": 0.6
+ },
+ "642fd1a647b65a9b2f16666d90d0eb626154aa2e": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es comparable: el [1] tiene CPU Ultra 7 270HX Plus y 32GB RAM (precio muy superior); el [2] usa Core 7 240H, 512GB SSD, RTX 4050 y pantalla 15.3\".",
+  "confianza": 0.8
+ },
+ "b48a3a164c8365a1828c26be6a91f7ec1d4d49eb": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo Alienware 16 Aurora AC16250 con el mismo Core 7 240H y 16GB, pero con SSD de 512GB en lugar de 1TB y GPU RTX 5050 en lugar de RTX 5060; configuración inferior que justifica un precio menor.",
+  "confianza": 0.72
+ },
+ "7c1278cdcf7f5c5055be2c966b3e3f78b4675642": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo HP Victus 15 con i5-13420H y RTX 3050, pero variante FA2013DX con 8GB de RAM en vez de 16GB, lo que explica en parte su menor precio.",
+  "confianza": 0.6
+ },
+ "4bd2652a4702da27d713bd456d2524a0374bd0ea": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo Dell 16 DC16251 (línea consumo) con 8GB RAM en vez de 16GB, pantalla táctil, color plata y probablemente W11 Home; menor precio esperado",
+  "confianza": 0.55
+ },
+ "24b4705a98007a2864895afc2b996831c1a4bc93": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo HP 15-fc0 con igual CPU, RAM y SSD, pero es variante canadiense (027CA) con pantalla táctil y posiblemente teclado en inglés/francés; color no indicado.",
+  "confianza": 0.72
+ },
+ "3872ab8b647b856784ca300caa82cc0dba8e6af1": {
+  "candidato": 3,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo HP 15-fc0, pero variante distinta (fc0353la vs fc0250la); el título no especifica el modelo exacto del Ryzen 5 (probablemente 7520U), es color plateado en lugar de azul y no incluye la mochila de regalo.",
+  "confianza": 0.6
+ },
+ "dc2935dd3b08837cfe1eceab0f75866cf39abc44": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo HP 15-fc0 con igual CPU, RAM y SSD, pero es la variante 15-fc0146dx (versión EE. UU.) con pantalla táctil y color plateado, probablemente con teclado en inglés y sin la mochila de regalo.",
+  "confianza": 0.8
+ },
+ "ccac6aafb6ee541b2a7aa2eb67f723b6bca7a4d7": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "ninguno comparable: el V14 G5 tiene 14\" con 8GB/256GB y el IdeaPad Slim 3 es de consumo con Ryzen 7 7730U y 15.6\", frente al ThinkBook 16 empresarial",
+  "confianza": 0.85
+ },
+ "4587c6035a68ecec0134118af59a6d6f0b53208f": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es otra marca (HP OmniBook 5), reacondicionado, con GPU integrada y de segmento consumo, frente a la AERO X16 gaming con RTX 5070 dedicada.",
+  "confianza": 0.95
+ },
+ "5d7d41d07ed7ce566acd84837fbbdeae0e43cb6f": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es una IdeaPad Slim 3 de oficina con Snapdragon X y gráficos integrados, frente a una LOQ gaming con i7-13650HX y RTX 5060; no es comparable en precio.",
+  "confianza": 0.97
+ },
+ "639436d3cc1262fd258398f9e79ad0d2354f36b3": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ambos candidatos son laptops gaming con GPU dedicada (RTX 5050/5060), mientras que la Aspire Lite tiene gráficos integrados y es de consumo; la HP Victus además es de otra marca.",
+  "confianza": 0.95
+ },
+ "7114667a6781f72f41ad48f6195174d6e20f1d95": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (MSI Thin A15 vs Lenovo LOQ), la mitad de almacenamiento (512GB vs 1TB), teclado en inglés y sin mouse incluido",
+  "confianza": 0.75
+ },
+ "e7b2e3c2855e59210c3e2fdc5c2ef7278bb2c5f0": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato tiene pantalla de 14\" (vs 16\") y 512GB SSD (vs 256GB), por lo que no es comparable",
+  "confianza": 0.9
+ },
+ "d69a125fbbc49eddd2946b4fa80f39357963bafd": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son ASUS Vivobook de consumo con gráficos integrados, mientras que el producto de Imeqmo es una laptop gaming con RTX 5050 dedicada; además son de otra marca.",
+  "confianza": 0.93
+ },
+ "78fb99faa9029ab712ca1e5ec71ee7e394dedbef": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es una IdeaPad Slim 3 de oficina con Snapdragon X y GPU integrada, frente a una LOQ gaming con Ryzen 7 170 y RTX 5050 dedicada; no son comparables en precio.",
+  "confianza": 0.97
+ },
+ "2a6964ac465054794034f1b88a225e77862050fe": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ambos candidatos tienen 8GB de RAM frente a 16GB (y el 2 es un Inspiron de 16\"), por lo que no son comparables en precio",
+  "confianza": 0.88
+ },
+ "c3473edb63f8fa51ff6c32d7e3f581707243ce1e": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Todos los candidatos tienen 16GB de RAM frente a 8GB del producto de Imeqmo, por lo que no son comparables en precio",
+  "confianza": 0.85
+ },
+ "1a5bb8726983a2efa857d203a9b9c38ded1dd188": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Todos los candidatos tienen 16GB de RAM frente a 8GB de Imeqmo; el más cercano (DC15250 4PPNH) es el mismo modelo pero con el doble de RAM.",
+  "confianza": 0.85
+ },
+ "81d1d39f974205e5b0a8f7cff30c872145b4f9f1": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo Dell DC15250 táctil, pero con CPU Core i5-1334U en lugar de i7-1355U (gama inferior, precio menor)",
+  "confianza": 0.8
+ },
+ "7bffde4371b281ddd70e780ae638ecc4e81d8d01": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una HP Envy x360 convertible táctil con lector de huella, de segmento premium distinto a la OmniBook 3 de consumo básico, aunque comparte CPU, RAM y almacenamiento; su precio no es comparable.",
+  "confianza": 0.7
+ },
+ "04ec391bf98fd5c0b14f8dabde5fb6b7257576bc": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Todos los candidatos tienen 16GB de RAM frente a 8GB de Imeqmo (el más cercano, Dell 15 DC15250 X5NH3, cuesta Q8,344); no son comparables en precio.",
+  "confianza": 0.85
+ },
+ "3edaa2063cbaa8adceccdfd17c30bc9598b256ab": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (HP 15-FD0250LA) con misma CPU, RAM y almacenamiento; el Dell de Imeqmo es táctil y el HP probablemente no, teclado en español",
+  "confianza": 0.72
+ },
+ "a26528fe569da7f5a2059b39fb460e11e1577ecd": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Misma configuración (N150, 4GB, 128GB UFS, 14\"); solo cambia el color (Willow Green vs Plateado) y el sufijo de modelo DQ6103dx vs DQ6101dx",
+  "confianza": 0.82
+ },
+ "7b2c1cd56db43672c4339c832169c62e2079955c": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (HP 15-fd2350la vs OmniBook 3 16), pantalla 15.6\" vs 16\", misma CPU, RAM y almacenamiento; Windows 11 Home Single Language y probablemente teclado en español",
+  "confianza": 0.72
+ },
+ "403903abf3268ef675b2136a2e4b8d149a096cc6": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (HP 15-FD2050WM en lugar de OmniBook 3 16-bu0150wm) con pantalla de 15.6\" vs 16\"; misma CPU, RAM, SSD y gráficos integrados; línea de consumo básica, lo que suele implicar menor precio.",
+  "confianza": 0.7
+ },
+ "9984d077da0cc89dc61ecdf60e77fb38294fba2d": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo OmniBook 3 16 con igual CPU, RAM y SSD, pero distinta variante (16-bu0305dx) con pantalla 2K táctil, que podría encarecer el equipo, y GPU no indicada (presumiblemente integrada)",
+  "confianza": 0.75
+ },
+ "23d796b9e4765819e806d4d011b0056a1d932f5e": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo HP 15 serie fd2 con igual configuración (Ultra 5 225U, 8GB, 512GB, 15.6\"), variante regional 15-fd2350la con teclado en español; GPU no indicada (presumiblemente integrada)",
+  "confianza": 0.8
+ },
+ "3829476cd96ec0bbd7e496be59706efe421b3947": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (OmniBook 3 16\") con pantalla 16\" 2K táctil frente a 15.6\", misma CPU, RAM y SSD; precio Q104 mayor",
+  "confianza": 0.6
+ },
+ "69c15dce295cb66cf298d959f7dcf7a6009b09a9": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (OmniBook 5 16-ag1051la vs OmniBook 3 15.6\"), pantalla 16\" vs 15.6\", misma CPU/RAM/SSD; incluye mochila y Eset de regalo",
+  "confianza": 0.6
+ },
+ "e658955df597aeecc688b915f5ca8a098d91e85c": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato tiene 32GB de RAM (vs 16GB) y RTX 5070 (vs RTX 5050), lo que lo hace más caro; no es comparable",
+  "confianza": 0.9
+ },
+ "ab5d8b0d187dddcee9911b1806471f6f3f31c297": {
+  "candidato": 3,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto: Dell 15 DC15250 (línea de consumo) frente a Dell Pro PV15250 (línea empresarial de entrada) con la misma configuración i7-1355U, 16GB, 512GB y 15.6\"; probablemente trae W11 Home en lugar de Pro.",
+  "confianza": 0.55
+ },
+ "751b900a6d23d0a56eb9a811ec5844e1ccc7f563": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo Dell Pro 14 PC14250 pero con Intel Core Ultra 7 255U (superior al Ultra 5 235U), color gris metálico; precio mayor justificado por CPU.",
+  "confianza": 0.8
+ },
+ "392bf99afb19b5f5f2b8d6736fc364de9de0631c": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Modelo Pro 14 Plus PB14250 (gama superior) con la misma CPU y RAM pero la mitad de almacenamiento (256GB vs 512GB) y teclado en inglés (US).",
+  "confianza": 0.6
+ },
+ "8b54fa0d76cb63999724332aca04fbb93f47d5d7": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato 1 tiene 32GB de RAM (vs 16GB) y CPU U7 270HX Plus, de gama superior; el candidato 2 difiere en CPU (Core 7 240H), almacenamiento (512GB) y GPU (RTX 4050), además de tener pantalla de 15.3\"",
+  "confianza": 0.85
+ },
+ "c26b70dafc322b81bf10f287d9df1b6acc8b92b3": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es comparable. El Alienware AC16250 de Click trae 512GB y RTX 5050 (dos diferencias). El ASUS Vivobook V16 es de otra marca y de segmento consumo, no gaming.",
+  "confianza": 0.6
+ },
+ "6f7d19c4f1e19dfa12b2015e035976423e610344": {
+  "candidato": 4,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Acer Nitro V15); GPU RTX 5050 8GB en vez de RTX 3050 6GB y pantalla de 165Hz, lo que justifica un precio algo mayor",
+  "confianza": 0.7
+ },
+ "3674b94de8432f28950b3947ad092cd98d02bdc9": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato tiene 8GB de RAM frente a 16GB, es táctil y de color plata, por lo que no es comparable en precio.",
+  "confianza": 0.9
+ },
+ "402cc40e3e6f179baf4959ca2d0bb3b6752ae150": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo HP 15-fc0027 con igual configuración; variante CA (Canadá) con pantalla táctil y probablemente teclado en inglés/francés, posible diferencia de color",
+  "confianza": 0.72
+ },
+ "8fb179e1f8d28d1a6c3ee7b97f6bdc6f439cb937": {
+  "candidato": 3,
+  "nivel": "equivalente",
+  "diferencias": "Misma serie HP 15-fc0 (fc0353la) con 8GB/512GB, pero la CPU solo indica Ryzen 5 (probablemente 7520U, no confirmado); color plateado y sin mochila de regalo.",
+  "confianza": 0.6
+ },
+ "5dbaa641ff5ef46e804d6dca873ccfd3e2d7a9b7": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra variante del HP 15-fc0 (fc0146dx vs fc0250la): misma CPU, RAM, SSD y pantalla, pero con táctil, color plateado, probable teclado en inglés y sin la mochila de regalo.",
+  "confianza": 0.72
+ },
+ "5ddd2633bbb3ef2f503458b9a1641c1481720b3f": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es comparable: el 1 es un All-in-One de 27\" (otra marca, otro formato) y el 2 y el 3 son laptops gaming con GPU dedicada RTX (otro segmento y precio).",
+  "confianza": 0.9
+ },
+ "91b50b53494d2122d069d020d71beb4c75931e77": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato comparable: los candidatos 1 y 2 tienen 8GB de RAM (vs 16GB), y el 3 es un All-in-One de 23.8\", no una laptop.",
+  "confianza": 0.85
+ },
+ "c5fe120cbe2c178d57d4e6aad9e93c590996ca14": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es comparable: el 1 es mini desktop, el 2 tiene 14\" y la mitad de RAM y almacenamiento, y el 3 cambia el CPU (Ryzen 7 7730U) y el segmento (consumo vs empresarial).",
+  "confianza": 0.8
+ },
+ "d3ba341c51d15d9ffaf055831f39284799a8a679": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es un All-in-One de escritorio de 23.8\" (HP AIO 24-cr0233la), no una laptop de 14\"; no es comparable",
+  "confianza": 0.95
+ },
+ "321ce58436f7ded57b896b9a0032b76d73bdc38b": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otro modelo de HP (HP 15-FD2050WM en lugar de OmniBook 3) con pantalla de 15.6\" en vez de 16\"; misma CPU, RAM y SSD.",
+  "confianza": 0.78
+ },
+ "6bb649b336d13820a8a2c488ab1048b84d157bb0": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo OmniBook 3 16 con igual CPU, RAM y SSD, pero variante 16-bu0305dx con pantalla 2K táctil (la nuestra no lo indica); GPU integrada asumida.",
+  "confianza": 0.7
+ },
+ "24e7b58d8f064fbfdb060add2ffbeda336b5a374": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "ninguno comparable: el candidato 1 tiene 32GB de RAM y RTX 5070 (dos diferencias, precio mayor); el candidato 2 es un All-in-One ASUS de 27\" sin GPU dedicada",
+  "confianza": 0.9
+ },
+ "149dd10d1a0b7f8056a3e9380cfb5a180efb84bd": {
+  "candidato": 3,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (Pro 14 Plus PB14250 vs Pro PC14250) con la mitad de almacenamiento (256GB vs 512GB) y teclado en inglés US; precio menor esperable.",
+  "confianza": 0.6
+ },
+ "f8168d2316898dcc3544e14883223ac3101c3144": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es un All-in-One de 23.8\" con Core 5 120U, no una laptop de 14\"; no es comparable en precio.",
+  "confianza": 0.97
+ },
+ "5b3416649326cdf09bb5ac59f2ff88e0b9c66d75": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es una All-in-One de 23.8\" táctil con Core 5 120U, no una laptop de 16\"; no es comparable en precio.",
+  "confianza": 0.97
+ },
+ "e4f4d165c61de39fc91af056ac0530091971890a": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto de HP (OmniBook 3 16-bu0305dx) con pantalla de 16\" 2K táctil frente a 15.6\"; misma CPU, RAM y SSD.",
+  "confianza": 0.72
+ },
+ "dcd25f0c56576af0f5ba21bdcb0e1fdd6ca763fa": {
+  "candidato": 4,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Acer Nitro V 15); GPU RTX 5050 8GB en lugar de RTX 3050 6GB, de gama superior, lo que justifica un precio algo mayor.",
+  "confianza": 0.6
+ },
+ "b7039d0fcd6f1a14ff49a46848f0b25fd182786c": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ninguno comparable: el candidato 1 tiene 8GB de RAM (vs 16GB) y pantalla táctil, y el 2 es un All-in-One de 23.8\", no una laptop de 16\".",
+  "confianza": 0.9
+ },
+ "57521352385b3edab9092ed5cf5720f25d2c2c30": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato (HP 15-fd2350la) tiene 8GB de RAM frente a 16GB, por lo que no es comparable",
+  "confianza": 0.88
+ },
+ "acdde2ff05629cad56ecd84763f9eab01878d715": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Variante canadiense 15-fc0027ca con pantalla táctil (la nuestra no indica táctil), posible teclado en inglés/francés y color distinto; misma CPU, RAM, SSD y pantalla.",
+  "confianza": 0.72
+ },
+ "a10cd47059713e21ae7ce76d200d9670fca53645": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es comparable: los 15-fd2 tienen 8GB de RAM, el ProBook 4 es de segmento empresarial (Q10,026) y el OmniBook es de 14\".",
+  "confianza": 0.8
+ },
+ "435cb356e9d2cb72524d05954112c069851854e9": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es una laptop HP de 15.6\" con 8GB RAM, frente a nuestro AIO de 27\" con 16GB; no es comparable en precio",
+  "confianza": 0.97
+ },
+ "46aed6cde93cc5f18d34bee2d882081cdcd0e709": {
+  "candidato": 3,
+  "nivel": "equivalente",
+  "diferencias": "Misma marca y serie HP 15-fc0, pero modelo distinto (15-fc0353la) con Ryzen 5 sin modelo especificado; color plata vs azul, y el de Imeqmo incluye mochila HP de regalo",
+  "confianza": 0.6
+ },
+ "66e7ffcc8b73af7e5e82a461dc6a54922c7946f2": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una laptop de 15.6\" con 8GB de RAM, frente a un All-in-One de 27\" con 16GB; no es comparable en precio.",
+  "confianza": 0.95
+ },
+ "7ebba99e271599f0ce8cbfe98db6c59887757f3e": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El producto de Imeqmo es un AIO de 27\"; los candidatos son notebooks de 15.6\" (otro formato y pantalla), no comparables en precio",
+  "confianza": 0.9
+ },
+ "2e56eb8bf6a775a9528e626093ae23b834f9980c": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El producto de Imeqmo es una AIO de 27\" y todos los candidatos son laptops de 15.6\" (otro segmento y tamaño); además, los candidatos 1 y 3 tienen 16GB de RAM.",
+  "confianza": 0.95
+ },
+ "0c783a24df1ce418545188a8f8c915ff229eb108": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato comparable: el 1 es PC de escritorio con 8GB y el 2 tiene 8GB de RAM (vs 16GB) y pantalla de 16\" táctil 2K.",
+  "confianza": 0.93
+ },
+ "f2b4f7055fb7c956b89129376aeb7a2b72055057": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una laptop de 15.6\" con 16GB de RAM, mientras que el producto de Imeqmo es una AIO de 27\" con 8GB; no son comparables en precio.",
+  "confianza": 0.95
+ },
+ "64327f7b023cf8d983f8115a95a1a78f53585ee2": {
+  "candidato": 2,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo HP Pro SFF 280 G9 con i5-13500, 16GB y 512GB; el competidor no indica la GPU (presumiblemente UHD 770 integrada) y el teclado es LA vs español.",
+  "confianza": 0.85
+ },
+ "39fa909c4c4e70726a0d4180f2816c133d4b9d40": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo fabricante, RAM y SSD, pero el candidato es SFF con i5-14500 de 65W en lugar de i5-14500T de bajo consumo en formato micro (MFF); diferencia de CPU y formato que eleva el precio",
+  "confianza": 0.6
+ },
+ "f7006faf298d6bd371ad7d261be55469ac3ca656": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato confirma 16GB de RAM: el [1] es el mismo Dell Pro Micro i5-14500T 512GB pero con 8GB, y el [2] no indica RAM; los demás usan i5-14500 y 8GB.",
+  "confianza": 0.6
+ },
+ "6da73059f3d334f54117ff7f17817d1aa91d5a89": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo Dell Pro Micro (QCM1250) i5-14500T/16GB/512GB W11 Pro; el título de Intelaf es inconsistente (dice Slim QCS1250 pero MFF y MPN QCM1250); Intelaf incluye mouse y teclado y garantía de 36 meses, no indica GPU",
+  "confianza": 0.8
+ },
+ "40bc96efbb5f3019ad2232a882dce6774631a95a": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un All-in-One con pantalla táctil de 23.8\" y Core 5 120U, mientras que el nuestro es un desktop Micro Form Factor sin pantalla con i5-14500T; son formatos y CPU distintos.",
+  "confianza": 0.9
+ },
+ "fc295407995d0ed1eb0c84f88a67f8f0778a6165": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un Todo en Uno con pantalla de 23.8\" y CPU Ultra 5 235T, mientras que el de Imeqmo es un desktop Slim sin pantalla; no son comparables en precio.",
+  "confianza": 0.85
+ },
+ "82b32db1d28bbe2a8af952ebe395042264d67ddd": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un All-in-One con pantalla táctil de 23.8\" y CPU Core 5 120U, frente a un desktop Pro Slim sin pantalla con Ultra 5 235; son de distinto formato y segmento.",
+  "confianza": 0.9
+ },
+ "bcb83abef433c83d83e541b4a05493bd297464e2": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El producto Imeqmo es una computadora de escritorio Dell (ECT, sin pantalla) con Ultra 5 225 de escritorio; los candidatos son laptops HP con Ultra 5 225U, de otra marca, formato y segmento.",
+  "confianza": 0.85
+ },
+ "2af34a7f884b97379dc2e03b45d11db62b8dc80c": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (HP OmniDesk vs Dell ECT), ambas desktop con Ultra 5 225, 8GB y 512GB; posible diferencia de chasis/formato",
+  "confianza": 0.6
+ },
+ "1b5ce9544d9da5b057f3117cd62af4e7d492a051": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El producto de Imeqmo es una computadora de escritorio Dell ECT con Core Ultra 5 225 (desktop); el candidato es una laptop HP de otra marca con Core Ultra 5 225U de bajo consumo y pantalla de 15.6\", así que no son comparables en precio.",
+  "confianza": 0.85
+ },
+ "c5dd10809c41af35c69ac402a1a3085a4c3ae328": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una laptop convertible Envy x360 reacondicionada de 16\", mientras que el nuestro es la desktop HP OmniDesk nueva; distinto tipo de equipo y segmento.",
+  "confianza": 0.93
+ },
+ "91bab6c2f2111c0aa99cd582e840c21da21c432d": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es un desktop gaming OMEN con GPU dedicada RTX 5060 Ti y CPU 265F, de otro segmento que el OmniDesk de oficina/consumo con gráficos integrados.",
+  "confianza": 0.95
+ },
+ "f566108d3305c4d8dda94af94211e39f6bb660fa": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es la Idea Tab Pro de 12.7\" con 256GB, de gama superior y casi el doble de precio, frente a la M11 de 11\" con 128GB.",
+  "confianza": 0.9
+ },
+ "abdf94de77b425676c6c84fc5231895df683feb8": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ambos candidatos son Lenovo Idea Tab 11\" con 4GB de RAM frente a los 8GB del producto de Imeqmo, por lo que no son comparables en precio.",
+  "confianza": 0.7
+ },
+ "61fdc7a715e98a4a88d28c341fbd8a67fe813582": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es la Idea Tab Pro de 12.7\" (modelo superior, de un segmento más alto y casi el doble de precio), no la Idea Tab de 11\".",
+  "confianza": 0.85
+ },
+ "e8eda52db37b84379a7f6ba3d9da7582a1e37c8b": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato coincide: son gamas inferiores (Tab A11/A11+) o un S10 FE de 10.9\" con 8GB/128GB, frente al Tab S9 FE+ de 12.4\" con 12GB/256GB.",
+  "confianza": 0.85
+ },
+ "d9ae9f31eb327bb45b19319aa250de595ddd555b": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ambos candidatos son Idea Tab con 4GB RAM y 128GB (la mitad de memoria y almacenamiento frente a 8GB/256GB), por lo que su precio no es comparable",
+  "confianza": 0.85
+ },
+ "a6f420e2fc5df24824c21385436e5842cb46f342": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto de la misma marca (E2725HM vs E2726H): 100Hz frente a 120Hz, mismo tamaño 27\", FHD, IPS y conectividad",
+  "confianza": 0.8
+ },
+ "5533ba3d4b537cc7fd30036ec5bf791a99b9d791": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo Dell distinto (E2725HM vs E2726H): 100Hz en lugar de 120Hz, misma pantalla 27\" FHD IPS y puertos HDMI/DP/VGA; generación anterior, algo más barato.",
+  "confianza": 0.7
+ },
+ "46f4d5be6bf3f119a9cbb822a3616e09629a4eef": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (E2725HM vs E2726H), probablemente 27\" FHD IPS de la misma marca pero de 100Hz frente a 120Hz y generación anterior.",
+  "confianza": 0.6
+ },
+ "d3ad439001c94501a6a04886b71a9bdf1630792b": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo tamaño 27\", FHD y 180 Hz, pero panel Fast IPS en lugar de VA y modelo superior (27G4E), por eso cuesta más.",
+  "confianza": 0.6
+ },
+ "fcaada239bfc7d6f24e51022993824ac45f1de87": {
+  "candidato": 5,
+  "nivel": "equivalente",
+  "diferencias": "Mismo segmento (AOC 24\" FHD 180Hz), pero el modelo es distinto (24G50F2 vs G24B36N) y el panel es IPS en lugar de VA.",
+  "confianza": 0.6
+ },
+ "54cc3e7ad5ac90e4d863e38c258c70950e44acc9": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un AOC 24G4 de 23.8\" IPS, de menor tamaño que el 27G50F2 de 27\"; no es comparable en precio.",
+  "confianza": 0.85
+ },
+ "e340936ddecc5a082ff3d76787c81dd49b5ebf29": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es el Dell E2725HM de 27\", de mayor tamaño y precio que el E2425HM de 23.8\".",
+  "confianza": 0.88
+ },
+ "3f38ca2d23a3cdeb0ebc137417d7efaa825ec4c6": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato comparable: el AOC 24G4 es de 23.8\" y 180Hz frente a 27\" y 260Hz; el Dell E2725HM es de otra marca, monitor de oficina de 27\" sin alta tasa de refresco gaming.",
+  "confianza": 0.8
+ },
+ "db64893c2f73b39d3a6de828dbc732b98d2523cc": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Es el Smart Monitor M8 (M80F) blanco, modelo superior al M7 con cámara y diseño premium, versión LA; mismo tamaño 32\" 4K 60Hz Smart, por lo que su precio suele ser algo mayor.",
+  "confianza": 0.6
+ },
+ "496d4d955d60cad62deb98e5fa6f9c0ae5962496": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto de la misma marca AOC (24G4 vs 24G50F): ambos de 24\" FHD IPS para gaming, pero el candidato tiene 180Hz frente a 144Hz y cuesta Q379 más.",
+  "confianza": 0.6
+ },
+ "0d700ddbbc28fb34fd2d78c98ff3f6fe63014dfd": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo tamaño 24\" FHD y marca, pero el candidato es plano IPS de 120Hz (S32GF) frente al curvo VA de 100Hz de Imeqmo; precio algo mayor.",
+  "confianza": 0.6
+ },
+ "9545205af73effb8ff77fa585b04a8a379df81dc": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Candidato sin número de parte explícito, pero coincide en marca, línea Essential curva 24\" FHD 100Hz; probable LS24D366GANXZA",
+  "confianza": 0.75
+ },
+ "86d0ae4f41513f550ec99add63e24f876415c6ce": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es la versión de 27\" (S27CG552EN), no la de 32\"; tamaño distinto afecta el precio",
+  "confianza": 0.85
+ },
+ "c588ca695d9281d69e95c6cf53c9ef8fd9aeeaf1": {
+  "candidato": 5,
+  "nivel": "equivalente",
+  "diferencias": "Mismo segmento AOC 24\" FHD IPS 180Hz pero modelo distinto (24G50F2 vs 24G4E); el 24G4 tiene base pivotante y sería más caro",
+  "confianza": 0.7
+ },
+ "06ca4a905368bc87f5252784bba9ab239969a53f": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (MAXIFY GX3010 vs G4180), misma marca y segmento MegaTank multifuncional WiFi; la G4180 incluye fax y ADF, la GX3010 tiene dúplex; precio casi igual.",
+  "confianza": 0.55
+ },
+ "323105ab005bdb0d6f009390a52f7498f832a0f5": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una botella de tinta consumible, no una impresora multifuncional",
+  "confianza": 0.98
+ },
+ "b3c927abdc39d78879a4625e88ebec52d84d8e9c": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo 24G4 en vez de 24G4E (variante con base ajustable y posiblemente altavoces); misma marca, 23.8\" FHD IPS 180Hz, precio mayor",
+  "confianza": 0.8
+ },
+ "becb7b7982feacc388412f43c23511fd93f948cd": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "G4170 es el modelo anterior a la G4180 (ambas con ADF, fax y Wi-Fi, 11/6 ipm), no es el mismo número de modelo; misma marca",
+  "confianza": 0.75
+ },
+ "8c2d732ef2cc7c048ee034196ef39e2cb17b8d6b": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo modelo Epson L4360, precio casi igual",
+  "confianza": 0.93
+ },
+ "86c0769a3f8304bf6676d9343a66d93e82111d25": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo modelo Epson EcoTank L4360, el competidor cobra Q188 más",
+  "confianza": 0.93
+ },
+ "5d57a4585485661a1092b0de99e021ffbb2a10e3": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son multifuncionales Smart Tank 530/580/583 (imprime, copia y escanea) de gama superior, mientras que la Smart Tank 210 es una impresora básica de solo impresión; no son comparables en precio.",
+  "confianza": 0.8
+ },
+ "e4e1af1e96aa67fb1c86a2e388d72ece0fa48f68": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es la Smart Tank 580 multifuncional (imprime, copia y escanea), de un segmento y precio superior al de la Smart Tank 210, que solo imprime.",
+  "confianza": 0.8
+ },
+ "c4cff2392533680a9e30e71a08404da0a00ec69d": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es la MPL-300 (impresora portátil de 72mm para recibos y etiquetas con USB y Bluetooth); los candidatos son impresoras POS de escritorio de 80mm o de etiquetas con otras velocidades y conectividad.",
+  "confianza": 0.72
+ },
+ "d3f3f06f97ed8b817d19dc87eee2b0fd18f26f5b": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo GX3010; sufijo de número de parte AA vs AB (versión regional/empaque). El candidato 2 es liquidación, posiblemente reacondicionado.",
+  "confianza": 0.9
+ },
+ "6cd192408d8b39f5eab7bab0f5b10d9bd8b2fd3e": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es una impresora portátil de 58/60mm con Bluetooth; los de AON son de escritorio 80mm, más rápidas y caras, o de etiquetas de mayor gama",
+  "confianza": 0.8
+ },
+ "67512d0547853e625d8cb93e2bd322374ad2b081": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo Canon Maxify GX3010 con UPC distinto (posible versión regional/empaque diferente); el competidor la vende Q323 más cara.",
+  "confianza": 0.85
+ },
+ "169ec84974035b347d39824443b6f8ca9fe33d72": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son impresoras láser monocromáticas, no color; el producto de Imeqmo es una láser color (4203dw), de un segmento de precio distinto.",
+  "confianza": 0.88
+ },
+ "182ed959ea6369985faceaf89d0c5700950278f3": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (PR-200 vs PR-205), ambos térmicos 80mm USB de AON; el PR-200 es Q41 más barato y podría diferir en velocidad",
+  "confianza": 0.6
+ },
+ "bc01a5a026b7e0aeba5035d6fad7261f8c8cba68": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo G3170; número de parte con sufijo regional distinto (AA vs AB).",
+  "confianza": 0.93
+ },
+ "7b2fa54443e2e6a3a7baae3e1554dd62ca6e15bd": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una botella de tinta GI-10, un consumible, no una impresora multifuncional",
+  "confianza": 0.98
+ },
+ "6c8c759d77c69c02b17758142d3c0dfa7a56fe37": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo GX3010 en lugar de GX4010: sin ADF ni fax, gama inferior de la misma marca, por eso cuesta algo menos",
+  "confianza": 0.6
+ },
+ "3888e6991a16e2b7164e241227a8c0ac5bd761e5": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es la HP LaserJet M111w (7MD68A), un modelo de gama de entrada más básico y lento, sin dúplex automático, distinto de la LaserJet Pro 3003dw.",
+  "confianza": 0.88
+ },
+ "eeea47d3a9788ce0980d57acd4af591af06144d5": {
+  "candidato": 5,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo modelo WorkForce Pro C5890 de Epson",
+  "confianza": 0.9
+ },
+ "2e6061b0ff4131c8f1a5c9f2664e295a7bb76bc8": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es de 58/60mm; todos son impresoras AON de 80mm de mayor segmento y precio (PR-200 a PR-500).",
+  "confianza": 0.8
+ },
+ "fa712dcbeace937a7495cb638cda428e176c4fd0": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son EcoTank de tinta continua de segmento hogar/pyme (L4360, L5590 en liquidación), no la WorkForce Pro C5890 empresarial con cartuchos; el precio no es comparable.",
+  "confianza": 0.9
+ },
+ "edf5a6acd9bfbbb6f66c119800c7bac041b51071": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es la WorkForce Pro C5890 (cartuchos/bolsas de tinta, segmento oficina); los candidatos son EcoTank L de sistema continuo con otro segmento y costo de operación",
+  "confianza": 0.72
+ },
+ "5c3007d9cb8dafbde2060d57f58500a6ac79e62f": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son Epson L5590, una multifuncional carta de gama inferior; la L14150 es A3+ con dúplex y mayor velocidad, de otro segmento de precio.",
+  "confianza": 0.85
+ },
+ "814fc4564989bb41bbec9b9e1f9e3183efb5257f": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo modelo Epson L14150, precio del competidor Q242 más alto",
+  "confianza": 0.93
+ },
+ "9824b62f79ae543ebf4dba20ae21a6875d6571da": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo modelo Epson L14150, Click Q200 más caro",
+  "confianza": 0.93
+ },
+ "d8545b278dd74b68e595b6a06d77333313a6db76": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos (L5590 con fax/ADF/WiFi, L4360 con WiFi y dúplex) son de gama superior a la L3210 básica USB y cuestan bastante más; el [1] además es de liquidación, posiblemente reacondicionado.",
+  "confianza": 0.85
+ },
+ "3c76cb0b0e67ae3c89539118282e1b84a29d5ef9": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son botellas de tinta compatibles o una impresora L6370 de segmento superior (dúplex, ADF, red) con precio muy distinto",
+  "confianza": 0.93
+ },
+ "5d971badf84b407d669cf80832186dbade272e1e": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "L4360 añade Wi-Fi y dúplex (segmento superior, Q2,446) y L1250 es solo impresora sin escáner; ninguno equivale a la multifuncional básica L3210 sin Wi-Fi",
+  "confianza": 0.8
+ },
+ "8d5e52df10bf4d3ccdd8cda1dcebbf270fe620f2": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El M111w es solo impresora (sin escaneo, copia ni fax), de segmento inferior y más barata que la multifuncional 137fnw.",
+  "confianza": 0.93
+ },
+ "c4ffa076a3e36e9cf01dbff91da320cb3c3a4cc9": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son botellas de tinta (consumibles), no la impresora G1110",
+  "confianza": 0.97
+ },
+ "8da978c923742aef232289a1b8036d0386ef606d": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es impresora matricial; son de tinta (L6370, L4360) o térmica (TM-T88VII), de otro segmento.",
+  "confianza": 0.95
+ },
+ "b0585ccd6a9efedecff2d2f93df1079c77fd0ad5": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es la 137fnw: la 3103fdw es de gama superior y más cara, la M236sdw no tiene fax pero sí dúplex, y las demás son impresoras sin función multifuncional.",
+  "confianza": 0.7
+ },
+ "c421d824b9de637bff47f6528ecc557ef832b65c": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un escáner de documentos DS-530 II, no una impresora matricial; no es comparable en precio.",
+  "confianza": 0.97
+ },
+ "bdb7c8b78312dd5991700a04a84ee461df22a295": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es impresora matricial; son de tinta (L6370, L4360) o térmica de recibos (TM-T88VII), segmentos distintos",
+  "confianza": 0.95
+ },
+ "6853910dc6b2f5d2a7a711e86cab5c05ae161717": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una RTX 3050 de 6GB (Ventus 2X), de generación y rendimiento inferiores a la RTX 5050 de 8GB, por lo que no es comparable en precio",
+  "confianza": 0.9
+ },
+ "e81760cfab363d730c4298187ee133d3ae12849b": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es una RTX 3050 6GB, de gama y precio muy superiores a la GT 1030 4GB DDR4.",
+  "confianza": 0.95
+ },
+ "04dee724353ac6c9f668d8a5d35d52cda106e072": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Misma marca y GPU RTX 5050 8GB, pero es la variante Ventus 2X (posiblemente sin OC) en lugar de Shadow 2X OC; otro modelo de disipador.",
+  "confianza": 0.75
+ },
+ "de3b9efdad74cc705d4b0fc17fa1ac4366e12775": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Kingston ValueRAM vs ADATA), mismas especificaciones DDR5 32GB 5600MHz CL46 DIMM",
+  "confianza": 0.85
+ },
+ "e1efbd10177d3a607afa9de445258929403e2031": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es de 32GB: son módulos de 8GB o 16GB (dos SO-DIMM para notebook), por lo que no son comparables en precio",
+  "confianza": 0.9
+ },
+ "18c566137db0b124351670966bb73da11f81ad6b": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Kingston KCP556SD8-32 vs ADATA); mismas especificaciones DDR5 SODIMM 32GB 5600MHz CL46.",
+  "confianza": 0.85
+ },
+ "b76f93da6cb11a6c7e94eedae35c04b1771ecc18": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es el modelo de 8GB (AD5S56008G-S), no el de 32GB; la capacidad distinta no es comparable en precio",
+  "confianza": 0.95
+ },
+ "10168d773f2c53eaade15019cc49d5dcb1bb1414": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es de 8GB (AD5S56008G-S) frente a 16GB, capacidad distinta que no permite comparar precio.",
+  "confianza": 0.93
+ },
+ "856fdedc2dc1355340b602447fc50e1b119164c4": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Kingston ValueRAM KVR32N22S6/8 vs ADATA Premier); mismas especificaciones: DDR4 8GB 3200MHz CL22 DIMM",
+  "confianza": 0.85
+ },
+ "1e80e49e7b5239ab04c382680f837f2af1038771": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son memorias DDR5 SO-DIMM para notebook, no DDR4 DIMM de escritorio; el candidato de 16GB además duplica la capacidad",
+  "confianza": 0.88
+ },
+ "84146626330b039223ee03a05ea5223b81c537d6": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son placas Biostar H610 mATX de gama básica, no comparables con la Gigabyte Z790 ATX DDR5 de gama superior",
+  "confianza": 0.95
+ },
+ "e46aa1066a45f5e8f06e976151c2710c9199aaf6": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato 1 es SO-DIMM para notebook (AD5S56008G-S), no DIMM de escritorio; los otros son 16GB a 4800MHz.",
+  "confianza": 0.7
+ },
+ "c456009bf3871f0681e40037bb400f130a2b6031": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Kingston ValueRAM vs ADATA); mismas especificaciones DDR5 16GB 5600MHz CL46 DIMM",
+  "confianza": 0.85
+ },
+ "fc0e94ebcc3be2059b315d0359933f5798ed8b53": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (ASUS Prime LC 360 ARGB vs Gigabyte GME 360), mismo tipo de enfriador líquido 360mm ARGB; el ASUS es de gama algo superior y cuesta Q274 más",
+  "confianza": 0.6
+ },
+ "9090dfe76053c0b7aedc92be4771e282ea2ce5ba": {
+  "candidato": 3,
+  "nivel": "equivalente",
+  "diferencias": "Mismo formato U-DIMM DDR5 16GB ADATA pero a 4800MHz en vez de 5600MHz (modelo inferior, más barato)",
+  "confianza": 0.6
+ },
+ "2df9d602a3e710dbf09ee653a483f1de00294e77": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son placas Biostar con chipset H610 de gama inferior (uno con DDR4), no comparables con la Gigabyte B760M DDR5",
+  "confianza": 0.85
+ },
+ "b524801aefbb16fe68704839a96e6c335508f2de": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es DDR5 SODIMM para notebook a 5600MHz, no DDR4 DIMM de escritorio a 3200MHz; segmento y precio no comparables",
+  "confianza": 0.95
+ },
+ "3f61c4b69820ba1e1e279e03877fdd5039ee3875": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un Core i9-14900 de 14.ª generación, de gama muy superior y mucho más caro que el i5-10400T de 10.ª generación",
+  "confianza": 0.97
+ },
+ "8703eaef2fd0e87e7fca93a962aa6e47b33c140b": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son procesadores de gama y generación superior (i7-14700, Ultra 5 245K) con precios muy distintos al i5-10400T bulk.",
+  "confianza": 0.95
+ },
+ "3d4c9e43a0524da6a349184ecaaaa3dd1e838035": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Aerocool vs Gigabyte), misma potencia 850W y certificación 80 Plus Gold; el Aerocool tiene RGB y probablemente no es modular, segmento algo inferior.",
+  "confianza": 0.6
+ },
+ "3b62574b640d3f51f3aeaaacd3aacc86f240fbbb": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (BROCS, menos reconocida) con misma potencia 750W y certificación 80 Plus Bronze; probablemente de gama más económica.",
+  "confianza": 0.6
+ },
+ "2df1a9010a47da446da451e7d907af78870be5cb": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (ASUS Prime vs Redragon RGPS), misma potencia 650W y certificación 80 Plus Bronze; ASUS es de gama algo superior y más cara.",
+  "confianza": 0.68
+ },
+ "0391044b727575221c036c25d6cd427f881fa7d8": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (ASUS TUF Gaming vs Cougar GES), misma potencia 750W y certificación 80 PLUS Gold; la ASUS es de gama algo superior y cuesta más.",
+  "confianza": 0.68
+ },
+ "e30e7594e5153f468263af0e1e6040a9db66af06": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (ASUS Prime vs Redragon RGPS), misma potencia 750W y certificación 80 Plus Bronze; versión blanca, segmento algo superior",
+  "confianza": 0.7
+ },
+ "9a11c9b55e3b673897881a2ca70571b84243b93f": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Brocs), misma potencia 650W y certificación 80 PLUS Bronze; marca de menor segmento y Q170 más barata",
+  "confianza": 0.6
+ },
+ "5ed24d6b9af1d5dc230f67a7c9c28b0ab0d4c19b": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (ASUS Prime vs Cougar GES), misma potencia 750W y certificación 80 PLUS Gold; el ASUS es ATX 3.0, por lo que puede justificar un precio algo mayor.",
+  "confianza": 0.7
+ },
+ "e0fb1dc2e5850b10449d236e7b35500746a64afd": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo Ryzen 7 7700X en caja (WOF, sin ventilador); Intelaf cobra unos Q1,271 más",
+  "confianza": 0.93
+ },
+ "14f9d91b6ce4bdeaa3da978b713315a0fd7dbc3a": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Misma marca y GPU RTX 3050 6GB, pero es la Ventus 2X de perfil normal en lugar de la LP OC de perfil bajo (otro modelo/UPC).",
+  "confianza": 0.72
+ },
+ "b36d9fb230353af5194d2e58897f82003a167105": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "ninguna relevante; mismo Ryzen 5 9600X en caja WOF (sin ventilador), Intelaf lo vende Q270 más caro",
+  "confianza": 0.93
+ },
+ "7fb8f1a05ab02a7b218227361587cd55a9607486": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es Ryzen 7 de 8 núcleos: los Ryzen 5 9600/9600X tienen 6 núcleos y el Ryzen 9 9900X3D es de gama superior y mucho más caro.",
+  "confianza": 0.85
+ },
+ "86e1912796eec20d1f000737417a311128b9fafd": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es SODIMM de 16GB (laptop), no DIMM de 32GB de escritorio; capacidad y formato distintos",
+  "confianza": 0.95
+ },
+ "b9ab8829f0ef306b75cded41e0e5f34839736035": {
+  "candidato": 4,
+  "nivel": "equivalente",
+  "diferencias": "Misma capacidad de 8GB DDR5 5600MHz, pero es la línea Fury Beast con RGB y CL40 (gama gamer, superior a ValueRAM CL46)",
+  "confianza": 0.55
+ },
+ "b28fe7a029e76d36ed51213839ff3710711e35f1": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo Intel Core Ultra 5 225F (UPC coincide salvo dígito final); precio del competidor notablemente menor",
+  "confianza": 0.9
+ },
+ "6bcf6d11323c7e69e445cdfbf4a85b9dad1bfc9d": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es Arctic MX-4 de 20 g frente a 4 g, una cantidad 5 veces mayor, por lo que los precios no son comparables",
+  "confianza": 0.9
+ },
+ "880b98a401768fe9d9b3ae9d2e15d6900662838b": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ambos candidatos son SODIMM de 16GB para laptop, frente al DIMM de 8GB de escritorio; el doble de capacidad y otro formato impiden comparar el precio",
+  "confianza": 0.9
+ },
+ "ec81ec2294aa5e99624c46fe12e860f1b4cd5969": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo Core Ultra 5 225F (UPC coincide sin dígito verificador), Click es notablemente más barato",
+  "confianza": 0.93
+ },
+ "ec331e447a38e728197bd29d4bcee40bc0e9aee9": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Biostar H610MHD D5 vs Gigabyte H610M K V2), mismo chipset H610, socket LGA1700, DDR5 y formato mATX.",
+  "confianza": 0.68
+ },
+ "2bf000742706e7dbbe6fd44d1c3cee103a30e00a": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (ASUS TUF en lugar de Gigabyte Gaming OC), misma GPU RTX 5080 16GB GDDR7 con OC de fábrica.",
+  "confianza": 0.85
+ },
+ "f0c8c5cd72387ed7b68ab0d7e12b10d604980d8d": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (ASUS TUF Gaming 750G vs Gigabyte UD750GM), misma potencia 750W y certificación 80 Plus Gold; precio considerablemente mayor.",
+  "confianza": 0.7
+ },
+ "5e5fa1c720a5a8fc74c368264ec5f80315a7c7d2": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (ASUS Prime vs Gigabyte UD750GM), misma potencia 750W y certificación 80 Plus Gold; el ASUS es ATX 3.0, segmento algo superior",
+  "confianza": 0.6
+ },
+ "1df128026d3e70599e0ecf9e17efa46e6ced3b8a": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Kingston A400 vs ADATA SU650), misma capacidad 480GB y formato 2.5\" SATA, velocidades similares; segmento de entrada comparable.",
+  "confianza": 0.8
+ },
+ "adbcbb91ad684ec1798e19482db9519f59c8c425": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo fabricante y capacidad 1TB, pero es Legend 860 PCIe Gen4 (más rápido, hasta ~6000MB/s) frente a Legend 710 Gen3; modelo de gama superior",
+  "confianza": 0.55
+ },
+ "87e7b9bbb19d7b8548c6fcfa3aa874dcfc617fd8": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es un ADATA Legend 860 de 1TB PCIe Gen4, con el doble de capacidad y de un segmento superior al Legend 710 de 512GB, por lo que no es comparable en precio.",
+  "confianza": 0.93
+ },
+ "65581f477b31411a04d416d89685478c0367e2b4": {
+  "candidato": 5,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Corsair CX650 vs Cougar Atlas), misma potencia 650W y certificación 80 Plus Bronze; Corsair es marca más reconocida, puede tener precio mayor",
+  "confianza": 0.72
+ },
+ "64af6332eb985264b0efcbad48af86150ab831ec": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Brocs vs Cougar Atlas), misma potencia 650W y certificación 80 PLUS Bronze; Brocs es marca más económica y con garantía de 1 año",
+  "confianza": 0.6
+ },
+ "cf4ef3404d202ff312ddee792696a394ff6b544d": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es de 650W: uno es Deepcool de 500W y otro ASUS de 750W, otras marcas y potencias distintas",
+  "confianza": 0.8
+ },
+ "eef1382e396710489338e763ac23a4cabf93ee8a": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es el i5-14400: el i7-14700 es de gama superior y más caro, y el Core Ultra 5 245K es de otra plataforma (LGA 1851), aunque de precio cercano.",
+  "confianza": 0.75
+ },
+ "a53802afceb073ef9b61f8a4ccdb08309c442e79": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un Core Ultra 9 285 (LGA1851), de gama muy superior y triple de precio frente al Core i5-14400 (LGA1700).",
+  "confianza": 0.97
+ },
+ "43f3a13ce73e1a7607fdfbc224d6c60c4eb73809": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Misma marca y socket LGA1700, 4 núcleos/8 hilos, pero modelo i3-12100 de 12ª generación (3.3GHz) frente a i3-14100 de 14ª, ligeramente inferior en rendimiento",
+  "confianza": 0.55
+ },
+ "287afa35777efca06e7249b1d8399039a948a4b2": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Biostar H610MHP), mismo chipset H610, DDR4, LGA1700 y Micro-ATX; precio Q25 menor",
+  "confianza": 0.72
+ },
+ "dd703d33ae95d3ccd0d5653f6dbcdf245c9366fb": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo procesador Core i3-14100; UPC distinto (posible versión de empaque o regional); precio casi igual (Q9 más caro).",
+  "confianza": 0.85
+ },
+ "fd43658ea2cfb4ef396d7f5cbd1d93460992e5a8": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo Core i7-12700 LGA1700; UPC distinto posiblemente por empaque o versión regional (no se indica número de parte).",
+  "confianza": 0.85
+ },
+ "cd4a456ff83984916d0ea8203956b3f555b6e101": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Es el i7-14700 (14ª gen, 20 núcleos frente a 12), un modelo más nuevo y superior, mismo socket LGA1700 y segmento; cuesta Q159 más.",
+  "confianza": 0.6
+ },
+ "7989dbe3da434e79965ee5eff53c4e6dd6bf3612": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo Core i3-12100 en caja, competidor Q89 más caro",
+  "confianza": 0.9
+ },
+ "5acdda37798b29908a4f41d5cd326c025cb6fc6b": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto: i3-14100 (14ª gen, 4 núcleos, LGA1700, con gráficos integrados) frente al i3-12100 (12ª gen); generación más nueva con frecuencias algo mayores, misma marca y mismo socket.",
+  "confianza": 0.6
+ },
+ "a32f290920220379c693e1bb2eed36d6503ccf1d": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es i5-12400; son i3-12100 (gama inferior) e i7-12700/12700K (gama superior), con precios no comparables",
+  "confianza": 0.88
+ },
+ "a0f909ef4d323e767ed4c726260126ea530d0cbc": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son Core i7 de 12.ª generación (socket LGA1700, 12 núcleos), distinta generación, plataforma y rendimiento que el i7-10700 de 10.ª generación (LGA1200), por lo que no son comparables en precio",
+  "confianza": 0.8
+ },
+ "588c9d2c71a57e7c2dc9baafae3637753be155b3": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son i7 de 12.ª generación (LGA 1700, más núcleos), no comparables con el i7-10700 de 10.ª generación LGA 1200",
+  "confianza": 0.85
+ },
+ "7f61fa135193d40b8cee25af199fa98ee50ab05c": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Mismo fabricante, capacidad y velocidad (8GB DDR4 3200MHz DIMM para PC), pero es la línea KCP432NS6/8 (Kingston branded/OEM) en vez de ValueRAM KVR32N22S6/8; latencia no indicada.",
+  "confianza": 0.8
+ },
+ "156b4a73a193fd8951086938cc03b19a6a23955c": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un disco interno 3.5\" de 2TB: los internos son de 8TB y el de 2TB es un disco portátil USB externo.",
+  "confianza": 0.85
+ },
+ "9a7a69722e3b36387ba1db3ab4d276aa518d9a6e": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es comparable: el Echo Show 11 (11\") y el Echo Show 5 (5.5\") son de tamaño y segmento de precio menor, y el Fire TV Stick es otro tipo de producto.",
+  "confianza": 0.8
+ },
+ "59602c7669c5dc67e929def667be51e0f0b1373c": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son Echo Show 8 y Echo Show 5, con pantallas mucho más pequeñas (8.7\" y 5.5\") y de un segmento de precio inferior al Echo Show 15 de 15.6\".",
+  "confianza": 0.9
+ },
+ "a2d91383fcbac1a31e037d60ba1bbf76e38d5fc9": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son de otras generaciones (i7-14700 de 14.ª gen y Core Ultra 5 245K) con plataforma y rendimiento distintos al i7-10700 de 10.ª gen",
+  "confianza": 0.85
+ },
+ "db80e24c97d646af5cc461a557f34ff14c7726b3": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es Echo Show 15; el más cercano es Echo Show 11 (pantalla de 11\" vs 15.6\", sin Fire TV integrado), otro segmento de precio",
+  "confianza": 0.8
+ },
+ "4c0e047b744029d715c5b34eb5566ce4073664a2": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo Echo Dot Max color Grafito",
+  "confianza": 0.9
+ },
+ "54b78271bc3bc79c20ffd298e057ec68cd12584b": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son Echo Show con pantalla (smart display), no una bocina Echo Dot Max sin pantalla; segmento y precio distintos.",
+  "confianza": 0.85
+ },
+ "fa440bb0542e3c20ca843786fe6b8d4f7100d991": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo Echo Dot Max de Amazon; difiere el color (azul vs blanco), UPC distinto por la variante de color.",
+  "confianza": 0.85
+ },
+ "01ebff8d99916f252b3de1dcd627996e220b091b": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son Echo Show 8 con pantalla de 8.7\", un producto de mayor segmento y precio que la bocina Echo Dot Max sin pantalla.",
+  "confianza": 0.9
+ },
+ "951b2bc2daeded5a516d0facb509e82a5a3b7eab": {
+  "candidato": 2,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo Echo Dot Max en color blanco (Glacial Blanco)",
+  "confianza": 0.9
+ },
+ "da98e9c38be23a0ac554944a3b24c5427ef771b8": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es Echo Hub 8\"; el Echo Show 11 es otra pantalla de 11\" más grande y cara, y los demás son bocinas.",
+  "confianza": 0.75
+ },
+ "8895b48e2b75c5b354ec52f6917c5d6c887ac0d3": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El Echo Hub es un panel de control de hogar inteligente de 8\" para montaje en pared; los candidatos son Echo Show 8 (4ta gen, 8.7\"), una pantalla multimedia con bocina y cámara de otro segmento y precio mayor.",
+  "confianza": 0.7
+ },
+ "656fe91ea182920ee766344b0331d8cd17b43a5d": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Echo Show 5 (3ra gen) es otro modelo de la misma marca, con pantalla de 5.5″ más grande que la del Echo Spot, y se vende a un precio mayor (Q743 vs Q645)",
+  "confianza": 0.55
+ },
+ "2f0aba7af6976a8b245e7c5def6e4ab0986544c5": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo Echo Show 5 en blanco; Intelaf no especifica generación (posible 2da o 3ra gen), y su precio es Q148 mayor.",
+  "confianza": 0.68
+ },
+ "5dd7fd52cefc80c3c091a9e21849e0345a79ef1f": {
+  "candidato": 2,
+  "nivel": "exacto",
+  "diferencias": "Mismo Echo Show 5 (3ra gen), pero en color Glacier White en lugar de Cloud Blue/negro.",
+  "confianza": 0.88
+ },
+ "fd27efe23ba5875a8acf8e5da242c794cdce3f27": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Echo Show 5 (3ra Gen) con pantalla de 5.5″ en blanco frente al Echo Spot azul con pantalla pequeña de 2.83″; modelo distinto, aunque ambos son relojes despertadores inteligentes con Alexa del mismo segmento.",
+  "confianza": 0.55
+ },
+ "53a5826de2180ff80bc4e53a1a2f23b69e12dee4": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Echo Show 5 en color blanco; la generación no se especifica (UPC distinto, posiblemente de otra generación), por lo que el precio es comparable pero no idéntico",
+  "confianza": 0.6
+ },
+ "c8aeb2f913987431f5cd5c65739f537953d1ee62": {
+  "candidato": 2,
+  "nivel": "exacto",
+  "diferencias": "Mismo Echo Show 5 (3ra gen) pero en color Glacier White en lugar de Cloud Blue; versión US.",
+  "confianza": 0.88
+ },
+ "be676e85e20cce46605a8cab0d6a41b8af81ee9d": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo Echo Show 5 de 3.ª generación (modelo H97N6S), pero en color blanco en vez de negro; el precio es Q148 mayor.",
+  "confianza": 0.68
+ },
+ "0c39a50c28237b197a6c656ad8127782b9f3a299": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo modelo HP Prelude 15.6\" gris, número de parte no confirmado en el candidato",
+  "confianza": 0.75
+ },
+ "1da32c2c4257969bf5765107dbf60d3827712572": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Misma línea HP Prelude 15.6\" gris pero distinto número de parte (1E7D6AA vs 2Z8P3AA), posiblemente otra versión/generación; precio Q13 mayor.",
+  "confianza": 0.8
+ },
+ "5af4dda86ba181eea3ddec00c52aa89938a13565": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo fabricante y tamaño 15.6\", pero es la línea Prelude (gama más básica) en gris en lugar de la Travel azul noche, lo que explica su menor precio",
+  "confianza": 0.6
+ },
+ "30405d6391981234ea490b2f88835a96dc2719d2": {
+  "candidato": 2,
+  "nivel": "exacto",
+  "diferencias": "El UPC coincide (840080543611), pero el título indica color blanco en lugar de Cloud Blue y no especifica la generación.",
+  "confianza": 0.85
+ },
+ "563c350a362cb61bb559334ae96fd9197764d977": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es otro modelo (SquarePro KNS-420GR) de 15.6\" en vez de 14\", tamaño distinto",
+  "confianza": 0.75
+ },
+ "475dd1f70b999a08f0b7ca6949def119be88a820": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son la funda SquarePro KNS-420 de 15.6\", de mayor tamaño que la de 14\" de Imeqmo (KNS-418GR); no son comparables directos en precio",
+  "confianza": 0.7
+ },
+ "afff9e0c796a6a16544f529c35b68164b4c69075": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son la SquarePro KNS-420 de 15.6\", tamaño mayor que la KNS-418 de 14\"; no son comparables en precio directamente",
+  "confianza": 0.75
+ },
+ "da20fd13225a83d54182f83194c208b2d312cdde": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un cable Micro USB/Lightning de 1 m, no USB-C a USB-C de 1.8 m.",
+  "confianza": 0.95
+ },
+ "867d6a6dbb532d2a3684e5d9cc8f26ad88fd75b6": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un combo de teclado y mouse inalámbrico; solo hay mochilas y un mouse individual.",
+  "confianza": 0.93
+ },
+ "a7890bda17e818a9759452bd3c9bbfc34c3dd181": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un cable USB-C a USB-C: son audífonos, un cable micro USB/Lightning y un powerbank, por lo que no hay comparación de precio válida.",
+  "confianza": 0.95
+ },
+ "dbde99dbf759c5b73c1219b304601b7254492137": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un maletín para portátil de 15.6\" (KLB-750), no una cangurera; es otro tipo de producto con precio mucho mayor",
+  "confianza": 0.95
+ },
+ "8ba5aece16571ebb2860acde5421942bb842839d": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es una cangurera; son mochilas para laptop y un mouse, productos de otro tipo y rango de precio.",
+  "confianza": 0.95
+ },
+ "8a02e0227fde68476eb2f5f74e4547e57878998b": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un soporte doble para monitor, no una cangurera; producto y precio no comparables.",
+  "confianza": 0.98
+ },
+ "0b0acff6432a554330344adfda8f306d27e60ace": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una bocina PartyBox que incluye micrófonos, no el kit de micrófonos EasySing por separado; precio no comparable.",
+  "confianza": 0.95
+ },
+ "1b59d756aaead94f7e161042409c6c41befa61c4": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es el kit DJI Mic 3 de 1 TX + 1 RX: el [1] trae 2 TX y estuche (casi el doble de precio), el [4] es solo el transmisor y los demás son Mic Mini 2/2S de gama inferior.",
+  "confianza": 0.8
+ },
+ "c308cbfaf7488357a1ca7f05b07890a680750aa7": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo kit DJI Mic 3 (1 TX + 1 RX); UPC distinto posiblemente por versión regional, color no especificado en Click; Click Q74 más caro",
+  "confianza": 0.88
+ },
+ "61ce09df18e6698f36227520689cc2b0b207dbe4": {
+  "candidato": 4,
+  "nivel": "equivalente",
+  "diferencias": "Soundcore Space One (modelo inferior al Space Q45, sin LDAC y con menor ANC) en color azul; precio menor por ser gama un poco más baja",
+  "confianza": 0.55
+ },
+ "edb776b020a3c622b4ca12f00266e5c7600e1c0a": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es comparable: el Q11i es un audífono Bluetooth de gama baja, no open-ear (Q330 vs Q715), y los otros son bocinas.",
+  "confianza": 0.85
+ },
+ "7ba26d4112a380ce64bbf67cedbc2f34e70c3b97": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es comparable: el Q11i es un audífono Bluetooth de otro segmento (no open-ear, gama más baja) y los demás son bocinas.",
+  "confianza": 0.85
+ },
+ "9a64b4d22393f15f35bad5c8cc9e1288b2c4d378": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo fabricante y capacidad 5000 mAh, pero modelo distinto (521 A1619 magnético sin Qi2 certificado, carga menor), el Nano A1665 Qi2 de 15W/20W es más nuevo y caro",
+  "confianza": 0.6
+ },
+ "2ba5a10bb8a85cf9c053e9653d262d5250250f73": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una estación de carga inalámbrica 3 en 1 de escritorio, no un power bank de 10000mAh; tipo de producto distinto.",
+  "confianza": 0.95
+ },
+ "4563f15e5a1bbca3d6f767632fc750290d80e56f": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es Redmi Buds 8 Pro; Buds 5 Pro es de gama superior y mucho más cara, Buds 6 Active es de gama inferior y los demás son alámbricos",
+  "confianza": 0.85
+ },
+ "fd7963e5c0585250ab4192032945403334e35b90": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Es la generación anterior (Redmi Buds 6 Pro vs 8 Pro) en color negro; mismo segmento premium de Xiaomi, el modelo nuevo suele costar algo más.",
+  "confianza": 0.55
+ },
+ "17f65369a184554ae599049f0bc2de712aab022b": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (Redmi Buds 6 Active vs Buds 8 Lite), ambos TWS Bluetooth de gama de entrada de Xiaomi; color negro vs azul.",
+  "confianza": 0.6
+ },
+ "52642838d6ad8963363a0997118839e8dca33bfb": {
+  "candidato": 4,
+  "nivel": "equivalente",
+  "diferencias": "Es la generación anterior (Redmi Buds 6 Pro vs Buds 8 Pro), de la misma marca y segmento con ANC, en color blanco; precio similar.",
+  "confianza": 0.6
+ },
+ "124c989833780b9f3b6106a24dc82dc86cf89355": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Generación anterior (Redmi Buds 6 Pro vs 8 Pro), misma marca y segmento, color negro en lugar de azul; precio ligeramente menor",
+  "confianza": 0.6
+ },
+ "af216ffc0830fdcac50f21c754615a542857baf8": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (Redmi Buds 6 Active vs Buds 8 Lite), mismo segmento TWS económico Bluetooth de Xiaomi; color negro en vez de blanco",
+  "confianza": 0.6
+ },
+ "597de4f7a78d87e04009400b6b9b57df95289af4": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es Redmi Buds 8 Lite; los Buds 5/6 son de un segmento superior (con ANC) y más caros",
+  "confianza": 0.7
+ },
+ "232dc877e4aa47404813b8975cc7297f428b74c2": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Es el modelo anterior Redmi Buds 6 Active (no Buds 8 Active), en color negro en lugar de azul; mismo segmento de entrada TWS de Xiaomi",
+  "confianza": 0.6
+ },
+ "ffd245a51a75f613e8568dd4276123d0c7c7ba84": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son Redmi Buds 5/6 (gama media con ANC), de un segmento superior al Buds 8 Lite de entrada; no son comparables en precio",
+  "confianza": 0.7
+ },
+ "3f9c3e3939302a8bfd4b88710606dd67b607b9af": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son Redmi Buds 5/6/6 Pro, de gama superior (con ANC) y precio mucho mayor que los Buds 8 Active de entrada.",
+  "confianza": 0.8
+ },
+ "b13138c87850dd21bc6e600b31daa77cefa9b340": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Es Redmi Buds 6 Active (generación anterior) en color negro en vez de Buds 8 Active blanco; mismo segmento económico TWS de Xiaomi, el candidato cuesta más (Q216 vs Q155).",
+  "confianza": 0.6
+ },
+ "1ec3a4115aef9dd25cb44e2dc3515f55e6200f43": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es Redmi Buds 8 Active (gama de entrada); los ofrecidos son Buds 5/6/6 Pro, de segmento superior y precio mucho mayor",
+  "confianza": 0.8
+ },
+ "f4e5f07d4add82cc8d8a3713892b61e1511c374c": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un mouse de gama media como el Signature M650; son combos teclado-mouse o un mouse básico M170 de menor precio",
+  "confianza": 0.9
+ },
+ "cc0e6e5eac43c3c621b44f046968a83506d9be14": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un receptor Logi Bolt suelto; todos son teclados o combos completos de mayor precio",
+  "confianza": 0.97
+ },
+ "0dcb0d60b4398bc6e2eb89d1256e935ba323d1ab": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un receptor Logi Bolt; todos son teclados o combos teclado-mouse completos, con un precio mucho mayor.",
+  "confianza": 0.95
+ },
+ "d185ffec52f32783c76a7aa8a668cd100b461904": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un audífono H390, no un receptor USB Logi Bolt; no es comparable en precio",
+  "confianza": 0.98
+ },
+ "15e671a7fa52f5e55405080096c7c52b130f0929": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El Zone 300 es un headset Bluetooth de oficina de gama baja (Q349), no un headset gamer inalámbrico como el G522; segmento y precio muy distintos.",
+  "confianza": 0.95
+ },
+ "176626e37f7183dd94a32ff59903d0a85bd20dd4": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo Signature M650 blanco de Logitech, pero el UPC distinto sugiere variante de tamaño estándar en vez de Large (L); precio casi igual.",
+  "confianza": 0.6
+ },
+ "7542f334f2994e8b86ad732e2335047771f37797": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es el combo POP Icon; los combos MK220/MK270 son de gama básica mucho más barata y los demás son solo teclados",
+  "confianza": 0.8
+ },
+ "7e43cd5b59c8a91e284f9e647c076e6897e1376a": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "KPB-250 tiene 5000mAh pero sin carga inalámbrica magnética (más barato); KPB-600 es PowerMag de 10000mAh, el doble de capacidad",
+  "confianza": 0.7
+ },
+ "5165fd8d364306b0aab08be572c62b578f79b23d": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son mochilas para laptop, no power banks; no hay producto comparable en precio.",
+  "confianza": 0.98
+ },
+ "c7222804a6f66e3d4cc4b5722583e3a7449ed2bc": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es un audífono Logitech H390, no un mousepad; no es comparable en precio.",
+  "confianza": 0.98
+ },
+ "85ce4a6c4d6c4882c93f7444a79347aeccd414d8": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Misma marca y mismo tamaño 14.1\", pero otro modelo (KNS-310B vs KNS-214BL, línea Kolours) y posiblemente otro color; precio notablemente mayor.",
+  "confianza": 0.6
+ },
+ "52f95387658d0f7e0ec9c9890253233397f780ba": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Misma marca HP y mismo tamaño 15.6\", pero otro modelo (Prelude vs Campus) y color gris en vez de lavanda; precio similar.",
+  "confianza": 0.65
+ },
+ "9f2181f8786908cf0d1ba60e7a846aee7d039bee": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Misma marca HP pero otra línea (Prelude vs Campus) y color gris en lugar de verde; ambas mochilas de 15.6\" de gama básica",
+  "confianza": 0.6
+ },
+ "48b1e8105772d9b722152bf2f01649228d2fb397": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Misma marca HP, pero es otro modelo de mochila (Prelude, color gris, en lugar de Campus lavanda) para laptop de 15.6\" y de un segmento similar",
+  "confianza": 0.6
+ },
+ "a2edb0bddd6333ac650d88447cde4d3c8353351a": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (HP Prelude vs Campus), color gris en lugar de verde; misma marca y tamaño 15.6\", segmento similar de mochila básica.",
+  "confianza": 0.6
+ },
+ "31e08883245fcea9ad51e6deebfd5c4c7986ec18": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son mochilas para laptop, no audífonos Bluetooth; no comparables en precio",
+  "confianza": 0.98
+ },
+ "361876e99e4671d442f8bf33da0ea106f50550ab": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Misma marca HP, modelo Prelude estándar (1E7D6AA) en lugar de Prelude Pro (4Z513AA), gama más básica y por eso más barata.",
+  "confianza": 0.6
+ },
+ "660db11fa1fdde2f5dffccc85984ce3ddea2527f": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son mochilas HP de línea básica (Prelude, Everyday Odyssey) más económicas, no la Travel expandible de gama superior.",
+  "confianza": 0.68
+ },
+ "0f2e2555cc3700cbe89e56474c73fe28e9094b64": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Misma marca HP y línea Travel 15.6\" gris, pero es el modelo 18L no expandible (6B8U6AA vs 6B8U4AA), de gama algo menor y más barato",
+  "confianza": 0.6
+ },
+ "e73363cc7dedda97a218b4d1a4a80f3deec432d2": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo Logitech G535 con número de parte regional distinto (981-000971 vs 939-002218); el de Intelaf cuesta Q59 más.",
+  "confianza": 0.85
+ },
+ "fae03790626687afeb3771033a5613fdd9bb6b9d": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Es la Prelude estándar de HP, no la Prelude Pro; es de gama más básica y bastante más barata (Q132 vs Q299).",
+  "confianza": 0.55
+ },
+ "2c4f35579c11e80d538f46fcb2fc7faf240cf9d2": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El K270 es un teclado inalámbrico básico de gama inferior (Q183), no comparable con el Signature K650 de gama media.",
+  "confianza": 0.9
+ },
+ "01b81bbdf8e0e753e5c1213fbc02d8eb6e15c7d5": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es K780 multi-dispositivo; K270, combos MK220/MK270 y Pebble Keys 2 K380 son de gama y precio inferiores",
+  "confianza": 0.8
+ },
+ "ccba190346f80faa996ced931655e33eaf815b04": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es el K780; los K380S son teclados compactos sin teclado numérico ni soporte para dispositivos, de un segmento más económico (~Q340-363), y el MK250 es un combo",
+  "confianza": 0.75
+ },
+ "4e7701112b719becd569c966bcb4e6db365b7761": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo M185 de Logitech; solo cambia el color (gris/negro vs rojo) y el número de parte por color (910-002225 vs 910-003635)",
+  "confianza": 0.86
+ },
+ "911bcebfee2835054c1beb15c81c7b23d49b2047": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es el Astro A30 inalámbrico Bluetooth, de un segmento superior y más del doble de precio que el A10 Gen 2 con cable de 3.5mm",
+  "confianza": 0.93
+ },
+ "6dc1ed3f9c5fab24b5039100587a2f4bd9225694": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es Astro A30 inalámbrico Bluetooth, de gama superior y mucho más caro que el A10 Gen 2 cableado 3.5mm",
+  "confianza": 0.93
+ },
+ "a5754dcb9addcec6b49b39d0c2cccdfbe487f2fd": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El H390 es un headset USB de oficina más económico, no un headset gamer Astro A10 Gen 2 de 3.5mm; distinto segmento y precio.",
+  "confianza": 0.9
+ },
+ "0712ab9eac021c51fc837377074a97dca5e3189f": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El A30 es inalámbrico y de gama superior (Q1,269 vs Q525), no comparable con el A10 Gen 2 alámbrico 3.5mm",
+  "confianza": 0.9
+ },
+ "ef924aafbb67371df5631f8fccd7bbfb25f04727": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo H390 pero versión USB-A (981-000014) en lugar de USB-C (981-001575), número de parte distinto; precio menor por versión anterior",
+  "confianza": 0.7
+ },
+ "139fdab57b1826c7a9bda5e0435eb54361e26a22": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es el K780 multi-dispositivo; el K650 y el K250 son de gama y precio inferiores, y el H390 son audífonos.",
+  "confianza": 0.8
+ },
+ "e7c21a484a38dbe8dbb0a310f5a009b0987cad52": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo Logitech Zone 300, pero en color negro en lugar de blanco (UPC distinto por color).",
+  "confianza": 0.85
+ },
+ "075a01c324b7e75a75b1bca8ff347baff0b38585": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es el Zone 300 inalámbrico: el 1 es una webcam y los H390 son audífonos alámbricos USB de gama inferior y precio mucho menor.",
+  "confianza": 0.85
+ },
+ "1801dd20bbef931c05e2116375d7cdb7d487a28c": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un soporte doble para monitores, no una mochila; no es comparable en precio.",
+  "confianza": 0.97
+ },
+ "71bdb0b1f5e8f6f0fd693555447fdfa9d82e34f2": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es el JBL Quantum 50C, un audífono intraural gamer USB-C, no el headset supraaural Tune 520C; es otro tipo y segmento de producto.",
+  "confianza": 0.8
+ },
+ "f4d6d4448d026053e6ebd003807e11f6d58992dc": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son Tune 310C (in-ear con cable USB-C, gama más baja) o Tune Flex (inalámbricos true wireless), no un headset on-ear con cable USB-C como el Tune 520C",
+  "confianza": 0.8
+ },
+ "1916e6ad97853f092c6baf23de1f504aa3f72aec": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es un soporte doble para monitor, no una mochila para laptop; no es comparable en precio.",
+  "confianza": 0.97
+ },
+ "683b0f034eb473add03c29c66597f44a0793039b": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es la mochila EVA 13\" KNB-755; las mochilas ofrecidas son modelos de 15.6\" de otra línea y mucho más baratas",
+  "confianza": 0.8
+ },
+ "eb3e32a29a3e28aafec329098eda3fed15e6236b": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es el KNB-720; son mochilas Klip Xtreme de 15.6\" de otros modelos más económicos y sin la característica waterproof confirmada, por lo que no son comparables en precio.",
+  "confianza": 0.7
+ },
+ "d56954f264e90c4c0a73228b5cf4a09cd131d31a": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Otro modelo de la misma marca (KNB-468 en azul vs ExecBack KNB-896 gris), también mochila para laptop de 15.6\"; precio cercano, pero su línea de producto puede ser distinta.",
+  "confianza": 0.5
+ },
+ "447f2ab61556824d38dd715454f84a1456a9820e": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un soporte doble para monitor, no una mochila para laptop",
+  "confianza": 0.98
+ },
+ "329901270489f59d7cd98737ba0e46046afdef6d": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Mismo fabricante y tamaño 15.6\", pero modelo distinto (KNB-468BL, color azul) y no se indica que sea expandible; precio algo mayor.",
+  "confianza": 0.5
+ },
+ "44d9c06ed5553557b775f955f9a28cd9ed445a04": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un soporte doble para monitor, no una mochila para laptop",
+  "confianza": 0.98
+ },
+ "7152efa62a8ce1a96d2dca613944b1b38d51b2bd": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Otro modelo Klip Xtreme (KNB-468BL vs KNB-905BK), azul en lugar de negro, también para laptop de 15.6\"; precio algo menor (Q255 vs Q299).",
+  "confianza": 0.55
+ },
+ "8d31dccdde54e01c2e5819fdc4943e945d6f1d16": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (Bari KNB-467GR vs Arles KNB-576GR), misma marca, tamaño 15.6\" y color gris; precio menor",
+  "confianza": 0.6
+ },
+ "87f5947908303d97a03d284475ffe3fc1837e7d5": {
+  "candidato": 2,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo KNB-576 (Arles); solo cambia el color: negro en Intelaf vs gris en Imeqmo",
+  "confianza": 0.88
+ },
+ "160fa4596de886bbd2443d025deb21c728c71462": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo Skullcandy Icon ANC negro; número de parte con sufijo regional distinto (S5IOW-S740 vs S5IOW-Q740)",
+  "confianza": 0.82
+ },
+ "107244846c4311f3f513d6df5cada1ca61c4e9ce": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo fabricante y tamaño 15.6\", pero modelo distinto (KNC-025 vs KNC-041), Intelaf Q16 más caro",
+  "confianza": 0.7
+ },
+ "d92cb2f888c185d7cc0bbabae34c4bf239b4ea5f": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Candidato es Dime 3 (S2DCW-R740), generación más nueva, color negro en vez de naranja dorado; precio mayor.",
+  "confianza": 0.68
+ },
+ "a8805b555e9636e0e09fcbbce3b3a5b9245a8a69": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es de 128GB frente a 512GB, una capacidad distinta que no es comparable en precio",
+  "confianza": 0.95
+ },
+ "f36c9edebd8f0ad6f8efc77d183f0d207554def6": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es de 128GB frente a 256GB, una capacidad distinta que no permite comparar precios",
+  "confianza": 0.9
+ },
+ "9df3dbffbaa951de64d2b690b67b5eb854890db3": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son la misma línea Kingston Canvas Select Plus pero con menor capacidad (256GB, 128GB, 64GB) frente a 512GB, por lo que no son comparables en precio",
+  "confianza": 0.9
+ },
+ "7c2e3b6a8ad46965b877ce7a90526ca2dedf4fdd": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es de 512GB; los Canvas Select Plus disponibles son de 256GB o menos y el Canvas Go Plus es otra línea de 256GB.",
+  "confianza": 0.9
+ },
+ "ebb703058de7a50331bb738a47859500aa660ff5": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es de 128GB y no de 64GB, con el doble de capacidad y de precio, por lo que no es comparable.",
+  "confianza": 0.9
+ },
+ "33b2a11c21df43bb106fcd82755b869b0dc30250": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo JBL Vibe Beam 2; el candidato es color negro (JBLVBEAM2BLKAM) y el nuestro es azul.",
+  "confianza": 0.92
+ },
+ "e66754fa27e84a0badaa755febd0b3e942e43381": {
+  "candidato": 4,
+  "nivel": "equivalente",
+  "diferencias": "Es Vibe Beam 2 (diseño con varilla) en lugar de Vibe Buds 2, misma marca, mismo color azul y segmento TWS de entrada, con precio similar",
+  "confianza": 0.7
+ },
+ "536970abfd968233ebe2a4f2acc3b073d522c345": {
+  "candidato": 2,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo modelo Vibe Beam 2 en azul (UPC 050036405065 coincide sin dígito de control)",
+  "confianza": 0.93
+ },
+ "63491a10df2e92bd0102501da55812c3e931bc0b": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo JBL Vibe Buds 2, pero en color negro en lugar de azul; precio Q21 mayor",
+  "confianza": 0.82
+ },
+ "694ea4b0c7a643c448a3c8dca21972803b562643": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son combos básicos con receptor USB (MK220/MK270) o teclado solo, de gama muy inferior al POP Icon Bluetooth; no comparables en precio",
+  "confianza": 0.85
+ },
+ "d7de8083987590be3d7eb8c5072c5c18b3e01766": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un micrófono inalámbrico Quantum Stream, no audífonos in-ear; producto y precio no comparables",
+  "confianza": 0.97
+ },
+ "0197dd138bb48f927b995a896777e27d60b264a6": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es JBL Vibe Buds 2 (modelo de gama inferior, negro), no Tune Buds 2; distinto segmento y precio.",
+  "confianza": 0.8
+ },
+ "6e131ac39abac2c85d3556394ca74055c6dc6588": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es la misma línea ADATA UV150 pero de 256GB frente a 64GB, capacidad y precio muy distintos",
+  "confianza": 0.9
+ },
+ "ab51e7b7b4a64065bb8b3fb3031fc6215b30cc94": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "La KDA-500 es una base/docking con puertos (Q495); la KAS-001 es un soporte de aluminio simple sin funciones de dock y de precio mucho menor; las demás son mochilas",
+  "confianza": 0.75
+ },
+ "bb94abe36d4f8eeb7b63529fb8a4894ada5c69d1": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es ADATA UV150 pero de 256GB frente a 64GB, capacidad y precio no comparables",
+  "confianza": 0.9
+ },
+ "1cebd6cb842c968fdd6bc5fc31cdcdbb17850c50": {
+  "candidato": 3,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo Logitech POP Keys Heartbreaker pero con distribución en inglés (920-010709) y nuevo, mientras que el de Imeqmo es en español y Open Box",
+  "confianza": 0.7
+ },
+ "9eeca2645b1a772c5981261ae4201942662f95bb": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El K270 es un teclado de membrana básico, mientras que el POP Keys es un teclado mecánico Open Box; son de segmento y precio distintos.",
+  "confianza": 0.93
+ },
+ "63b6dd3853bb14a7d026dabefc8b0169ad7b8372": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo ZoundTune KWH-010 en color gris en lugar de lila; precio regular (el otro candidato es liquidación)",
+  "confianza": 0.88
+ },
+ "0dcea75e9b423e52219394444b8e90cb83b7d5b1": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son mochilas para laptop, no audífonos; no son comparables en precio",
+  "confianza": 0.98
+ },
+ "fc5592af68810ca6701c78939da8ec7c13541eab": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo POP Keys pero en color Blanco Lila (otro número de parte) y nuevo, mientras el de Imeqmo es Open Box, lo que justifica parte de la diferencia de precio",
+  "confianza": 0.7
+ },
+ "de572afb36a56863537b08cd3de25c87132b974b": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es audífono: son mochilas y un mouse.",
+  "confianza": 0.97
+ },
+ "4830e32cfc7114755d78a8bb8c7f3cbd66fa38ea": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo ZoundTune KWH-010 en color gris en lugar de azul",
+  "confianza": 0.88
+ },
+ "24724f3d0b1a2e3896959cb8db4403b130c98755": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un headset: son mochilas, un mouse y una bocina JBL de precio muy superior.",
+  "confianza": 0.97
+ },
+ "2e0e2dfa3052dd70f3ac2ffbdd73acacef17d5fa": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un headset; son mochilas y un mouse",
+  "confianza": 0.97
+ },
+ "1a6d1fdcc2c32ef97c09a5542ba77a4a2d490678": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Logitech M170 vs Unno Tekno Contour); ambos mouse inalámbricos básicos de entrada, Logitech de marca más reconocida",
+  "confianza": 0.6
+ },
+ "fac691c8526e8feff5c74ff432426c919cd4bca2": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo ZoundTune KWH-010 en color gris en vez de negro",
+  "confianza": 0.88
+ },
+ "285a44defb6b3be6f50c87d1bfc634dc203908f3": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Belkin vs Unno Tekno); misma capacidad de 10000 mAh pero sin carga inalámbrica, que sí tiene el de Imeqmo",
+  "confianza": 0.55
+ },
+ "e0b52a47535f05b4ec7dc2973639ad87c5dbe8e2": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Manhattan); es un adaptador/cable USB 3.0 a SATA 2.5\" sin carcasa, no un enclosure cerrado, precio similar.",
+  "confianza": 0.55
+ },
+ "f7f1f63ab37ec871559bf036109c8d2d34f68511": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son cables HDMI Argom de 30 m y 7.5 m sin especificación 2.1/8K, frente a un HDMI 2.1 8K de 3 m; longitud y versión distintas",
+  "confianza": 0.85
+ },
+ "3b9e8a72b3b513172d47fb90ff0c127c97a2ea15": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un cable Mini HDMI a HDMI de otra marca (Manhattan), no HDMI estándar macho-macho, por lo que no es comparable en precio.",
+  "confianza": 0.85
+ },
+ "ef6c1bf66b2163702c3a91500118d8dba207c2bd": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son cables HDMI Argom (otra marca) de 30 m y 7.5 m sin especificación HDMI 2.1 8K; no son comparables con el cable de 1.5 m 8K.",
+  "confianza": 0.85
+ },
+ "9372bcc49489d496426c2d34a1e17d6cf484bef8": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Manhattan vs Unno Tekno), misma longitud de 15 m HDMI macho-macho negro; Manhattan es de alta velocidad y gama más alta, precio bastante mayor",
+  "confianza": 0.7
+ },
+ "944db97752b05833d71da77b032a5a5231b6d493": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son de otra marca (Argom) y de longitudes distintas (30 m y 7.5 m frente a 15 m), por lo que sus precios no son comparables.",
+  "confianza": 0.85
+ },
+ "c5faccc15875752277d45abadae7040273de26b6": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Argom vs Unno Tekno); mismo largo de 7.5 m, macho-macho y color negro.",
+  "confianza": 0.82
+ },
+ "8e8b4c337cc0ae97d27ceb614e29d0033663351f": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es comparable: ambos son Argom (otra marca) con longitudes muy distintas (30 m y 7.5 m frente a 4.5 m).",
+  "confianza": 0.7
+ },
+ "a4bee9e7703f56193fc18cbc62e183bb54101907": {
+  "candidato": 4,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Manhattan vs Unno Tekno); mismo tipo HDMI macho-macho de 3 metros, precio casi igual",
+  "confianza": 0.82
+ },
+ "02539339c3bd11d9c488bf25f8e64b44f28c876a": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son de otra marca (Argom) y de longitudes muy distintas (30 m y 7.5 m frente a 3 m), lo que afecta el precio",
+  "confianza": 0.85
+ },
+ "25ead49e126746d3da3c09b73343a524709449e7": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un cable Mini HDMI a HDMI de otra marca (Manhattan), no HDMI estándar macho-macho; tipo de conector distinto y precio mayor.",
+  "confianza": 0.85
+ },
+ "4763b15086c76f980dc2590e8d015ee6dad44678": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Xtech XTC-308 vs Unno Tekno CB4016BK); mismo tipo de cable VGA macho-macho de 1.8 m, mismo precio",
+  "confianza": 0.8
+ },
+ "e9e6bcff9b77c00e58e47d95b38e45040092c84b": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son cables HDMI Argom de 30 m y 7.5 m, mucho más largos que el de 1.8 m de Unno Tekno, por lo que no son comparables en precio.",
+  "confianza": 0.88
+ },
+ "08688df3f9f5c7e427f66996594b7f9d99daf521": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Argom vs Unno Tekno), mismo tipo de adaptador DisplayPort macho a HDMI hembra negro; precio muy similar.",
+  "confianza": 0.8
+ },
+ "31e576a250268f17b3834b5b07a60ef2a748fd3d": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Manhattan vs Unno Tekno); mismo adaptador USB-C macho a USB-A hembra negro, especifica USB 3.2, precio más alto",
+  "confianza": 0.68
+ },
+ "d6e289bdf948aa412c35de87e64c1a6a5351d0b2": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es el Logitech Zone 300, un modelo distinto y de gama inferior al Zone Vibe 100; no es comparable en precio.",
+  "confianza": 0.8
+ },
+ "3e003d664e4740a8e8b9e47ff78a169cd4ea1c56": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Toshiba Canvio Basics vs ADATA HD680); misma capacidad de 2TB y USB 3.2 Gen 1, aunque el HD680 es rugerizado/antigolpes, lo que suele justificar un precio algo mayor.",
+  "confianza": 0.6
+ },
+ "8cd07f1df17e128fc97596aeb57f3d4bf8d7cfc6": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo número de parte CP3724, Intelaf más caro (Q363 vs Q264)",
+  "confianza": 0.95
+ },
+ "aaad414fd951ba01a409734403de4f2812537d85": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es el Zone 300 (modelo inferior, negro, sin receptor USB-C) frente al Zone Vibe 100 blanco; precio muy inferior y segmento distinto",
+  "confianza": 0.8
+ },
+ "f5fc4ae636a9602f203f82db9b495075ffc90698": {
+  "candidato": 3,
+  "nivel": "equivalente",
+  "diferencias": "Mismo Exodia M 64GB USB 3.2 de Kingston pero en verde y con otro número de parte (KC-U2L64-7LG vs KC-U2G64-7GR); posible variante de empaque/color, precio similar",
+  "confianza": 0.6
+ },
+ "4e93a15ed0ebffad3e16beb6e0469ec6e429f98f": {
+  "candidato": 2,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo KNB-577 (Stendal), pero en color negro en lugar de gris",
+  "confianza": 0.9
+ },
+ "93cf25c163b2a1e1dc92b60f31275d6cc3075aaa": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo DataTraveler Exodia M 64GB (DTXM/64GB); solo cambia el color (azul vs rojo) y el número de parte/UPC regional.",
+  "confianza": 0.85
+ },
+ "3948226948352c3d747af6d9a9cbac88e610b247": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto de la misma marca (Bari KNB-467GR vs Stendal KNB-577GR), mismo tamaño 15.6\" y color gris; no se indica puerto USB de carga, Q11 más barato",
+  "confianza": 0.6
+ },
+ "de69eb012b14fef39d5c3d3715c6115e364bfca5": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo MX Keys Mini en español; solo cambia el color (gris vs negro/grafito), número de parte de variante de color 920-010477",
+  "confianza": 0.85
+ },
+ "2004479c1fc6e328f3199d76cdb367ee72c1edb7": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo MX Keys Mini en color blanco (Imeqmo es negro); el idioma del teclado no está indicado.",
+  "confianza": 0.8
+ },
+ "8cce7706dafdac8de89fcdc3bb16f1bdf9c079aa": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son teclados de gama de entrada (Pebble Keys 2 K380s y K270), muy inferiores al MX Keys Mini premium y retroiluminado; no son comparables en precio.",
+  "confianza": 0.9
+ },
+ "772e3be0c1bd095e1301d328fc26df47e72e2289": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un disco externo portátil de 1TB; los Seagate Portable ofrecidos son de 2TB, 4TB y 5TB, y el de 1TB es un disco interno de vigilancia",
+  "confianza": 0.85
+ },
+ "925d95844f1ae1ce297a2c1c14a57f0e0bb1e504": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un headset; son mochilas y un mouse de Klip Xtreme",
+  "confianza": 0.97
+ },
+ "3b26891bc6b64fdb3a57498ade46fea5b5f9b9bd": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una base plegable para laptop, no una mochila; no es comparable en precio.",
+  "confianza": 0.97
+ },
+ "aebb37924e4c1a872f96274f12a16d5053f8a0b1": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo MK540 Advanced pero con distribución de teclado US (inglés) en lugar de español; UPC regional distinto",
+  "confianza": 0.85
+ },
+ "12831089256a0de6b8802cfeeb49fde48687cd9b": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es ergonómico: Pebble Keys 2 K380 y K270 son teclados compactos/básicos de segmento y precio inferior al Wave Keys",
+  "confianza": 0.85
+ },
+ "bc66612c1a5863e7b21cc19194471e90a163048d": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es una mochila para laptop, no audífonos; no es comparable en precio",
+  "confianza": 0.98
+ },
+ "07635da9b10faaf8ad5928e695f7f016b0de3144": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son modelos distintos (KWH-750BL, KCH-750) sin ANC confirmado y de gama inferior al KNH-750BL con cancelación de ruido",
+  "confianza": 0.6
+ },
+ "ac822a9b13390c2cc4984c24e692a07acd21e6b1": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo Boom Buds de AON pero con conector 3.5mm en lugar de USB-C (parte AO-EP-1001 vs AO-EP-1002); precio similar.",
+  "confianza": 0.6
+ },
+ "43e05408c69ab852be2899cadc19b14629953ca6": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo Logitech M185, solo cambia el color (rojo vs azul); precio similar.",
+  "confianza": 0.88
+ },
+ "d3709248988c5df09c17aedfcddc529e38326a13": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El M100 es un mouse básico de oficina, no gaming como el G502 X; segmento y precio muy distintos",
+  "confianza": 0.97
+ },
+ "1d643abe506ce26ae17a3e3bcbf8d16154d59544": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Es el G502 Hero (modelo anterior, 25.600 DPI, alámbrico) en lugar del G502 X blanco; cuesta menos por ser generación previa",
+  "confianza": 0.6
+ },
+ "2b87d2cf9a801731b4cde1bcabbafec1c514933a": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo Logitech M240 Silent; difiere solo en color (negro vs blanco) y número de parte por color",
+  "confianza": 0.85
+ },
+ "2a434d0ad603860408c261da2293d152cdfc91c8": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo M280; difiere solo el color (negro vs rojo, otro número de parte por color).",
+  "confianza": 0.85
+ },
+ "f9febcb1f214b191680428f2ec17b27811d7423e": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es el Logitech M110 Silent alámbrico USB, de gama inferior, mientras que el producto es el M280 inalámbrico; no son comparables en precio",
+  "confianza": 0.93
+ },
+ "a4e1f7c7fe04566482525ba97560410463bf0fb3": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo Logitech H390 USB pero en color negro (981-000014) en lugar de rosado (981-001280).",
+  "confianza": 0.88
+ },
+ "023ce6e9700b55733f5fb8d1e3760940708973c3": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo Logitech H390 USB pero en color negro (981-000014) en lugar de blanco (981-001285)",
+  "confianza": 0.85
+ },
+ "21c4298e2ba6667f7e7b40e1b4b577626b8b6885": {
+  "candidato": 4,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto de la misma marca (M170 vs M190), mouse inalámbrico básico de gama similar, más compacto; precio casi igual.",
+  "confianza": 0.72
+ },
+ "c6a2e17da5e1e3a8e03b28d8f499859293029491": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo Logitech M170; difiere el color (negro/plata vs blanco) y el número de parte regional (910-004940 vs 910-006864)",
+  "confianza": 0.85
+ },
+ "b3a566ef542ce10f711333fc300e48b5525eb3fc": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo DataTraveler Exodia M 64GB, solo cambia el color (verde vs rosado); precio Q95 vs Q70",
+  "confianza": 0.85
+ },
+ "b660d3ad576f5769a167cc1875755443c08ff485": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un combo teclado y mouse inalámbrico; son mochilas o solo un mouse",
+  "confianza": 0.95
+ },
+ "6cbddc5ac19d6931ddb78a04d04eb9c034d1b01f": {
+  "candidato": 3,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo Exodia M 64GB; solo cambia el color (verde vs rosado neón), número de parte KC-U2L64-7LG vs KC-U2L64-7LN",
+  "confianza": 0.85
+ },
+ "424f18fe3a79db77b94eb584c00b21f0c00798ec": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo M170 de Logitech, solo cambia el color (negro/plata vs rojo) y número de parte por color",
+  "confianza": 0.88
+ },
+ "8ee2c00576aff304b67aaf35f5fbb5dd2fbfcb1b": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo DataTraveler Exodia M 64GB (DTXM/64GB); color azul en lugar de rosado neón, y el número de parte y el UPC difieren por la variante de color.",
+  "confianza": 0.82
+ },
+ "b598596f641eabbbe824fd974473d1553e8352de": {
+  "candidato": 3,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo Exodia M 64GB (KC-U2L64-7LG vs 7LB); solo cambia el color, verde en lugar de azul.",
+  "confianza": 0.88
+ },
+ "8d3f178e7f48a59c231eb6774970fb23692d46da": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo DataTraveler Exodia M 64GB (DTXM/64GB), solo cambia el color: azul en lugar de neón púrpura; precio Q89 vs Q70.",
+  "confianza": 0.85
+ },
+ "f258e736bc5e73c10ad43bdc7e606a591c8f1bd8": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo DataTraveler Exodia M de 64GB; cambia el color (azul vs verde neón), la versión de empaque (KC-U2L64-7LG vs DTXM/64GB) y el precio (Q89 vs Q70)",
+  "confianza": 0.8
+ },
+ "9ccf3e5cca2741154536d29c77be38365763c792": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo DataTraveler Exodia M 64GB; el UPC difiere (posible variante de color o empaque: neón azul vs azul).",
+  "confianza": 0.8
+ },
+ "4738d47802597e8e181b972537e43ca3c7bbe42f": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son otros modelos Klip Xtreme (Bari KNB-467GR y KNB-468BL), más básicos y sin puerto de carga USB, a un precio mucho menor que la Kruiser KNB-901GB.",
+  "confianza": 0.8
+ },
+ "d272fede6fc684956874dc0120dff4d38771bed8": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Otro modelo de la misma marca (KNB-577BK vs Berna KNB-406GN), color negro en vez de verde, ambas para laptop de 15.6\" en segmento económico similar.",
+  "confianza": 0.55
+ },
+ "570b3e6b6b3043b10919968cf7d745a21d517a99": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto de la misma marca (Bari KNB-467 gris vs Aberdeen KNB-456 negra), ambas mochilas para laptop de 15.6\" con precio similar.",
+  "confianza": 0.6
+ },
+ "9f6b829a2db739f10b42d986dad42d4cabf2fc6f": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto de la misma marca (KNB-577BK vs Aberdeen KNB-456BK), mismo tamaño 15.6\" y color negro; posible diferencia de diseño y gama.",
+  "confianza": 0.6
+ },
+ "e6211d448efd233419b901bbc4c5222a68fa2cdc": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (Bari KNB-467GR, gris) vs Aberdeen KNB-456BL azul; misma marca y tamaño 15.6\", precio similar",
+  "confianza": 0.6
+ },
+ "326f0983e5055c9e8ade22dc111b8618fda443e6": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Otro modelo de la misma marca (KNB-577BK vs KNB-456BL Aberdeen), color negro en vez de azul, ambas mochilas para portátil 15.6\" de gama básica y precio similar.",
+  "confianza": 0.55
+ },
+ "5432f5c05d7081cc8781d7964e9fca1656ba097b": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es el Astro A30 inalámbrico Bluetooth (gama superior, más del doble de precio), no el A10 Gen 2 alámbrico 3.5mm",
+  "confianza": 0.93
+ },
+ "a078e56d14d38d8db3458da42fa65c25a7c5b500": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El H390 es un headset USB de oficina más económico, no un headset gaming Astro A10 Gen 2 de 3.5mm; segmento y precio distintos.",
+  "confianza": 0.9
+ },
+ "5691b13743b7bade1c098516388ddb322e76208c": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El H390 es un headset USB de oficina básico, no un headset gamer Astro A10 Gen 2 de 3.5mm; segmento y precio distintos",
+  "confianza": 0.93
+ },
+ "dd9b621a9e0220548fe13e023c4cbbe762d094e8": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El M100 es un mouse de oficina básico, no gaming; no es comparable en precio con el G203 LIGHTSYNC",
+  "confianza": 0.95
+ },
+ "2ad4dfdfdb4c595e8f27562bc439f1236446418a": {
+  "candidato": 3,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (Exodia M DTXM, USB 3.2) vs Exodia Onyx/KC-U2G64 USB 2.0 de Imeqmo; misma marca y capacidad 64GB, color azul vs blanco",
+  "confianza": 0.6
+ },
+ "26677a52f9a78fa26dc5cc4db015e9e2b350fe09": {
+  "candidato": 3,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo Exodia M 64GB, solo cambia el color (verde vs neón púrpura; KC-U2L64-7LG vs -7LP)",
+  "confianza": 0.85
+ },
+ "a6b49892581fb57c53f4f2cdd28a41770287f15a": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato más cercano es la misma línea Exodia pero de 128GB (la mitad de capacidad), no comparable en precio con la de 256GB",
+  "confianza": 0.85
+ },
+ "b1b381ddc18c8d2a73a9c9a132a24071e67bb5be": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Toshiba Canvio Basics vs ADATA HD330), misma capacidad de 2TB y USB 3.2 Gen 1; el HD330 tiene carcasa antigolpes de silicona, por lo que suele ubicarse en un segmento algo superior.",
+  "confianza": 0.72
+ },
+ "93a7047f99b5100c54ce06f6082dc101818e3481": {
+  "candidato": 3,
+  "nivel": "equivalente",
+  "diferencias": "Mismo fabricante y capacidad de 256GB, pero es otro modelo (DataTraveler Duo G2, DTDEG2/256GB) con doble conector USB-A + USB-C, lo que puede justificar un precio algo mayor.",
+  "confianza": 0.6
+ },
+ "dbafdb6d440c8aeae092fab33e46dc4f536d1348": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo KMW-375 (Lightflex plegable) en color negro en vez de gris; Intelaf Q30 más caro",
+  "confianza": 0.88
+ },
+ "d06a03dba3e36b1aab6eaf74776b966629605290": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Misma línea DataTraveler Exodia 64GB USB 3.2 de Kingston, pero con otro número de parte (DTXG2/64GB vs KC-U2G64-5R) y color negro en lugar de blanco.",
+  "confianza": 0.65
+ },
+ "1445889f7cf8f79dc62c7ce8912e9092c999a67a": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (Duotrack KMB-501, probablemente inalámbrico/Bluetooth) vs Krest KMO-505 alámbrico; mismo DPI 1600, precio algo mayor",
+  "confianza": 0.5
+ },
+ "cb3ba85440343670325541738e038af2c21357e5": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otro modelo de la misma marca (KNB-577BK vs KNB-426PK Monaco), color negro en vez de rosado; misma categoría de mochila 15.6\" y precio similar",
+  "confianza": 0.55
+ },
+ "bd175fb0e658dbaa5e96d501c490e163b168508d": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un soporte doble para monitores, no una mochila; no es comparable en precio.",
+  "confianza": 0.98
+ },
+ "05fce7b4a1deb52397a53d34f30108dc9658e90f": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Otro modelo de la misma marca: DuoTrack KMB-501BK con 1600 DPI (vs 1000 DPI) y probable conexión dual Bluetooth/2.4GHz, por lo que su segmento de precio es algo superior.",
+  "confianza": 0.5
+ },
+ "8df8e638b5c946e0b7fde2082bccaf0de34180da": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto de la misma marca (KNB-468KH vs KNB-467KH Bari), también mochila 15.6\" khaki; posible diferencia de diseño y Q26 más cara.",
+  "confianza": 0.6
+ },
+ "789c86947f46c1cbd5f6f584f0e4321f37653763": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es un soporte doble para monitor, no una mochila para laptop",
+  "confianza": 0.98
+ },
+ "dd80180ac122ca2a80a861daad645deeb41301a6": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo Bari KNB-467 en color gris (GR) en lugar de khaki",
+  "confianza": 0.85
+ },
+ "5693e0ea7f85fc411af2ec9cd9e8c05e9062f8c3": {
+  "candidato": 4,
+  "nivel": "equivalente",
+  "diferencias": "Logitech K250 compacto con conexión Bluetooth y color blanco, frente al K270 de tamaño completo con receptor USB en negro; precio similar.",
+  "confianza": 0.55
+ },
+ "32735b8f8d700a4ac7f4b1b1cbdfd2539b9821d4": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Misma marca y capacidad 128GB USB 3.2, pero es el modelo Exodia S (DTXS/128GB) en lugar del Exodia DTX/128GB, con color negro/turquesa.",
+  "confianza": 0.8
+ },
+ "240d7731511fd60b1d6523d74631a22d100e4bd6": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo M170 de Logitech, distinto color (negro/plata vs azul) y número de parte por color; competidor Q8 más caro",
+  "confianza": 0.88
+ },
+ "396f55ca98d6aa0d5ccaf3a32c667112a6f3eaaf": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otro modelo de Klip Xtreme (KNB-577BK vs KNB-416GR), mochila 15.6\" en color negro en lugar de gris; precio similar del mismo segmento económico",
+  "confianza": 0.6
+ },
+ "9089e8d4a5377dc607cef94d8fca2543d585392c": {
+  "candidato": 2,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo Indigo KNB-416 de Klip Xtreme, pero en color azul (BL) en lugar de gris (GR)",
+  "confianza": 0.85
+ },
+ "495c614423b06f966d5fd9f1ab34522bfeaa46da": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un teclado alámbrico USB básico como el K120; los teclados ofrecidos son inalámbricos, premium o gaming, de precios mayores",
+  "confianza": 0.8
+ },
+ "392d93321e171f78ead502177bce254d9d2e9662": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El K270 es un teclado inalámbrico estándar sin touchpad integrado, de un segmento más económico que el K400 Plus",
+  "confianza": 0.88
+ },
+ "2bda9fa940f5764bdfe634fb46f61a79473d0434": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un soporte doble para monitor, no un maletín para notebook; no es comparable en precio.",
+  "confianza": 0.98
+ },
+ "d488eaa810fcaa3929e4b3667d89478ff967b8dc": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato KPM-310 es un soporte doble para dos monitores, mientras que el KPM-300 es para un solo monitor; no son comparables en precio",
+  "confianza": 0.8
+ },
+ "eae21d45c41a473e24d5b99bcd2141333357d770": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un teclado con touchpad integrado como el K400 Plus; el K250 y el K650 son teclados de otro segmento y el H390 son audífonos.",
+  "confianza": 0.8
+ },
+ "b344549f46593a01c3c8f5a4381dad2feb525457": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (KCH-510 vs KSH-290), misma marca y conexión USB con micrófono, pero de gama algo superior y precio mayor",
+  "confianza": 0.55
+ },
+ "18e1b8b600d5754d49d68a13ea385c8ebaf4f48e": {
+  "candidato": 3,
+  "nivel": "equivalente",
+  "diferencias": "Otro modelo de la misma marca (KNB-576BK vs KNB-416BL), también mochila para portátil de 15.6\", en color negro en lugar de azul y con precio casi igual.",
+  "confianza": 0.55
+ },
+ "ec411bac4c967232c7bcabaf62dbbbcb6c612abd": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Brocs vs Tecnofor), espuma limpiadora con aroma; contenido no especificado",
+  "confianza": 0.6
+ },
+ "442d6168e72f400e00cc4661541bc2f34765f41e": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (SABO vs Tecnofor), espuma limpiadora similar; presentación/volumen no especificado, precio casi igual.",
+  "confianza": 0.6
+ },
+ "f92aa857e3d7fd1c59af02e05f23ebd36b304e59": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un headset: son mochilas y un mouse, no comparables en precio",
+  "confianza": 0.97
+ },
+ "11c393968294b4189deaf6cf721a0efc015b080f": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (BROCS vs Sabo), espuma limpiadora con aroma; tamaño del envase no especificado, puede no ser 590 ml",
+  "confianza": 0.55
+ },
+ "60ad0370c041297426e9704d030265f69d47cbf0": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo UPC 811176001001, misma marca y 590 ml",
+  "confianza": 0.95
+ },
+ "6b885ebb7e85cbb3e2018b9f011d7acab7bf01d4": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un limpiador de contactos eléctricos marca SABO, no un limpiador de pantallas; producto de otro tipo y otra marca.",
+  "confianza": 0.9
+ },
+ "e078ce2f48f96f7c6b7c5e6ed55c00a78016fdc2": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo UPC 811176000165",
+  "confianza": 0.97
+ },
+ "5dd610b391c51237e9bec4ef7c4e34b661405aac": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (SABO vs Tecnofor Veltron), mismo tipo de limpiador de contactos; contenido no especificado",
+  "confianza": 0.55
+ },
+ "30d20c95ea0e5997af2538cc604349b839871c34": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Brocs vs Tecnofor One); tamaño del envase no especificado en ninguno",
+  "confianza": 0.6
+ },
+ "da59c6cd2fe1ee6e74644652eb05c700106f160f": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (BROCS vs SABO) y no se indica el volumen del envase, por lo que el precio podría no ser comparable directamente",
+  "confianza": 0.55
+ },
+ "6369eedee441a076aaedb81c45dab73745a4f725": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (SABO vs Tecnofor), tamaño/contenido de la lata no especificado; Click es Q19 más caro.",
+  "confianza": 0.6
+ },
+ "c919ddca5faeeb0990f5d279d2d151b14d42a8a8": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es bocina; son mochilas y un mouse de Klip Xtreme.",
+  "confianza": 0.98
+ },
+ "16590d5f456933c86c29c442551bd580f589b579": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (BROCS vs SABO); no se indica el tamaño del envase, que podría diferir.",
+  "confianza": 0.55
+ },
+ "f90a8a067a081069ad043d0ecad0364e790c2945": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo UPC 811176003005; Intelaf indica 590ML y cuesta Q8 más",
+  "confianza": 0.93
+ },
+ "a056e42b282ce0a9ebb527782f3e89a6bcd828b0": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es una bocina; son mochilas y un mouse de Klip Xtreme.",
+  "confianza": 0.98
+ },
+ "19bea74a2629af50c5f3da436fefbfad0c3b8b43": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es comparable: los Select 4 Go son bocinas pequeñas de 5W muy inferiores a la Rave 3 de 160W, y el Q11i es un audífono.",
+  "confianza": 0.95
+ },
+ "1e7e4cc9ec31b2d951592de19b94989a9b0d5736": {
+  "candidato": 3,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo JBL Go 5, solo cambia el color (negro vs amarillo).",
+  "confianza": 0.9
+ },
+ "88a225f009cfb4019d7baef662ff7e55ad31ca79": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Es la generación anterior JBL Go 4 (4.2W vs 4.8W), misma marca y color camuflaje; el modelo nuevo suele costar algo más.",
+  "confianza": 0.7
+ },
+ "fabcd2f3950ebb4549f7e7823fe46c15e7c90baf": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es JBL Grip de 16W y precio mucho mayor, otro modelo y segmento frente al Go 5 de 4.8W",
+  "confianza": 0.93
+ },
+ "ef936231c785d53fec1de33d5ca8a9944f15fc21": {
+  "candidato": 3,
+  "nivel": "exacto",
+  "diferencias": "Mismo JBL Go 5 4.8W; solo cambia el color (negro vs morado).",
+  "confianza": 0.9
+ },
+ "b904d0cabe783d35ce1c86faaad262339b9138b2": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una JBL Xtreme 5, bocina mucho más grande y potente de otro segmento (Q3,000 vs Q379); no es comparable con la Go 5.",
+  "confianza": 0.97
+ },
+ "f969fe3144ff0580c91b6e941abef8721067014b": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo Harman Kardon Luna en color gris; UPC distinto posiblemente por versión regional, precio del competidor mucho mayor",
+  "confianza": 0.8
+ },
+ "3665f82f8a6064f64b6541faa2b6b401c2388332": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son Xiaomi Sound Outdoor de 30W, modelo inferior a la Sound Party de 50W; no son comparables en precio",
+  "confianza": 0.8
+ },
+ "3a1256d78ecf64e95820aad5f07c0a83b801d6f2": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo modelo Xiaomi Sound Pocket 5W en color rosa",
+  "confianza": 0.9
+ },
+ "d4bf87d390b6bfac236959c5b4daaf45401357ba": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo Xiaomi Sound Pocket 5W; el candidato es color rosado en lugar de azul-gris.",
+  "confianza": 0.85
+ },
+ "fea5e04e94357e1771142d1bc7df784cd4ee35e8": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo Xiaomi Sound Pocket 5W; solo cambia el color (rosado vs negro).",
+  "confianza": 0.88
+ },
+ "10269c1dcc8197cfaea3ee26e30185d9bcb6d112": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo JBL Flip 7, solo cambia el color (negro vs rojo); precio Q71 mayor en el competidor",
+  "confianza": 0.88
+ },
+ "11f1f85e7df8f665b5d1a6c8c8b7e8b0997b5f8c": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo JBL Flip 7, solo cambia el color (negro vs rosado); la potencia declarada difiere (25W vs 35W) pero es el mismo modelo",
+  "confianza": 0.88
+ },
+ "7a6d8559fd56c5644aee8112122dd38ea30d4b0c": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo JBL Flip 7, solo cambia el color (negro vs rosado)",
+  "confianza": 0.9
+ },
+ "87df3e3809a29097140d2ba911d8bda5aea1a51e": {
+  "candidato": 2,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo JBL Grip 16W, solo cambia el color (azul vs amarillo); precio del competidor notablemente mayor.",
+  "confianza": 0.85
+ },
+ "56ee839aa68506888577b466b3e9b26065730a0e": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una JBL Go 5, bocina más pequeña y de menor potencia y segmento que la JBL Grip de 16W; no son comparables en precio.",
+  "confianza": 0.85
+ },
+ "616ef795159f2c84bf3df0d34cd51bbbc33b50d5": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo JBL Flip 7, solo cambia el color (negro vs rosado); el competidor está Q370 más caro.",
+  "confianza": 0.85
+ },
+ "94df063f89f37e7e3a6cab635387324d96243c98": {
+  "candidato": 2,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo JBL Grip 16W pero en color azul (JBLGRIPBLUAM) en vez de rosa; precio no depende del color.",
+  "confianza": 0.85
+ },
+ "76b099238b357ca4b76ff1f75f6af91b01b9f67b": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo JBL Grip, pero en color negro en lugar de rosa; el competidor lo vende más caro (Q899 vs Q579).",
+  "confianza": 0.8
+ },
+ "945931dafca1a1f9c28b68ad7465d07d0458648a": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo JBL Flip 7, solo cambia el color (negro vs camuflaje); la potencia distinta en el título (25W vs 35W) es solo diferencia de descripción.",
+  "confianza": 0.88
+ },
+ "87758503186a9a7d54babe04a6b76def50530a6f": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo JBL Flip 7, solo cambia el color (negro vs camuflaje); competidor Q71 más caro",
+  "confianza": 0.88
+ },
+ "ce7a07150596c72dcbb4dc8f60757df11bd4b49d": {
+  "candidato": 2,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo JBL Grip 16W; solo cambia el color (azul vs morado)",
+  "confianza": 0.85
+ },
+ "ec19ebdd7fcbd102cfdc0a05e334c7bac23b74bd": {
+  "candidato": 3,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo JBL Flip 7, pero en color negro en lugar de camuflaje.",
+  "confianza": 0.88
+ },
+ "dfe689b770ea0a16ab09c84fe1df0f5775e6a282": {
+  "candidato": 2,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo JBL Grip 16W; solo cambia el color (negro vs camuflaje), precio de referencia del color negro.",
+  "confianza": 0.85
+ },
+ "4f3574f1ce093a501299714b95622271cc37fb7b": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es bocina; son mochilas y un mouse",
+  "confianza": 0.97
+ },
+ "a5a92a4f539455b19884d8cc9b3bceb63e0b8cdd": {
+  "candidato": 2,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo JBL Grip 16W en color azul (JBLGRIPBLUAM) en lugar de rojo; solo cambia el color.",
+  "confianza": 0.88
+ },
+ "30bd86fceef90dfe0f1ee22ffeadadb7374e068d": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo GrooveSplash KBS-030 en color rojo en vez de lila; Intelaf cobra Q29 más.",
+  "confianza": 0.88
+ },
+ "c8fd4432536d2e2e452b8d73b5f4026d37326602": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es bocina; son mochilas y un mouse",
+  "confianza": 0.97
+ },
+ "aeb46221afcb3948dc9b6dc75825c635af2ad38e": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es un soporte doble para monitores, no una bocina Bluetooth; no es comparable en precio.",
+  "confianza": 0.98
+ },
+ "1518cd61dc1935652fa894802309e801a155e53d": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es bocina; son mochilas y un mouse",
+  "confianza": 0.97
+ },
+ "1f12b20445245951e23e3ec84eef7a5176e28c08": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es bocina; son mochilas y un mouse",
+  "confianza": 0.98
+ },
+ "70d059f0d3ffebfc45beaf60102fa8a0e153c2ca": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato coincide: KSB-600 es de 300W y mucho más caro, KSB-001 de 100W y KSB-00A de 60W son de menor potencia, y KSB-230 es de 160W con subwoofer.",
+  "confianza": 0.7
+ },
+ "beddd3fc4b088027868909c5be4b18c3059cc520": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo GrooveSplash KBS-030, solo cambia el color (rojo vs negro); el competidor cobra Q14 más.",
+  "confianza": 0.9
+ },
+ "8c071106620b9103aec2da36a94558f87bf15273": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El JBL Xtreme 3 es otra marca y una bocina de gama alta y mucho mayor potencia (Q2,499 vs Q140), no comparable en precio.",
+  "confianza": 0.97
+ },
+ "ef324a6c749fe8eeca223d342581a061da614992": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son bocinas JBL de gama muy superior (PartyBox Ultimate 1100W y Boombox 3 80W), no comparables con la Clip 5 de 7W",
+  "confianza": 0.95
+ },
+ "49f5d71307eebba19f7bd072ca2a0f60db3c9984": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo JBL Clip 5 negro (UPC coincide sin dígito verificador), Click lo vende Q150 más caro",
+  "confianza": 0.95
+ },
+ "ba36a893203529f4f5e7fad5912652a395dbc48c": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es bocina; son mochilas y un mouse",
+  "confianza": 0.97
+ },
+ "607ff40e037e4447a0266117c4f4e293a5fbbc51": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo DJI Osmo Mobile 8; UPC distinto posiblemente por versión regional o empaque, color no especificado",
+  "confianza": 0.85
+ },
+ "03de8713c2055a5770289a66103d893bc0a9344f": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es una bocina; son mochilas y un mouse, no comparables en precio.",
+  "confianza": 0.98
+ },
+ "1d621998784ceab549bbac4f58622f040aad5776": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (Redmi 17 vs Redmi 15C), misma RAM y almacenamiento pero pantalla y batería mayores, precio más alto; color negro",
+  "confianza": 0.55
+ },
+ "acc85f9498c98a5f1bb5e57fd8da2af84bdeed13": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (BROCS vs Unno Tekno); hub de 4 puertos USB 3.0, el de Imeqmo combina USB 3.0 y 2.0",
+  "confianza": 0.6
+ },
+ "291193106ff1b697472e1e1d451f6f03df021eb0": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo dron DJI Flip pero con control DJI RC 2 (con pantalla) en lugar de RC-N3, lo que eleva el precio considerablemente",
+  "confianza": 0.6
+ },
+ "c9cc756afd00a958dedaf26bfe041e3e92b1b923": {
+  "candidato": 4,
+  "nivel": "exacto",
+  "diferencias": "Mismo DJI Flip; el título del competidor no especifica el control incluido (el nuestro trae RC-N3), la versión puede variar y no se pudo confirmar por UPC.",
+  "confianza": 0.6
+ },
+ "6c6dfc32cf2e799acf6098e119717f0a8ca48208": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es una mochila para laptop, no un soporte para proyector",
+  "confianza": 0.98
+ },
+ "7c25b7c934f895411328550b31b5ae567cfb09b1": {
+  "candidato": 2,
+  "nivel": "exacto",
+  "diferencias": "Mismo DJI Flip Fly More Combo con RC 2; el UPC difiere (posible versión regional/global) y el precio del competidor es Q200 mayor.",
+  "confianza": 0.85
+ },
+ "47b7662dfe111d94925a5642a74fcd769a8211b7": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un soporte doble para monitores (KPM-310), no un soporte de pared/techo para proyector.",
+  "confianza": 0.95
+ },
+ "fda0e4760f6aa20d08b10d2970787f16114a383a": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo FH02; UPC distinto (posible versión regional) y el de Imeqmo incluye TOMI Simple 2, que el competidor no menciona.",
+  "confianza": 0.8
+ },
+ "69826fe0e662146318c694033383b0812ca27bb8": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es el Epson PowerLite E24 (V11HB51021), un proyector corporativo HD de 3600 lúmenes, no el EpiqVision FH02 Full HD smart de 3000 lúmenes con TOMI; difiere en resolución, segmento y accesorio incluido.",
+  "confianza": 0.8
+ },
+ "a350c7e739e9218b9f37c049ea0c944d44dc95f0": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es solo una impresora térmica USB, no una terminal POS portátil Android con impresora integrada.",
+  "confianza": 0.95
+ },
+ "e04ffe32089a939fbbda2431cd6ad24e2e551a38": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es una pantalla secundaria; todos son cables o adaptadores AON de precio mucho menor",
+  "confianza": 0.97
+ },
+ "7d8f774926e33e611f0051eda0010285dc93df42": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es solo una impresora térmica USB, no una terminal POS portátil Android con impresora integrada; precio no comparable.",
+  "confianza": 0.95
+ },
+ "62174860ba5281b1b28c0a260c31de829d6b30d7": {
+  "candidato": 4,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto de la misma marca (TS-255 vs TS-225), también lector 2D USB de mesa/presentación; podría variar en prestaciones, precio algo mayor",
+  "confianza": 0.55
+ },
+ "cb6ae21d42a68684af6eb736096be8838c9941f6": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una impresora térmica POS, no un monitor auxiliar de 7\"; producto de otro tipo, no comparable en precio.",
+  "confianza": 0.97
+ },
+ "350ecc9f9813d0f2d4737a541c87c848229b9a73": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son solo impresoras térmicas (recibos o etiquetas), no una terminal POS portátil Android con impresora integrada; no son comparables en precio.",
+  "confianza": 0.9
+ },
+ "3e3832ed66bebf1206bf110098f5ce1c442b2eab": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es de otra marca (AON) y tiene menor capacidad (3 billetes y 4 monedas frente a 4 billetes y 8 monedas), por lo que no es comparable en precio.",
+  "confianza": 0.7
+ },
+ "dfb27453a0120c7eafd16463ea9f0b6572c80fd4": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto de la misma marca (AO-SC-1011 vs AO-SC-1013), ambos 1D/2D inalámbricos Bluetooth, pero el candidato cuesta bastante menos (Q646 vs Q1,050), lo que sugiere un segmento algo inferior",
+  "confianza": 0.5
+ },
+ "b4f3f5f921713766e1ae3d11ca99860e1a86c830": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto de la misma marca (HS-200 vs HS-275), ambos 2D alámbricos USB; el HS-275 probablemente es de gama superior, lo que explica parte de la gran diferencia de precio",
+  "confianza": 0.5
+ },
+ "04cf8c98d18cb63ba88b91cb5e834e722a4aa21f": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son conectores, coples y jacks Cat5e, no bobinas de cable de 305 m.",
+  "confianza": 0.97
+ },
+ "1cbdbb021e0feed7bf33484b2a1e67108e4584d3": {
+  "candidato": 1,
+  "nivel": "distinto",
+  "diferencias": "El candidato 1 comparte el modelo HS-250, pero tiene otro número de parte (AO-SC-1004 vs AO-SC-1003) y es la versión inalámbrica Bluetooth, lo que explica su precio más alto (Q555 vs Q390); los demás son modelos distintos.",
+  "confianza": 0.55
+ },
+ "6ba53414785472f06cd34ed63c26c3e8c808dd8a": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un adaptador WiFi AC1300 (MA30N), no un adaptador Bluetooth 5.4; es otro tipo de producto y cuesta mucho más.",
+  "confianza": 0.95
+ },
+ "8f0c0fe50a816774c34853fd1751aa954b584ba3": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son switches de 8 y 5 puertos, muy inferiores a los 24 puertos del TL-SF1024M; no comparables en precio.",
+  "confianza": 0.93
+ },
+ "e1dd22d2fc412502dcfb4afc890c0216526b7f3a": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un adaptador USB AC1300; el T2UB Nano es AC600 con Bluetooth, de menor velocidad, y los demás son routers o repetidores",
+  "confianza": 0.8
+ },
+ "0284b4bf5d9a51b23c2cb79edaafe9d5bf22b04f": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo fabricante y velocidad AC1300, pero es el Archer T3U estándar (tamaño mini, no Nano), modelo distinto de precio similar",
+  "confianza": 0.8
+ },
+ "4ab941ced1730b2e9d3043b2b458cb255c9144c7": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un adaptador Bluetooth 5.0 (UB500), no un adaptador Wi-Fi AC1300; tipo de producto distinto y más barato.",
+  "confianza": 0.96
+ },
+ "7cff16f08d80b37a737fe63e2b58bd94114b9abb": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son routers o sistemas mesh AX3000, no tarjetas de red PCIe Wi-Fi; son otro tipo de producto y de precio.",
+  "confianza": 0.95
+ },
+ "2f7249b8f932976526c4ff624e4c1691499f3ba2": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es tarjeta PCIe AX3000 Wi-Fi 6: uno es adaptador USB AC1300 y otro un repetidor Mercusys, ambos de gama y precio inferiores",
+  "confianza": 0.93
+ },
+ "1da10041f0ca8492b79e558918ecdb0fa52384b2": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es extensor AC1200: el AC10 es un router y el ME60X es un repetidor Wi‑Fi 6 AX1500 de gama superior (Q240).",
+  "confianza": 0.8
+ },
+ "62e1f29c685b985d498861bc609188785e246b20": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es comparable: el Halo H32G es Mercusys Wi-Fi 5 AC1200 (no Wi-Fi 6 AX1500) de gama inferior y el ME30 es un repetidor simple, no un sistema mesh.",
+  "confianza": 0.8
+ },
+ "b2347f2e1e172484f59e62e4e66d59d66c14cbe5": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es Deco S7 AC1900; los mesh 2-pack disponibles (Deco X20/X50) son Wi-Fi 6 de segmento superior y casi el doble de precio",
+  "confianza": 0.75
+ },
+ "3984b0581ae68f52a9194c10fd3d9de6a893208c": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un lector 1D inalámbrico: el HS-100 es alámbrico USB y los inalámbricos son 2D y más caros",
+  "confianza": 0.7
+ },
+ "b142e5dc666632422aab9c766544970ec27f8dae": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un Deco S7 AC1900; el Mercusys Halo H32G (otra marca, Mercusys) es un mesh AC1200 de gama inferior y el ME30 es un repetidor simple",
+  "confianza": 0.75
+ },
+ "25b18d3e746317294d3b158307e36328e8852198": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es tarjeta PCIe Wi-Fi 6 con Bluetooth; el Archer T4E es AC1200 Wi-Fi 5 sin Bluetooth y los demás son routers/repetidores",
+  "confianza": 0.75
+ },
+ "736b935816dcfa4704c17edc245c35af07902a37": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un adaptador USB AC1300 (Wi-Fi 5) sin Bluetooth, mientras que el nuestro es una tarjeta PCIe Wi-Fi 6 AX1800 con Bluetooth; segmento y precio distintos.",
+  "confianza": 0.93
+ },
+ "65fe49e02d980e47c7eb0df7ca0a5ac3c79b1963": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es AX5400; el más cercano (Archer AX53) es AX3000, de gama inferior y más barato",
+  "confianza": 0.8
+ },
+ "b3fe0581fe7eb7241fd377c4c69a79803c1e91b8": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un adaptador USB-C a HDMI (video), no un adaptador de red USB a Ethernet Gigabit; no son comparables en precio.",
+  "confianza": 0.97
+ },
+ "897b9243830a11d1bcb7b580973c74372f9272f6": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un adaptador USB Wi-Fi (Archer T3U), no un extensor de rango; es otro tipo de producto y no es comparable en precio.",
+  "confianza": 0.95
+ },
+ "67bef7570b357648e47a9c9ed7c08741a1220764": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son repetidores/mesh Mercusys de gama baja (AC1200 y Wifi 5), no un router WiFi 6 AX5400 como el Archer AX73",
+  "confianza": 0.95
+ },
+ "8f58b58be920e21a05900f7e791059de43d33256": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo Mercusys AC10; el título indica 300Mbps (banda 2.4GHz) y color blanco, precio casi igual",
+  "confianza": 0.95
+ },
+ "453eaa3db06e0f1c5946ab08004db14a391ff927": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es comparable: el MA30N es un adaptador AC1300 de doble banda, de segmento y precio superior al N150 de 150 Mbps; los demás son repetidor y router.",
+  "confianza": 0.85
+ },
+ "000399c4d216081e0e38410447684c5c4987cfda": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato 1 es un mesh Mercusys Halo H32G Wi-Fi 5 (AC1200), de gama inferior al Deco X20 Wi-Fi 6 AX1800; el candidato 2 es un repetidor simple Mercusys ME30",
+  "confianza": 0.8
+ },
+ "3c1a2890164310ce0361ace94829a04edd56e862": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son un repetidor Mercusys y un sistema mesh Wi-Fi 5, no un router Wi-Fi 6 AX1500 como el Archer AX12.",
+  "confianza": 0.9
+ },
+ "11e2f71f1d78aa181b11805096856ca5b87edf0d": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo fabricante pero modelo distinto (LiteWave LS1005G vs TL-SG105, carcasa plástica vs metálica), mismos 5 puertos gigabit.",
+  "confianza": 0.85
+ },
+ "00039c00b04c47f0710e1559dbcc10ba6cd6a362": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es un repetidor WiFi 300Mbps (TL-WA855RE), no un switch de 16 puertos; no es comparable en precio.",
+  "confianza": 0.97
+ },
+ "995bff4fb7b47e0f495897fb7c5517bcd74caa74": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Misma marca y misma velocidad N300; el MW325R es otro modelo, con 4 antenas de 5dBi en lugar de 3 y gama algo superior. El título de Imeqmo indica doble banda, mientras que el MW325R es de banda única.",
+  "confianza": 0.6
+ },
+ "ed1a7dfb0686548251593ae8c5f026718d56179c": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un adaptador WiFi AC600 + Bluetooth 4.2 (Archer T2UB Nano), no un adaptador solo Bluetooth 5.0 como el UB500; segmento y precio distintos.",
+  "confianza": 0.9
+ },
+ "f0d95cac8cfe785261a915855679bdda9187e3b0": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato tiene 16 puertos; todos son de 5 u 8 puertos, por lo que no son comparables en precio.",
+  "confianza": 0.88
+ },
+ "986b3900f0ecacb25e2360a2b43a60bdd752e7d4": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un adaptador Wi-Fi AC1300 (Archer T3U), no un adaptador Bluetooth; es otro tipo de producto y de precio mayor.",
+  "confianza": 0.95
+ },
+ "aca1c5e193aa1cc2a6ddcad93e8ebf7f03cd549c": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un adaptador USB Wi-Fi; todos son routers o repetidores de otro tipo y precio",
+  "confianza": 0.95
+ },
+ "497da8a9e12ff23d494116ec468128ea3bf1fc32": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un extensor N300; el ME60X es repetidor AX1500 Wi-Fi 6 de segmento superior (Q240 vs Q105) y los demás son routers.",
+  "confianza": 0.85
+ },
+ "3fb36ed3bf637603fec9440a6bfbbed43571710c": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Es el Archer T3U sin 'Plus' (sin antena externa de alta ganancia), mismo AC1300 doble banda; modelo inferior y algo más barato.",
+  "confianza": 0.8
+ },
+ "4d12a2795104d756c5ccbc211589d327b4ce25af": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un adaptador USB-C a HDMI, no un adaptador Wi-Fi USB AC1300; producto de otra categoría.",
+  "confianza": 0.97
+ },
+ "37c276a142988280e4a5aeb4422a5a9895836a4a": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un adaptador USB-C a HDMI, no un adaptador Wi-Fi USB AC600; no es comparable en precio.",
+  "confianza": 0.97
+ },
+ "aeac50c94c13ce44e56e91759d17d1a15d0fb1b5": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un adaptador USB-C a HDMI, no un adaptador Wi-Fi USB; productos de tipo distinto.",
+  "confianza": 0.97
+ },
+ "45b4855f5c3b9e5a46e96457b0f79ce35a56a91e": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un adaptador USB Wi-Fi AC1300, no un router AX3000 Wi-Fi 6; producto y segmento de precio distintos.",
+  "confianza": 0.97
+ },
+ "7eca2976009bcab0ecc04f2fdd6470d15de309ce": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es adaptador USB-C a Ethernet; son adaptadores USB-C a HDMI y USB-A a USB-C, de otro tipo y precio.",
+  "confianza": 0.95
+ },
+ "14ca3d2f92475f6f20da5732197f041e05890b26": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son un router y un repetidor, no un adaptador USB Wi-Fi; no son comparables en precio.",
+  "confianza": 0.95
+ },
+ "1ba7820585d03c7f306c339709231529bc4c8ae5": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ninguno comparable: el Archer T3U es un adaptador AC1300 de doble banda y gama superior, y el TL-WA855RE es un repetidor, no un adaptador USB de 300Mbps.",
+  "confianza": 0.85
+ },
+ "4d198f99f5c4870ff97a82977666878a826f3b0f": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un adaptador USB-C a HDMI, no un adaptador Wi-Fi USB de 300Mbps.",
+  "confianza": 0.97
+ },
+ "623e5130e6db283f6366eda8ad3f84173a00fdbe": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un adaptador USB nano N150; el Archer T2UB Nano es AC600 doble banda con Bluetooth, de segmento y precio superior",
+  "confianza": 0.85
+ },
+ "a979eabc7d0d2902b09d5596319c01f3e279cd2a": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato comparable: el Archer T3U es AC1300 doble banda (más del doble de precio) y el TL-WA855RE es un repetidor, no un adaptador USB nano N150.",
+  "confianza": 0.88
+ },
+ "15640fc17781eaa55b578c8affda1f2371e3951d": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo fabricante pero modelo distinto (LS1008 LiteWave vs TL-SF1008D), ambos 8 puertos 10/100Mbps no administrables; precio comparable",
+  "confianza": 0.85
+ },
+ "621b88b564b5ec3fa97d567a0b2f0e6478a52ebe": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es un repetidor WiFi (TL-WA855RE), no un switch de 8 puertos; no es comparable en precio.",
+  "confianza": 0.97
+ },
+ "736850cddb8d2950982cd91c69480c021815632c": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es adaptador Wi-Fi USB: uno es Bluetooth UB500 y otro USB-C a HDMI",
+  "confianza": 0.95
+ },
+ "7380f31aa338d20fe817b0ad556c071f811b08b8": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (TL-WR840N vs TL-WR841N), misma marca, misma velocidad N300 2.4GHz, 2 antenas y 4 puertos LAN; gama básica comparable",
+  "confianza": 0.8
+ },
+ "f89dbd8174d70b4f4916aae145a0b2d9ff95c42b": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un extensor N300 de 2.4GHz: el 1 es un router, y el 2 y el 3 son extensores de doble banda (AX1500/AC1200) de un segmento de precio superior.",
+  "confianza": 0.8
+ },
+ "1e0d6edd668a2e14ec6086471784931b3eeac724": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ambos candidatos son repetidores WiFi (ME30 Mercusys y TL-WA855RE), no routers de 4 puertos como el TL-WR841N; no son comparables en precio.",
+  "confianza": 0.88
+ },
+ "598711eb7708a94ff6855c7e4a42f0229b9700ef": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto de la misma marca (TL-WA855RE vs TL-WA850RE), mismo segmento de extensor 300Mbps 2.4GHz; el 855RE usa dos antenas externas y podría diferir en el puerto RJ45",
+  "confianza": 0.8
+ },
+ "2cb471663fce8b86bebccbb391b86fb03de80564": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto de APC (BVX700LU-LM vs BE700G3): misma capacidad 700VA pero gama BVX de entrada con AVR y solo 4 tomas frente a 6, más económico",
+  "confianza": 0.6
+ },
+ "838db3e90bde71eae729a8ccc42f7b258099c603": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato coincide: el FSP-821RUSBCW tiene 8 tomas, 1625W y USB; los candidatos tienen 5, 6 o 10 tomas y otras especificaciones",
+  "confianza": 0.75
+ },
+ "98be7e9bcb45654eda485852ff26ebdac028a85f": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son switches de 5 y 8 puertos, no adaptadores USB-C a Ethernet; no son comparables en precio.",
+  "confianza": 0.97
+ },
+ "4911906e43006c082ce521099ba7a0dd45ca5576": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son de 700W y 1200W, muy superiores en potencia y precio al T100 de 100W",
+  "confianza": 0.93
+ },
+ "d9137765f01a381b5021dbdbb83176d2325b7bb3": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato tiene 12 tomas con 3 USB-A y 1 USB-C; todos son modelos Forza más pequeños (4 a 6 tomas) y de menor precio.",
+  "confianza": 0.85
+ },
+ "8816276f8db8168e4e43fd13751424ca0d20ff84": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Centra vs VektorTech), misma especificación 12V 4.5Ah; precio del competidor más alto",
+  "confianza": 0.82
+ },
+ "eb242f6cadb028b8ea9339c541fd2cd2da352105": {
+  "candidato": 2,
+  "nivel": "exacto",
+  "diferencias": "Probable variante de color (B negro vs N, posiblemente otro color) del mismo modelo FVP-1201; precio Q125 vs Q100",
+  "confianza": 0.75
+ },
+ "c9bed43c196c16d654546b58979bb3c9820b565d": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato FPS-005B es una regleta básica de 6 tomas sin protección contra picos ni USB (Q29), frente a la FSP-612USBW con supresor de picos y puertos USB; segmento de precio distinto",
+  "confianza": 0.8
+ },
+ "2ab26be2a08eff2725c4959c9ba7b441804d679c": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Centra vs PowerBox), misma capacidad 12V 9Ah; Intelaf más caro.",
+  "confianza": 0.8
+ },
+ "bead62fa1c75cc4b57d212434cc4b4c66f03c4ca": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo fabricante y también con USB, pero de menor capacidad (1000VA vs 1200VA/600W); modelo distinto FVR-1011USB.",
+  "confianza": 0.6
+ },
+ "16006e5545ce2d62f49e8a5a6e3487a1598f6c79": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Modelo FVR-1011USB de menor capacidad (1000VA/500W vs 1200VA/600W), misma marca y también con USB",
+  "confianza": 0.6
+ },
+ "7ceb94ad00e295de5a0733926c396f63e8aad21c": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Centra vs PowerBox), misma especificación 12V 7Ah; precio más alto en Intelaf",
+  "confianza": 0.82
+ },
+ "3069122e106522c0804bd57fdef89f3a01832fa7": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato FSP-806 tiene 6 tomas, sin USB y estructura metálica, frente a las 11 entradas con USB del FSP-1011USBW; no es comparable en precio.",
+  "confianza": 0.88
+ },
+ "8c29fb95f7491a4fbe7832e325225a97623a7b13": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (BROCS vs PowerBox), misma batería de 12V 7Ah para UPS; el título dice '.7Ah' probablemente por error tipográfico",
+  "confianza": 0.7
+ },
+ "4d1b22039991ba0a62728b88da7f64ef4d8fadcc": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un protector de pared de 1 toma (FSP-112W, Q39), no una regleta de 11 entradas con USB; no es comparable en precio.",
+  "confianza": 0.95
+ },
+ "f88beb322cd9483218d646b78ceb63bcd1a5a307": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es Back-UPS Pro de 1100VA/600W; los BV/BVX son gama básica más barata y el BGM1500B-LM es de mayor capacidad y precio",
+  "confianza": 0.7
+ },
+ "b8ba7c112cc8075a7fd59ca6f25c96601452fa85": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Centra vs PowerBox), misma especificación 12V 5Ah; Intelaf más caro (Q194 vs Q135).",
+  "confianza": 0.8
+ },
+ "cd69ff41906376833995dd8b17a1d04a093d7aff": {
+  "candidato": 3,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto de la misma marca: BX1000M-LM60 (1000VA/600W, Back-UPS) frente a BR1100M2-LM (1100VA/600W, Back-UPS Pro con pantalla LCD); el BR es de gama superior y suele costar más.",
+  "confianza": 0.6
+ },
+ "b06192b87a747dcff73105db88d28d70ed777c89": {
+  "candidato": 3,
+  "nivel": "equivalente",
+  "diferencias": "Mismo fabricante y 750VA, pero el modelo NT-751 tiene menor potencia (375W frente a 450W), probablemente menos tomas y no tiene pantalla LCD; se trata de un modelo de gama más básica.",
+  "confianza": 0.55
+ },
+ "e0e7ff46d769163cd7ec829b8d166a485d20d525": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es BX1000M-LM60 de 1000VA/600W y 8 tomas, de menor capacidad que el BX1500M-LM60 de 1500VA/900W",
+  "confianza": 0.9
+ },
+ "e84f225f468e6be29920364da0823d592c0a49e9": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El único candidato es un UPS APC BE600M-LM de 600VA/330W con 7 tomas, de capacidad muy inferior al BR1500M2-LM de 1500VA/900W.",
+  "confianza": 0.95
+ },
+ "d4a9d2b0b181a4d06bfe12fe93075e5837f92fbd": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos Forza son de mayor capacidad (750VA/375W y 1000VA/500W) frente al NT-511 de 500VA/250W, por lo que no son comparables en precio.",
+  "confianza": 0.85
+ },
+ "274fe26259641f94fccab85e6a295bef3a1c0876": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es de 3000VA; el más cercano (FVR-2201) es de 2200VA, capacidad menor",
+  "confianza": 0.75
+ },
+ "d6d112cc1357b4381135ff9b4eb58b1906ff68a4": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Forza vs APC, marca más cara); misma capacidad 1500VA/900W, posible diferencia en número de tomas y software de gestión.",
+  "confianza": 0.6
+ },
+ "4761824dae7260ae2c46c197dc2f9d461b8a6b58": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo FVR-3001 de Forza; el título del competidor dice 300VA (probable error tipográfico), UPC distinto posiblemente por variante de color/versión (Imeqmo FVR-3001M)",
+  "confianza": 0.8
+ },
+ "119d7b116ba11cfd025051eb32876ca0950119b3": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Misma marca Forza y 6 tomas, pero modelo distinto (FPS-005B vs PS-001B), posiblemente con otras especificaciones de cable o protección",
+  "confianza": 0.6
+ },
+ "c47d6b138433193b9fc3da80d033b77ae3a7cf6f": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es FUB-1290 de 9Ah, el doble de capacidad que la FUB-1245 de 4.5Ah, por lo que no es comparable en precio",
+  "confianza": 0.93
+ },
+ "c2cb5af4b9175c8cfd31339fa1a4b99953507ce8": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Mismo fabricante y modelo distinto (FSP-10UN vs FVP-1201N); el candidato es un protector de una salida 110/240V, aparentemente sin protección RJ45. Precio similar.",
+  "confianza": 0.5
+ },
+ "d6e6eca9827f523bc51062a8292741a68172d1fe": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Otra marca (Centra en lugar de Forza), misma especificación 12V 4.5Ah; precio Q26 mayor",
+  "confianza": 0.82
+ },
+ "081f6f8580a0b786107c483842a0ce6b77d51587": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un Redmi Watch 4 (gama de entrada, Q792) y no el Xiaomi Watch S4 41mm, que pertenece a un segmento superior y tiene otro precio.",
+  "confianza": 0.9
+ },
+ "59fdc69ec47eed010c925c4f54456a6ff061e035": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un Redmi Watch 4 (gama de entrada, pantalla 1.97\") y no un Xiaomi Watch S4 41mm con correa de cuero, que es de un segmento superior y más caro.",
+  "confianza": 0.88
+ },
+ "32dbb36f1f9bb28d3c409e18d7b545f5058d08a6": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es un Redmi Watch 5 Lite de gama baja (Q449), no comparable con el Xiaomi Watch S4 41mm de gama superior",
+  "confianza": 0.93
+ },
+ "71fd2463f8afd5d51988cd70f3fe15e7fc517708": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son Redmi Watch 5/5 Lite, una línea de gama más baja que el Xiaomi Watch S4 41mm con correa de cuero, con precios muy inferiores.",
+  "confianza": 0.85
+ },
+ "899070670611bb7e8915c8ecf56fe4761d27001e": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es el Redmi Watch 4 (BHR7854GL), un modelo superior y casi el doble de precio, no el Redmi Watch 5 Lite.",
+  "confianza": 0.85
+ },
+ "40381923114c009e9d1a1042a9ddd82efc74c5e6": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es la Smart Band 9 Active (gama de entrada); son Band 8, Band 8 Pro y Band 10, de otro segmento y precio superior",
+  "confianza": 0.7
+ },
+ "17348a114f90b3634b92749448f4d801e8f2ad43": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es tóner HP 230A magenta; el 206A magenta (W2113A) es para otra impresora y tiene otro rendimiento",
+  "confianza": 0.8
+ },
+ "da1ddad6055aba367ce5c4ca4be0044595b4084b": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una botella de tinta GT52 para impresoras de tanque, no un tóner láser 230A; producto y precio no comparables.",
+  "confianza": 0.97
+ },
+ "1f227aedb3026be1b5f79a5c596be6c86167ab0b": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es tóner HP 230A cian; son tóneres negros de otros modelos (53A, 35A) o cartucho de tinta.",
+  "confianza": 0.95
+ },
+ "09575f892660c999e53b27fb8a3987ef8085d77a": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es el tóner HP 230A amarillo (W2302A); los amarillos disponibles (204A, 206A) son de otras series, incompatibles y con distinto rendimiento.",
+  "confianza": 0.8
+ },
+ "ffe02da8debac5e4850d49ac16b9f6b45e833fc8": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una botella de tinta GT52 amarilla para impresoras de tanque, no un tóner LaserJet 230A; es otro tipo de suministro con un precio muy inferior.",
+  "confianza": 0.97
+ },
+ "1cdb409d411cd257b75cba4e674bd26e60509e37": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es la bolsa de tinta T11A3 magenta; son impresoras o botellas de tinta EcoTank de otro segmento y precio.",
+  "confianza": 0.93
+ },
+ "dc9ac8086bce68fbac9b87e9a57c1a729ea93333": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ninguno es compatible: T748XXL es cartucho de alta capacidad para otra serie WorkForce Pro y T664 es botella EcoTank de 70ml, no la bolsa T11A3 de 39ml para WF-C5310/5390/5810/5890.",
+  "confianza": 0.88
+ },
+ "a350d0ff4e07ae7aeb2bd1102b7bed4594b48201": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Los candidatos son impresoras multifuncionales, no la bolsa de tinta negra de 69 ml; no son comparables en precio.",
+  "confianza": 0.97
+ },
+ "1e41806f59ab698b9ce1571d5b677ef6fb190d35": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es la bolsa de tinta negra WorkForce C5310/C5810 de 69ml; hay una botella cian claro de otra línea, un proyector y una impresora",
+  "confianza": 0.97
+ },
+ "fc0b9dbca8bfc672131bbc683b8a546457d7f10c": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es la bolsa de tinta T11A3 para WorkForce WF-C5310/C5810; todos son botellas para EcoTank/L-series o fotográficas, de otro segmento y precio mucho menor",
+  "confianza": 0.9
+ },
+ "46bed1d6c7980c4a14b6cec001cc31cad6345b80": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una impresora multifuncional (Q5,400), no una bolsa de tinta amarilla de 38 ml.",
+  "confianza": 0.98
+ },
+ "0e93447cc85f6f03b99745cf04a61335f377076d": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una impresora multifuncional, no una bolsa de tinta cian; precio no comparable",
+  "confianza": 0.98
+ },
+ "49e2aad2abe52eccdf357ea8a20760c2ca364eb0": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una botella de tinta cian claro T574520 para otra línea de impresoras, no la bolsa T941 cian de 38 ml para WorkForce WF-C5210/C5710; no es comparable en precio.",
+  "confianza": 0.95
+ },
+ "97188c1e1f989f95fb41bfadbfb04ec924e3378f": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es GI-11 cian; los GI-11 son amarillo y magenta (otros colores, Q49) y el GI-190C cian es otro modelo para otras impresoras",
+  "confianza": 0.6
+ },
+ "e2ee2299661c6473080d4757d45626d6ea52b810": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una impresora multifuncional, no una bolsa de tinta; precio y tipo de producto no comparables.",
+  "confianza": 0.98
+ },
+ "1803f2bae03d70867feaac66111d9ea7e4d21707": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es la T504 negro; los T504 disponibles son de otro color (70 ml, no 127 ml) y la T664 negro es de otra línea y menor volumen (70 ml)",
+  "confianza": 0.7
+ },
+ "93f7d7d4d09b4b739995df9ebdcc7bab173ce571": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo T664 de 70ml y misma marca, pero en color magenta en lugar de negro; precios similares por botella.",
+  "confianza": 0.6
+ },
+ "7c1fc9819706977d2e771d1456282c1cd9477fd5": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo T664 de 70ml y misma marca, pero en color magenta en lugar de amarillo; los colores suelen tener el mismo precio.",
+  "confianza": 0.7
+ },
+ "1ff1cd64afc162261d9314cfdd1ce9a2915dea96": {
+  "candidato": 4,
+  "nivel": "equivalente",
+  "diferencias": "Mismo modelo T664 de 70ml y misma marca Epson, pero color cyan en lugar de amarillo; mismo precio de línea.",
+  "confianza": 0.6
+ },
+ "e13c166c261a8b9be0437bfabcd2ca8b403161a8": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo GI-190Y amarillo 70ml; el número de parte termina en AB en vez de AC (variante regional o de empaque).",
+  "confianza": 0.88
+ },
+ "8b18d7b809cd579f3a85df37d5a4343b1932f369": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo GI-190M magenta 70ml; el sufijo regional del número de parte cambia (AB vs AC)",
+  "confianza": 0.9
+ },
+ "a2b6a592691fa254cf68ee27253bf20c1bc37142": {
+  "candidato": 2,
+  "nivel": "exacto",
+  "diferencias": "Mismo GI-190BK negro 135ml; el número de parte termina en AB en vez de AC (variante regional/empaque).",
+  "confianza": 0.88
+ },
+ "e00a7461c1b498c2bd749d121467bde78a1d2f29": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo GI-190 Cyan 70ml (0668C001), solo cambia el sufijo regional AB vs AC; Intelaf cuesta Q47 más.",
+  "confianza": 0.93
+ },
+ "80e9940052383c3b008dd522570dc1ccb930a44f": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es la impresora LX-350, no la cinta de tinta S015631; producto y precio no comparables",
+  "confianza": 0.97
+ },
+ "0464f89cae2cd76a42b86c231968f4695c16b37d": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es una cinta de impresora matricial; son proyector, impresoras y botella de tinta",
+  "confianza": 0.97
+ },
+ "3f8f14a38933a444b68dc4b4002deef40c798687": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Es el G29 (941-000111) para PlayStation/PC en lugar del G920 para Xbox/PC; misma gama y características, precio muy similar.",
+  "confianza": 0.75
+ },
+ "b0b7ec09a80c4d49588a742b57f41ea5b5749f59": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo G920 de Logitech; el UPC difiere, posiblemente por versión regional o de empaque; precio casi igual.",
+  "confianza": 0.88
+ }
+}
