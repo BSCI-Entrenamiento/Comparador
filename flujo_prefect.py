@@ -17,8 +17,10 @@ from prefect import flow, get_run_logger
 from prefect.artifacts import create_markdown_artifact
 from prefect.blocks.system import Secret
 
-# Repositorio donde se guardan los resultados (usuario/repositorio). Puede cambiarse con GITHUB_REPO.
-REPO_DATOS = os.getenv("GITHUB_REPO", "").strip() or "BSCI-Entrenamiento/Comparador"
+import config  # noqa: E402
+
+# Repositorio donde se guardan los resultados (usuario/repositorio); se define en config.GITHUB_REPO.
+REPO_DATOS = config.GITHUB_REPO
 
 
 class _HaciaPrefect(logging.Handler):

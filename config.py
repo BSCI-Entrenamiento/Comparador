@@ -75,6 +75,9 @@ CATEGORIAS_CON_SPECS = ("laptops", "computadoras")
 
 HILOS_DETALLE = 4  # páginas de producto descargadas en paralelo (solo productos nuevos)
 
+# Repositorio de GitHub donde Prefect guarda reportes y estado (rama "datos")
+GITHUB_REPO = os.getenv("GITHUB_REPO", "").strip() or "BSCI-Entrenamiento/Comparador"
+
 INTELAF_HEADERS = {
     "content-type": "application/json",
     "app-name": "intelaf-web",

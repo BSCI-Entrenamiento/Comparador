@@ -115,14 +115,14 @@ class GitHubDatos:
 
 
 def main(argv=None) -> int:
-    import config  # noqa: F401  (carga el .env)
+    import config  # carga el .env
 
     ap = argparse.ArgumentParser(prog="python -m comparador.github_datos")
     ap.add_argument("accion", choices=["subir-estado"])
     ap.add_argument("--salida", type=Path, default=Path(__file__).resolve().parent.parent / "salidas")
     args = ap.parse_args(argv)
     logging.basicConfig(level=logging.INFO, format="%(message)s")
-    gh = GitHubDatos(os.getenv("GITHUB_REPO", "").strip(), os.getenv("GITHUB_TOKEN", "").strip())
+    gh = GitHubDatos(config.GITHUB_REPO, os.getenv("GITHUB_TOKEN", "").strip())
     gh.asegurar_rama()
     subidos = gh.subir_estado(args.salida, "Estado inicial desde la PC")
     log.info("Subidos a %s (rama %s): %s", gh.repo, gh.rama, ", ".join(subidos) or "nada")
