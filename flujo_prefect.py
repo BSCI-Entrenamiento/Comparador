@@ -18,7 +18,7 @@ from prefect.artifacts import create_markdown_artifact
 from prefect.blocks.system import Secret
 
 # Repositorio donde se guardan los resultados (usuario/repositorio). Puede cambiarse con GITHUB_REPO.
-REPO_DATOS = os.getenv("GITHUB_REPO", "").strip() or "COMPLETAR/comparador-precios"
+REPO_DATOS = os.getenv("GITHUB_REPO", "").strip() or "BSCI-Entrenamiento/Comparador"
 
 
 class _HaciaPrefect(logging.Handler):
