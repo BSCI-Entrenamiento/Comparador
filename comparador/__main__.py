@@ -7,7 +7,6 @@ import argparse
 import logging
 import sys
 import time
-from datetime import datetime
 from pathlib import Path
 
 import config
@@ -141,7 +140,7 @@ def ejecutar(categorias: list[str] | None = None, sin_ia: bool = False, salida: 
     # 5. Reporte
     resumen_ia = revisor.resumen() if revisor else "IA: no usada (--sin-ia)"
     etiqueta = "-".join(categorias) if categorias else "todas"
-    nombre = f"comparacion_{etiqueta}_{datetime.now():%Y-%m-%d_%H%M}.xlsx"
+    nombre = f"comparacion_{etiqueta}_{config.ahora():%Y-%m-%d_%H%M}.xlsx"
     ruta = generar_excel(salida / nombre, alcance, productos_im, resultados, catalogos, errores, resumen_ia)
     agregar_historico(salida / "historico.csv", productos_im, resultados)
 

@@ -3,6 +3,7 @@
 Los valores privados o propios de cada equipo (API key, modelo de IA) se leen del archivo .env.
 """
 import os
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent
@@ -22,6 +23,15 @@ def cargar_env(ruta: Path) -> bool:
 
 
 cargar_env(RAIZ / ".env")
+
+# Hora de Guatemala (UTC-6, sin horario de verano) para nombres de archivo, reportes e histórico.
+# Prefect corre en servidores con hora UTC; así las fechas no dependen de dónde se ejecute.
+ZONA_HORARIA = timezone(timedelta(hours=-6), "America/Guatemala")
+
+
+def ahora() -> datetime:
+    """Fecha y hora actual en Guatemala (sin zona adjunta, para formatear igual que antes)."""
+    return datetime.now(ZONA_HORARIA).replace(tzinfo=None)
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "

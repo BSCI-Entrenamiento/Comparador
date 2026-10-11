@@ -1,6 +1,5 @@
 """Generación del Excel de comparación y del histórico de precios."""
 import csv
-from datetime import datetime
 from pathlib import Path
 
 from openpyxl import Workbook
@@ -172,7 +171,7 @@ def generar_excel(ruta: Path, alcance: str, imeqmo: list[Producto],
     wr = wb.create_sheet("Resumen")
     wr["A1"] = f"Comparación de precios — {alcance}"
     wr["A1"].font = Font(bold=True, size=14)
-    wr["A2"] = f"Generado: {datetime.now():%Y-%m-%d %H:%M}   ·   Productos Imeqmo: {len(imeqmo)}"
+    wr["A2"] = f"Generado: {config.ahora():%Y-%m-%d %H:%M}   ·   Productos Imeqmo: {len(imeqmo)}"
     wr["A3"] = resumen_ia
     _encabezado(wr, 5, ["Tienda", "Productos en catálogo", "Exactos", "Similares", "Sin coincidencia",
                         "Imeqmo más barato", "Imeqmo más caro", "Diferencia promedio (exactos)", "Estado"])
@@ -288,14 +287,14 @@ def generar_excel(ruta: Path, alcance: str, imeqmo: list[Producto],
     try:
         wb.save(ruta)
     except PermissionError:  # el archivo del mismo minuto está abierto en Excel
-        ruta = ruta.with_stem(f"{ruta.stem}_{datetime.now():%S}")
+        ruta = ruta.with_stem(f"{ruta.stem}_{config.ahora():%S}")
         wb.save(ruta)
     return ruta
 
 
 def agregar_historico(ruta: Path, imeqmo: list[Producto], resultados: dict[str, dict[str, Coincidencia]]):
     nuevo = not ruta.exists()
-    fecha = datetime.now().strftime("%Y-%m-%d %H:%M")
+    fecha = config.ahora().strftime("%Y-%m-%d %H:%M")
     with ruta.open("a", encoding="utf-8-sig" if nuevo else "utf-8", newline="") as f:
         w = csv.writer(f)
         if nuevo:

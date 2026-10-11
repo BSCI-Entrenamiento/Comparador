@@ -10,7 +10,6 @@ Requiere en Prefect Cloud dos bloques Secret:
 import logging
 import os
 import tempfile
-from datetime import datetime
 from pathlib import Path
 
 from prefect import flow, get_run_logger
@@ -90,7 +89,7 @@ def comparar_precios(categorias: list[str] | None = None, usar_ia: bool = True) 
 
         resumen = ejecutar(categorias or [], sin_ia=not usar_ia, salida=salida)
 
-        mensaje = f"Corrida {datetime.now():%Y-%m-%d %H:%M} ({resumen['alcance']})"
+        mensaje = f"Corrida {config.ahora():%Y-%m-%d %H:%M} ({resumen['alcance']})"
         enlace = gh.subir_reporte(resumen["ruta"], mensaje)
         gh.subir_estado(salida, mensaje)
         logger.info("Excel: %s", enlace)

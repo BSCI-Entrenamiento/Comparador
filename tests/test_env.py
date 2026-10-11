@@ -28,6 +28,15 @@ def test_sin_archivo(tmp_path):
     assert cargar_env(tmp_path / ".env") is False
 
 
+def test_ahora_es_hora_de_guatemala():
+    from datetime import datetime, timedelta, timezone
+
+    import config
+
+    utc = datetime.now(timezone.utc).replace(tzinfo=None)
+    assert abs((config.ahora() - (utc - timedelta(hours=6))).total_seconds()) < 5
+
+
 def test_modelo_y_esfuerzo_desde_env(monkeypatch):
     import importlib
 
