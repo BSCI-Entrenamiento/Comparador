@@ -78,6 +78,38 @@ def test_exacto_por_numero_de_parte_en_el_titulo():
     assert c.nivel == em.EXACTO_ID and c.producto is otro
 
 
+def test_claves_de_identidad_desde_el_numero_de_parte():
+    claves = lambda np_: _im("Producto", np_).specs["claves"]  # noqa: E731
+    assert claves("D5CD0UA-ABA") == {"D5CD0UAABA", "D5CD0UA"}  # sufijo de región: se quita
+    assert claves("KF548S38IB-32") == {"KF548S38IB32"}  # sufijo = capacidad: NO se quita
+    assert claves("ARCHER-T2U") == {"ARCHERT2U"}  # "ARCHER" solo no identifica nada
+    assert claves("CABLE-DE-RED") == set()  # palabras, no un número de parte
+
+
+def test_cable_de_red_no_empareja_con_extensor_hdmi():
+    sp.registrar_marcas(["MANHATTAN"])
+    im = _im("Cable de Red (Metro)", "CABLE-DE-RED", categoria="redes")
+    comp = _comp("Intelaf", "MANHATTAN 207539 EXTENSOR HDMI POR CABLE DE RED 1080 60", 600.0, "MANHATTAN")
+    assert em.emparejar(im, em.IndiceTienda([comp]), "Intelaf").nivel not in em.EXACTOS
+
+
+def test_numero_de_parte_debe_coincidir_completo():
+    sp.registrar_marcas(["TP LINK"])
+    im = _im("Adaptador de Red USB a Wi-Fi TP-Link Archer T2U Doble Banda", "ARCHER-T2U", categoria="redes")
+    otro = _comp("Intelaf", "Adaptador USB Marca Tp Link Modelo Archer T2UB Nano AC600", 250.0, "TP LINK")
+    mismo = _comp("Intelaf", "Adaptador USB Marca Tp Link Modelo Archer T2U AC600", 220.0, "TP LINK")
+    assert em.emparejar(im, em.IndiceTienda([otro]), "Intelaf").nivel not in em.EXACTOS
+    assert em.emparejar(im, em.IndiceTienda([otro, mismo]), "Intelaf").producto is mismo
+
+
+def test_kingston_32gb_no_es_exacto_de_16gb():
+    sp.registrar_marcas(["KINGSTON"])
+    im = _im("Memoria RAM DDR5 SODIMM 32GB Kingston Fury Impact 4800MHz", "KF548S38IB-32", categoria="componentes")
+    comp = _comp("Intelaf", "Memoria RAM DDR5 De 16GB Para Notebook Marca Kingston Fury KF548S38IB-16", 700.0,
+                 "KINGSTON")
+    assert em.emparejar(im, em.IndiceTienda([comp]), "Intelaf").nivel not in em.EXACTOS
+
+
 def test_mismo_codigo_de_modelo_queda_similar_para_la_ia():
     sp.registrar_marcas(["AOC"])
     im = _im('Monitor Gaming AOC 24" IPS 24G50F FHD 144Hz', "MON-AOC-X1", categoria="monitores")

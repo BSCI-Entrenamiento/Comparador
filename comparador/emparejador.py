@@ -41,6 +41,10 @@ def es_reacondicionado(p: Producto) -> bool:
 
 
 # ------------------------------------------------------------ preparación
+def _tiene_digito(texto: str) -> bool:
+    return any(ch.isdigit() for ch in texto)
+
+
 def preparar(p: Producto, es_imeqmo: bool = False) -> Producto:
     """Calcula specs y claves de identidad una sola vez por producto."""
     s = sp.extraer(p.nombre, p.marca, "" if es_imeqmo else p.texto)
@@ -50,15 +54,21 @@ def preparar(p: Producto, es_imeqmo: bool = False) -> Producto:
     claves = set()
     for codigo in fuentes:
         c = sp.compacto(codigo)
-        if len(c) >= 5:
+        # Un número de parte lleva dígitos: "CABLE-DE-RED" o "ARCHER" son palabras, no identificadores
+        if len(c) >= 5 and _tiene_digito(c):
             claves.add(c)
         partes = [sp.compacto(x) for x in sp.normalizar(codigo).replace("#", "-").split("-")]
-        # "D5CD0UA-ABA" -> también "D5CD0UA" (el sufijo es solo la región/idioma)
-        if len(partes) > 1 and len(partes[0]) >= 6 and all(len(x) <= 3 for x in partes[1:]):
+        # "D5CD0UA-ABA" -> también "D5CD0UA": solo si el sufijo son letras de región/idioma (ABA, ABM, LA).
+        # Sufijos con dígitos indican otra variante y no se quitan: KF548S38IB-32 (32 GB), ARCHER-T2U.
+        if (len(partes) > 1 and len(partes[0]) >= 6 and _tiene_digito(partes[0])
+                and all(x.isalpha() and len(x) <= 3 for x in partes[1:])):
             claves.add(partes[0])
     s["claves"] = claves
     s["codigos"] = s["codigos"] | {c for c in claves if sp._es_codigo(c)}
     s["blob"] = sp.compacto(" ".join([p.nombre, p.texto, p.no_parte, p.mpn]))
+    # Fragmentos alfanuméricos en orden ("D5CD0UA#ABA" -> D5CD0UA, ABA), para exigir que un número
+    # de parte coincida completo y no como parte de otro ("ARCHERT2U" no está en "ARCHER T2UB").
+    s["partes"] = re.findall(r"[A-Z0-9]+", sp.normalizar(" ".join([p.nombre, p.texto, p.no_parte, p.mpn])))
     s["tokens"] = {sp.compacto(t) for t in sp.normalizar(" ".join([p.nombre, p.texto, p.mpn])).split()}
     # Sin categoría (p. ej. pruebas con catálogos de laptops) se asume el modo por especificaciones.
     s["modo"] = "specs" if (not p.categoria or p.categoria.startswith(config.CATEGORIAS_CON_SPECS)) else "general"
@@ -109,15 +119,32 @@ class IndiceTienda:
 
 
 # ------------------------------------------------------------ comparaciones
+def _contiene_codigo(clave: str, s: dict) -> bool:
+    """True si `clave` aparece completa en el texto del producto: uno o varios fragmentos
+    consecutivos que, unidos, son exactamente la clave (sin letras o números pegados)."""
+    if clave not in s["blob"]:  # filtro rápido
+        return False
+    partes = s["partes"]
+    for i in range(len(partes)):
+        acumulado = ""
+        for j in range(i, min(i + 5, len(partes))):
+            acumulado += partes[j]
+            if acumulado == clave:
+                return True
+            if len(acumulado) >= len(clave) or not clave.startswith(acumulado):
+                break
+    return False
+
+
 def _identidad(a: Producto, b: Producto) -> str:
     """Motivo si a (Imeqmo) y b son el mismo producto por UPC / no. de parte / MPN."""
     if a.upc and b.upc and a.upc.lstrip("0") == b.upc.lstrip("0"):
         return f"UPC {a.upc}"
     for clave in a.specs["claves"]:
-        if (len(clave) >= 7 and clave in b.specs["blob"]) or clave in b.specs["tokens"]:
+        if (len(clave) >= 7 and _contiene_codigo(clave, b.specs)) or clave in b.specs["tokens"]:
             return f"no. de parte {clave}"
     for clave in b.specs["claves"]:
-        if len(clave) >= 7 and (clave in a.specs["claves"] or clave in a.specs["blob"]):
+        if len(clave) >= 7 and (clave in a.specs["claves"] or _contiene_codigo(clave, a.specs)):
             return f"no. de parte {clave}"
     return ""
 
