@@ -1,0 +1,406 @@
+{
+ "https://imeqmo.com/shop/1wh93usc94ah-laptop-gigabyte-aero-x16-1wh-16-wqxga-ips-165-hz-ryzen-ai-7-350-16-gb-ddr5-1-tb-ssd-rtx-5070-8-gb-gris-espacial-25866": {
+  "upc": "810162143398",
+  "codigo": "1WH93USC94AH"
+ },
+ "https://imeqmo.com/shop/83sc007rus-laptop-lenovo-loq-essential-15irx11-15-6-fhd-ips-144-hz-core-i7-13650hx-16-gb-ddr5-512-gb-ssd-rtx-5060-8-gb-negro-teclado-en-ingles-25865": {
+  "upc": "199274974336",
+  "codigo": "83SC007RUS"
+ },
+ "https://imeqmo.com/shop/d5cd0ua-aba-laptop-hp-omen-hyperx-16-am2013-16-intel-core-ultra-7-356h-16gb-ram-512gb-ssd-nvidia-geforce-rtx-5060-8gb-w11-home-negro-teclado-ingles-25860": {
+  "upc": "199896888998",
+  "codigo": "D5CD0UA#ABA"
+ },
+ "https://imeqmo.com/shop/nx-d4cal-008-laptop-acer-aspire-lite-15-6-ips-intel-core-i7-13620h-16gb-ram-512gb-ssd-intel-uhd-graphics-w11-home-plateada-teclado-ingles-25846": {
+  "upc": "195133322157",
+  "codigo": "NX.D4CAL.008"
+ },
+ "https://imeqmo.com/shop/83s0001kgj-laptop-lenovo-loq-15arp10e-15-6-amd-ryzen-7-7735hs-16gb-ram-1tb-ssd-rtx-4050-6gb-gris-luna-w11-home-teclado-espanol-mouse-m100-rgb-25845": {
+  "upc": "199272948353",
+  "codigo": "83S0001KGJ"
+ },
+ "https://imeqmo.com/shop/d6zg1la-abm-laptop-hp-omnibook-3-14-hy0030la-14-amd-ryzen-3-30-8gb-ram-512gb-ssd-amd-radeon-610m-w11-home-plateada-teclado-espanol-25820": {
+  "upc": "821844165904",
+  "codigo": "D6ZG1LA#ABM"
+ },
+ "https://imeqmo.com/shop/16-by0015dx-laptop-hp-omnibook-3-touchscreen-16-amd-ryzen-5-40-8gb-ram-256gb-ssd-amd-radeon-610m-w11-home-plateada-teclado-ingles-25798": {
+  "upc": "821844314524",
+  "codigo": "16-BY0015DX"
+ },
+ "https://imeqmo.com/shop/83va001pus-laptop-lenovo-loq-essential-15arp11-15-6-amd-ryzen-7-170-16gb-ram-512gb-ssd-rtx-5050-8gb-eclipse-black-w11-home-25790": {
+  "upc": "199275048142",
+  "codigo": "83VA001PUS"
+ },
+ "https://imeqmo.com/shop/ldb04250-7137blu-pus-laptop-dell-plus-2-en-1-14-touchscreen-intel-core-ultra-7-256v-16gb-ram-1tb-ssd-intel-arc-graphics-w11-home-azul-frio-teclado-ingles-25789": {
+  "upc": "884116483137",
+  "codigo": "LDB04250-7137BLU-PUS"
+ },
+ "https://imeqmo.com/shop/f8t7y-laptop-dell-pro-essential-pv15250-15-6-intel-core-i5-1334u-16gb-ram-512gb-ssd-intel-graphics-w11-pro-plateada-teclado-espanol-25697": {
+  "upc": "884116673668",
+  "codigo": "F8T7Y"
+ },
+ "https://imeqmo.com/shop/b2hwekg-071us-laptop-msi-cyborg-a15-15-6-amd-ryzen-7-260-16gb-ram-512gb-ssd-nvidia-geforce-rtx-5050-8gb-w11-home-negro-teclado-ingles-25632": {
+  "upc": "824142441749",
+  "codigo": "B2HWEKG-071US"
+ },
+ "https://imeqmo.com/shop/2rmtg-406us-laptop-msi-modern-15-h-15-6-touchscreen-intel-core-9-270h-32gb-ram-1tb-ssd-intel-graphics-w11-home-negro-teclado-ingles-25628": {
+  "upc": "824142429280",
+  "codigo": "2RMTG-406US"
+ },
+ "https://imeqmo.com/shop/83nm8-laptop-dell-15-dc15250-15-6-touchscreen-intel-core-i7-1355u-8gb-ram-512gb-ssd-intel-graphics-w11-home-negro-teclado-ingles-25626": {
+  "upc": "884116696032",
+  "codigo": "83NM8"
+ },
+ "https://imeqmo.com/shop/d4eu0la-abm-laptop-hp-omnibook-3-14-hu0050la-14-intel-core-5-120u-8gb-ram-512gb-ssd-intel-graphics-w11-home-glaciar-plateada-teclado-espanol-25453": {
+  "upc": "199896754361",
+  "codigo": "D4EU0LA#ABM"
+ },
+ "https://imeqmo.com/shop/ldc15250-5434blk-pus-laptop-dell-15-ldc15250-15-6-touchscreen-intel-core-i5-1334u-8gb-ram-512gb-ssd-intel-uhd-graphics-w11-home-negro-teclado-ingles-25130": {
+  "upc": "884116652434",
+  "codigo": "LDC15250-5434BLK-PUS"
+ },
+ "https://imeqmo.com/shop/d0sn6ua-aba-laptop-hp-14-dq6102dx-14-intel-celeron-n150-4gb-ram-128gb-ufs-w11s-home-azul-cielo-teclado-ingles-25125": {
+  "upc": "199764967794",
+  "codigo": "D0SN6UA#ABA"
+ },
+ "https://imeqmo.com/shop/d0sn5ua-aba-laptop-hp-14-dq6101dx-14-intel-celeron-n150-4gb-ram-128gb-ufs-w11s-home-plateado-teclado-ingles-25048": {
+  "upc": "199764967770",
+  "codigo": "D0SN5UA#ABA"
+ },
+ "https://imeqmo.com/shop/16-bu0150wm-laptop-hp-omnibook-3-16-bu0150wm-16-intel-core-ultra-5-225u-8gb-ram-512gb-ssd-intel-graphics-w11-home-mica-silver-teclado-ingles-24998": {
+  "upc": "199251842856",
+  "codigo": "16-bu0150wm"
+ },
+ "https://imeqmo.com/shop/15-fd2050wm-laptop-hp-15-fd2050wm-15-6-intel-core-ultra-5-225u-8gb-ram-512gb-ssd-intel-graphics-w11-home-plateada-teclado-ingles-24963": {
+  "upc": "199896760119",
+  "codigo": "15-fd2050wm"
+ },
+ "https://imeqmo.com/shop/d0cj4la-abm-laptop-hp-15fd0331la-15-6-intel-core-3-100u-8gb-ram-512gb-ssd-intel-uhd-w11-home-plata-teclado-espanol-24944": {
+  "upc": "199764911858",
+  "codigo": "D0CJ4LA#ABM"
+ },
+ "https://imeqmo.com/shop/bm2j0la-abm-laptop-hp-omnibook-3-15-fn0051la-15-6-amd-ryzen-ai-5-340-16gb-ram-512gb-ssd-amd-radeon-w11-home-plateada-teclado-espanol-24714": {
+  "upc": "199251842818",
+  "codigo": "BM2J0LA#ABM"
+ },
+ "https://imeqmo.com/shop/gaming-a16-cthi3us894sh-laptop-gaming-gigabyte-a16-16-165hz-wuxga-intel-core-i7-13620h-16gb-ddr5-1tb-ssd-geforce-rtx-5050-w11-home-teclado-ingles-24638": {
+  "upc": "810162142940",
+  "codigo": "GAMING A16 CTHI3US894SH"
+ },
+ "https://imeqmo.com/shop/7xnfp-laptop-dell-pro-pc14250-14-intel-core-ultra-5-225u-16gb-ram-512gb-ssd-intel-graphics-w11-pro-negro-teclado-espanol-24574": {
+  "upc": "884116673934",
+  "codigo": "7XNFP"
+ },
+ "https://imeqmo.com/shop/9kp97-laptop-dell-pro-pv15250-15-6-intel-core-i7-1355u-16gb-ram-512gb-ssd-intel-uhd-graphics-w11-pro-plateada-teclado-espanol-24241": {
+  "upc": "884116673675",
+  "codigo": "9KP97"
+ },
+ "https://imeqmo.com/shop/83gw004tfj-laptop-lenovo-v15-g5-irl-15-6-intel-core-i7-13620h-16gb-ram-512gb-ssd-intel-uhd-w11-pro-gris-teclado-espanol-24230": {
+  "upc": "",
+  "codigo": "83GW004TFJ"
+ },
+ "https://imeqmo.com/shop/y5c5c-laptop-dell-pro-pc14250-14-intel-core-ultra-5-235u-16gb-ram-512gb-ssd-intel-graphics-w11-pro-plateada-teclado-espanol-23999": {
+  "upc": "884116670919",
+  "codigo": "Y5C5C"
+ },
+ "https://imeqmo.com/shop/b14wek001us-laptop-msi-katana-15-6-gaming-intel-core-i7-14650hx-16gb-ddr5-512gb-ssd-m-2-nvidia-geforce-rtx-5050-w11-home-teclado-ingles-negra-23903": {
+  "upc": "824142390993",
+  "codigo": "B14WEK001US"
+ },
+ "https://imeqmo.com/shop/83gw004ufj-laptop-lenovo-v15-g5-irl-15-6-intel-core-i5-13420h-16gb-ram-512gb-ssd-intel-uhd-w11-pro-gris-teclado-espanol-23882": {
+  "upc": "",
+  "codigo": "83GW004UFJ"
+ },
+ "https://imeqmo.com/shop/dvrc5-laptop-dell-pro-pc16250-16-intel-core-ultra-5-235u-16gb-ram-512gb-ssd-intel-graphics-w11-pro-plateada-teclado-espanol-23877": {
+  "upc": "884116671190",
+  "codigo": "DVRC5"
+ },
+ "https://imeqmo.com/shop/lac16250-7469blu-pus-laptop-gaming-dell-alienware-aurora-16-intel-core-ultra-7-240h-16gb-ram-1tb-ssd-rtx-5060-8gb-w11-home-azul-teclado-ingles-23762": {
+  "upc": "884116430469",
+  "codigo": "LAC16250-7469BLU-PUS"
+ },
+ "https://imeqmo.com/shop/ba1u5la-abm-laptop-gaming-hp-victus-15-fa2014la-15-6-intel-core-i5-13420h-16gb-ram-512gb-ssd-rtx-3050-6gb-plata-mica-w11-home-teclado-en-espanol-23749": {
+  "upc": "198990788456",
+  "codigo": "BA1U5LA#ABM"
+ },
+ "https://imeqmo.com/shop/xf5pc-laptop-dell-pro-pc16250-16-intel-core-ultra-7-255u-16gb-ram-512gb-ssd-intel-graphics-w11-pro-plateada-teclado-espanol-23659": {
+  "upc": "884116671206",
+  "codigo": "XF5PC"
+ },
+ "https://imeqmo.com/shop/5gh0w-laptop-dell-pro-pc16250-16-intel-core-5-120u-16gb-ram-512gb-ssd-intel-graphics-w11-pro-teclado-espanol-23645": {
+  "upc": "884116671220",
+  "codigo": "5GH0W"
+ },
+ "https://imeqmo.com/shop/b9tr0la-abm-laptop-hp-15-fc027la-15-6-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-amd-radeon-graphics-w11-home-azul-teclado-espanol-23562": {
+  "upc": "198990787107",
+  "codigo": "B9TR0LA#ABM"
+ },
+ "https://imeqmo.com/shop/b9tp1la-abm-laptop-hp-15fc0250la-15-6-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-amd-radeon-610m-w11-home-azul-teclado-espanol-mochila-hp-gratis-23443": {
+  "upc": "198990787077",
+  "codigo": "B9TP1LA#ABM"
+ },
+ "https://www.intelaf.com/precios_stock_detallado/as-m1502ya-1a70": {
+  "mpn": "M1502YA-NJ572W",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/as-e1504fa-c90": {
+  "mpn": "E1504FA-BQ4461W",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/as-m1502naq-440": {
+  "mpn": "M1502NAQ-BQ037W",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/as-fa506ncg-m0j": {
+  "mpn": "FA506NCG-HN184W",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/as-m3607ha-m3y0": {
+  "mpn": "M3607HA-RP064W",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/as-fa607nug-7n0": {
+  "mpn": "FA607NUG-RL116W",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/as-fa608uh-m04h": {
+  "mpn": "FA608UH-RV006W",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/as-rg614pm-m4f0": {
+  "mpn": "G614PM-RV015W",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/as-h7606wm-ab0": {
+  "mpn": "H7606WM-SR125W",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/as-g614fp-m03d0": {
+  "mpn": "G614FP-RV028W",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/asu-g815lr-s901": {
+  "mpn": "G815LR-S9016W",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/msft-sg3i582512": {
+  "mpn": "MIC-XK1-00001-P",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/ap-neo18138256c": {
+  "mpn": "MHFD4LL/A",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/ap-neo18138256i": {
+  "mpn": "MHFF4LL/A",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/ap-neo18138256b": {
+  "mpn": "MHFH4LL/A",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/ap-neo18138256p": {
+  "mpn": "MHFA4LL/A",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/ap-neo18138512c": {
+  "mpn": "MHFE4LL/A",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/ap-neo18138512i": {
+  "mpn": "MHFG4LL/A",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/ap-neo18138512p": {
+  "mpn": "MHFC4LL/A",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/msft-p11iyh5b-r": {
+  "mpn": "FRB-MIC-IYH-00005-B",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-14-hy0050la": {
+  "mpn": "D6ZG3LA#ABM",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-14-hu0050la": {
+  "mpn": "D4EU0LA#ABM",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-15-fn0053la": {
+  "mpn": "CU9S3LA#ABM",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-14-fp0054la": {
+  "mpn": "BM2M5LA#ABM",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/dl-14pdb4250716": {
+  "mpn": "DEL-LDB04250-7137BLU-I",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-14-fk0074la": {
+  "mpn": "BM2M0LA#ABM",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/as-um3406ka-dv0": {
+  "mpn": "UM3406KA-PP147W",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/dl-p1412507165": {
+  "mpn": "2HWN3-B3",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/asu-ux8406ca-u0": {
+  "mpn": "UX8406CA-QL078W",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-om-ap0008la": {
+  "mpn": "C2DA1LA#ABM",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/len-ip-315amn8": {
+  "mpn": "82XQ012GUS",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-15fc0230la": {
+  "mpn": "B9TN5LA#ABM",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-15-fc0250la": {
+  "mpn": "B9TP1LA#ABM",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-15-fc0353la": {
+  "mpn": "D6ZM8LA#ABM",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-15-fd2350la": {
+  "mpn": "D2JV7LA#ABM",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-15fc0258la": {
+  "mpn": "B9TQ1LA#ABM",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/dl-15dc255jmf3d": {
+  "mpn": "JMF3D",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/len-ip-315irh10": {
+  "mpn": "83K100PTGJ",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-15-fc0287la": {
+  "mpn": "C92PXLA#ABM",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-15-fd0153la": {
+  "mpn": "B9TS3LA#ABM",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-15-fn0051la": {
+  "mpn": "BM2J0LA#ABM",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/msft-s6u58256n": {
+  "mpn": "MIC-ZLB-00002-B",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/msft-s6u58256p": {
+  "mpn": "MIC-ZLB-00027-P",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-15fc0272la": {
+  "mpn": "B9TR0LA#ABM",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/dl-15dc255p112f": {
+  "mpn": "VYY17",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/msi-m15b13m1097": {
+  "mpn": "MOD15131097",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/dl-15dc2504ppnh": {
+  "mpn": "4PPNH",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-15-fa2014la": {
+  "mpn": "BA1U5LA#ABM",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/dl-p15e9kp97": {
+  "mpn": "9KP97",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-fc0276la": {
+  "mpn": "B9TR4LA#ABM",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/msi-ta15b7ve214": {
+  "mpn": "MSI-B7VE-214US-B",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-15-fb3018la": {
+  "mpn": "BT4F5LA#ABM",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/msi-m15hc2rmtg4": {
+  "mpn": "MOD15HC2406",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/dl-p142502hwn3": {
+  "mpn": "2HWN3",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/msi-cy15b2hwfkg": {
+  "mpn": "CYBORGA15B2006",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-om5ag1173c-r": {
+  "mpn": "C42C9UAR#ABA-REF",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-env36ac023-r": {
+  "mpn": "FRB-HPP-9S1R6UAR#ABA-S",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-16-ag1051la": {
+  "mpn": "BM7W1LA#ABM",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/msi-pre16e13407": {
+  "mpn": "PRE16EVO13407",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/asfa608uhm04h-r": {
+  "mpn": "asfa608uhm04h-r",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/dl-a16250c71618": {
+  "mpn": "AC16250_I7RPLR161T5050WHS",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/dl-a16251c7u321": {
+  "mpn": "3000203195042.1",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/dl-a16251c9u321": {
+  "mpn": "3000203195043.3",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/msi-cy15b2rwfk": {
+  "mpn": "CYBORG15B2421",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/msi-ca15b2hwgkg": {
+  "mpn": "CYBORGA15B2096",
+  "upc": ""
+ },
+ "https://www.intelaf.com/precios_stock_detallado/hp-om-17-db1000": {
+  "mpn": "BP2H1LA#ABM",
+  "upc": ""
+ }
+}

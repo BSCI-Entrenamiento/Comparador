@@ -1,0 +1,4 @@
+.env
+salidas/
+__pycache__/
+.pytest_cache/

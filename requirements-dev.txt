@@ -1,0 +1,3 @@
+-r requirements.txt
+pytest>=8.0
+prefect>=3.8  # solo para probar flujo_prefect.py en la PC; en Prefect Cloud ya viene instalado
