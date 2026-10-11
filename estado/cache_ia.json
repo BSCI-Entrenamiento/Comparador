@@ -4048,5 +4048,113 @@
   "nivel": "distinto",
   "diferencias": "Ningún candidato es la G4180. La G3180 es un modelo inferior sin fax ni ADF, y la MAXIFY GX3010 es de otra línea y tampoco tiene fax ni ADF.",
   "confianza": 0.6
+ },
+ "1bb799289ec409a91f346605a0041cb3caf73a2d": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "ninguna",
+  "confianza": 0.95
+ },
+ "039a53fa726274efb6cb49347f656376605d800a": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El candidato es una RTX 5050 de 8GB, una GPU de otra generación y con más memoria que la RTX 3050 de 6GB, por lo que no es comparable en precio",
+  "confianza": 0.8
+ },
+ "ec6e88a6978458a133eb5a7cefcd20e6c345881f": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es SODIMM de 8GB: los SODIMM Kingston son de 16GB o 32GB (doble capacidad y precio) y el único de 8GB (KVR32N22S6/8) es DIMM de escritorio, no compatible con laptop.",
+  "confianza": 0.8
+ },
+ "d002612a147e318c038f52150050dceb06281a45": {
+  "candidato": 2,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo número de parte YDHJD (Dell Pro Slim QCS1250), Intelaf lo ofrece a Q14,457 con mouse y teclado incluidos y 24 meses de garantía",
+  "confianza": 0.95
+ },
+ "8bd76e80965f0b4ea7168f42c4a78d421408f44f": {
+  "candidato": 3,
+  "nivel": "equivalente",
+  "diferencias": "Misma marca, línea Fury Impact y capacidad de 32GB SODIMM DDR5, pero más rápida (5600MHz CL40 vs 4800MHz CL38), lo que puede justificar un precio algo mayor",
+  "confianza": 0.72
+ },
+ "a2c6f33406c1c42d072c8ad0361045c4f151b3b2": {
+  "candidato": 2,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (Redmi Buds 6 Active vs Buds 8 Lite), generación anterior y color negro en vez de blanco; mismo segmento económico TWS de Xiaomi.",
+  "confianza": 0.6
+ },
+ "64607efd7cff3981f5b462efed76b25639136a7e": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo número de parte JBLGRIPYELAM y mismo color amarillo",
+  "confianza": 0.98
+ },
+ "1a90e9b564060b96f39a2e766e38cd786d01de92": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo número de parte JBLGRIPORGAM y color naranja",
+  "confianza": 0.98
+ },
+ "0b09845b2746e99577b7fe6799b831fc7cb10647": {
+  "candidato": 5,
+  "nivel": "exacto",
+  "diferencias": "ninguna",
+  "confianza": 0.97
+ },
+ "94a6ca6301d87431a5e1095bc64c16db3be4e890": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo número de parte JBLGRIPPURAM y mismo color morado",
+  "confianza": 0.97
+ },
+ "bde1cb6d1112de3f585fed4167ede96ee4e778e7": {
+  "candidato": 3,
+  "nivel": "exacto",
+  "diferencias": "ninguna; mismo número de parte JBLGRIPORGAM en color naranja, versión US (UPC distinto)",
+  "confianza": 0.95
+ },
+ "d6eaad9e77640eebdf16f0c43cfd9c5108609c3f": {
+  "candidato": 1,
+  "nivel": "exacto",
+  "diferencias": "Mismo modelo JBL Grip 16W; solo cambia el color (negro vs rojo), precio similar entre colores",
+  "confianza": 0.85
+ },
+ "be309c37f881c2249d75c6eaacde1337b4fe850b": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un router: uno es adaptador USB Wi-Fi y otro un repetidor Mercusys, de menor precio y otro segmento",
+  "confianza": 0.93
+ },
+ "8056325ec4f9f5aad1c7ba56dd0daef673bedbab": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (Archer C50 vs C64), misma clase AC1200 doble banda; el C64 tiene puertos Gigabit y MU-MIMO, el C50 es Fast Ethernet, por lo que el C50 es algo inferior.",
+  "confianza": 0.68
+ },
+ "1c6548a62bed82b32fc0167d1f26b1ec20804225": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un adaptador USB AC1300; el más cercano (Archer T2UB Nano) es AC600 con Bluetooth, de menor velocidad",
+  "confianza": 0.8
+ },
+ "af544ca5faacdcb0e0bc260d5efa9e6a864916bc": {
+  "candidato": 1,
+  "nivel": "equivalente",
+  "diferencias": "Modelo distinto (Archer T2UB Nano): mismo AC600 doble banda pero añade Bluetooth 4.2 y formato nano, lo que justifica precio mayor.",
+  "confianza": 0.6
+ },
+ "ed951da1b1535c2f25bbd3fc20b10d5c5d45ea2d": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es un router AC1200: son un adaptador USB, un repetidor y un kit mesh, de otro tipo y segmento de precio",
+  "confianza": 0.85
+ },
+ "604830e4b7dfaa254748d3f2ea6bda355df5dc0e": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "El más cercano (Archer T3U) es AC1300, más del doble de velocidad que el T2U AC600, por lo que pertenece a otro segmento de precio; los demás son repetidores Mercusys.",
+  "confianza": 0.7
  }
 }
