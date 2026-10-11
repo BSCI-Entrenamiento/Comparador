@@ -4042,5 +4042,11 @@
   "nivel": "exacto",
   "diferencias": "Mismo modelo G920 de Logitech; el UPC difiere, posiblemente por versión regional o de empaque; precio casi igual.",
   "confianza": 0.88
+ },
+ "7317037ece72875d9ced380aee3141bd5958a1f9": {
+  "candidato": null,
+  "nivel": "distinto",
+  "diferencias": "Ningún candidato es la G4180. La G3180 es un modelo inferior sin fax ni ADF, y la MAXIFY GX3010 es de otra línea y tampoco tiene fax ni ADF.",
+  "confianza": 0.6
  }
 }
